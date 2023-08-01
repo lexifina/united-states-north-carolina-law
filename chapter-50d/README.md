@@ -1,6 +1,6 @@
 # General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders
 
-G.S. ch. 50D · 1 versions, from 2026-07-13 (latest in force: 2026-07-13) · <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html>
+G.S. ch. 50D · 1 versions, from 2023-08-01 (latest in force: 2023-08-01) · <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
