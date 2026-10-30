@@ -1,0 +1,199 @@
+{
+ "country": "US-NC",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "NC Const.",
+   "title": "Constitution of North Carolina",
+   "url": "https://www.ncleg.gov/Laws/Constitution",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "b8e828bf71f5f13ccbed7a308d1e59b6d429b1914a5c0b7fe199e2ec5ca8e8c0"
+    },
+    {
+     "from": "2022-01-28",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "9ec56ccf085b41bdade80ffed546617547b558de460a597a10c8787a1cb6a9eb"
+    },
+    {
+     "from": "2022-07-25",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "54c8966f56577fcb186d6377c86cf945f6145c2921c336d404484d9d4f2b8ac5"
+    },
+    {
+     "from": "2022-07-30",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "bfd136afd11fbff9358e8b7063b763d5e648f48adddf473f06bcbb26205068cc"
+    },
+    {
+     "from": "2023-03-21",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "4321698b11b7b731a95da22ac6d2aed9230f0bb590eef7d07225ad767a43238c"
+    },
+    {
+     "from": "2025-12-13",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "ed399c9616aeb673f02b39a14a939fd6f7a15f4433f17f185904015ec89f1c06"
+    },
+    {
+     "from": "2026-04-11",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "84829330c2a525c3e958765bf0143c91fbaca57c637ceb4a84a7bcbc6c16c18d"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "bf71ed9ab5fbd79d52ca643be5586efd3d8fe987975c70e031de002a976fcbf0"
+    },
+    {
+     "from": "2026-05-15",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "f8b8b3d958075461ad188899467cb1a5cafc5dd68a743999258c3f814c022d51"
+    },
+    {
+     "from": "2026-05-28",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "8fac00854295b196b80ddd821b01396edc53f1433fce008bee1f0a1b5389a443"
+    },
+    {
+     "from": "2026-07-10",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "decf64a0dd7e3b064c30eea5bf96e78ef93bf13a2726a0fca16f6addf64afe2d"
+    },
+    {
+     "from": "2026-07-11",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "1bc2a0bd2383263b0bb654996d9ce57a13c7d3d7e9ba583d197bed082588a84a"
+    },
+    {
+     "from": "2026-07-13",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "ea73a82517a46202d503bd66a977fc3cb3e8ef72588cb392573e9afe32c8e37d"
+    },
+    {
+     "from": "2026-09-11",
+     "units": 154,
+     "source_url": "https://www.ncleg.gov/Laws/Constitution",
+     "sha256": "b6065c12ff3cd6eb563eb46e6c37693832441d33be289347c852f5497223803e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-14",
+   "short": "G.S. ch. 14",
+   "title": "General Statutes Chapter 14: Criminal Law",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
+   "versions": [
+    {
+     "from": "2019-02-24",
+     "units": 1094,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
+     "sha256": "7050fc2d1b530cc855a6df151c0a2d08464c827f09a6e09576d8bb3673c69978"
+    },
+    {
+     "from": "2021-01-26",
+     "units": 1115,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
+     "sha256": "ac4dfc963fdc3579aa3f9a3ef492b080bfc19f19897f28c868b6004f5cc1e1b4"
+    },
+    {
+     "from": "2023-01-31",
+     "units": 1133,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
+     "sha256": "2829760485fbbebfeeafa2a4f0a5249689a0121358ff6a5844436d328880fdbc"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 1133,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
+     "sha256": "196688e7d4204e395a84a1170117d68f56491a6697740a0d95fe749a862c348a"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 1145,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
+     "sha256": "448111849b63d667765c0a05a48df844e09dac3fec4fa986546818d4db0a2432"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-55",
+   "short": "G.S. ch. 55",
+   "title": "General Statutes Chapter 55: North Carolina Business Corporation Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
+   "versions": [
+    {
+     "from": "2021-01-30",
+     "units": 297,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
+     "sha256": "13387bd75e2b778a253af6ecee10bd254ed0e17a932e17cac8e041fe93d29780"
+    },
+    {
+     "from": "2023-01-31",
+     "units": 298,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
+     "sha256": "2b0b8e360099517cd351406908b9247c25ce23a1750f73bf9b1842c4afeb4e24"
+    },
+    {
+     "from": "2025-10-06",
+     "units": 298,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
+     "sha256": "fbf75043abe019c4f8ad52e093e810477ead238d925a5938d03629fdaa2865ae"
+    },
+    {
+     "from": "2026-04-14",
+     "units": 299,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
+     "sha256": "6e58772a81444279914192100ccab036f73c3b387403970f55ce0c29d54b2375"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42",
+   "short": "G.S. ch. 42",
+   "title": "General Statutes Chapter 42: Landlord and Tenant",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
+   "versions": [
+    {
+     "from": "2021-01-30",
+     "units": 100,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
+     "sha256": "82376512a86ebdca72386edf009dd33e7831ff0df0c7ad922f704b13cb6b64a3"
+    },
+    {
+     "from": "2023-01-31",
+     "units": 101,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
+     "sha256": "d2cd8c5d96534174d5850acae11e1763d74196c8b37ce40681c4fa4d1310d43b"
+    },
+    {
+     "from": "2025-05-29",
+     "units": 102,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
+     "sha256": "40de590ba615c6529857b428d9bcde1cb5af8e8cb8e83310c707cca44637c45c"
+    },
+    {
+     "from": "2026-04-15",
+     "units": 102,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
+     "sha256": "d9ee28906ffa77c4ffa867b4236a633e4e2b2b4c7a87f6c5a8508bd415a111d1"
+    }
+   ]
+  }
+ ]
+}

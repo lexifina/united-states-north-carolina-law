@@ -1,0 +1,9 @@
+{
+  "path": "us-nc",
+  "code": "NC",
+  "name": "North Carolina",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-north-carolina-law",
+  "build": "built: Constitution; General Statutes chapters 14, 42 and 55 (Internet Archive captures)",
+  "register_date": "2026-10-30"
+}
