@@ -158,8 +158,120 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-56/` | General Statutes Chapter 56: Electric, Telegraph and Power Companies | 1 | 1 sections; capture of 2026-07-12 |
 | `chapter-57/` | General Statutes Chapter 57: Hospital, Medical and Dental Service Corporations | 1 | 1 sections; capture of 2026-09-13 |
 | `chapter-57a/` | General Statutes Chapter 57A: Health Maintenance Organization Act | 1 | 1 sections; capture of 2026-04-15 |
+| `chapter-57b/` | General Statutes Chapter 57B: Health Maintenance Organization Act | 1 | 1 sections; capture of 2026-04-19 |
+| `chapter-57c/` | General Statutes Chapter 57C: North Carolina Limited Liability Company Act | 1 | 13 sections; capture of 2026-08-13 |
+| `chapter-57d/` | General Statutes Chapter 57D: North Carolina Limited Liability Company Act | 1 | 239 sections; capture of 2026-07-12 |
+| `chapter-58/` | General Statutes Chapter 58: Insurance | 1 | 2341 sections; capture of 2026-11-08 |
+| `chapter-58a/` | General Statutes Chapter 58A: North Carolina Health Insurance Trust Commission | 1 | 1 sections; capture of 2026-04-19 |
+| `chapter-59/` | General Statutes Chapter 59: Partnership | 1 | 196 sections; capture of 2026-04-17 |
+| `chapter-59b/` | General Statutes Chapter 59B: Uniform Unincorporated Nonprofit Association Act | 1 | 15 sections; capture of 2026-04-16 |
+| `chapter-60/` | General Statutes Chapter 60: Railroads and Other Carriers | 1 | 3 sections; capture of 2026-06-12 |
+| `chapter-61/` | General Statutes Chapter 61: Religious Societies | 1 | 7 sections; capture of 2026-10-14 |
+| `chapter-62/` | General Statutes Chapter 62: Public Utilities | 1 | 334 sections; capture of 2026-05-12 |
+| `chapter-62a/` | General Statutes Chapter 62A: Public Safety Telephone Service and Wireless Telephone Service | 1 | 37 sections; capture of 2026-04-19 |
+| `chapter-63/` | General Statutes Chapter 63: Aeronautics | 1 | 97 sections; capture of 2026-04-15 |
+| `chapter-63a/` | General Statutes Chapter 63A: North Carolina Global TransPark Authority | 1 | 25 sections; capture of 2026-05-19 |
+| `chapter-64/` | General Statutes Chapter 64: Aliens | 1 | 55 sections; capture of 2026-05-14 |
+| `chapter-65/` | General Statutes Chapter 65: Cemeteries | 1 | 117 sections; capture of 2026-07-12 |
+| `chapter-66/` | General Statutes Chapter 66: Commerce and Business | 1 | 452 sections; capture of 2026-09-08 |
+| `chapter-67/` | General Statutes Chapter 67: Dogs | 1 | 25 sections; capture of 2026-09-03 |
+| `chapter-68/` | General Statutes Chapter 68: Fences and Stock Law | 1 | 22 sections; capture of 2026-07-12 |
+| `chapter-69/` | General Statutes Chapter 69: Fire Protection | 1 | 23 sections; capture of 2026-04-15 |
+| `chapter-70/` | General Statutes Chapter 70: Indian Antiquities, Archaeological Resources and Unmarked Human Skeletal Remains Protection | 1 | 45 sections; capture of 2026-08-06 |
+| `chapter-71/` | General Statutes Chapter 71: Indians | 1 | 1 sections; capture of 2026-05-13 |
+| `chapter-71a/` | General Statutes Chapter 71A: Indians | 1 | 10 sections; capture of 2026-07-12 |
+| `chapter-72/` | General Statutes Chapter 72: Inns, Hotels and Restaurants | 1 | 17 sections; capture of 2026-07-16 |
+| `chapter-73/` | General Statutes Chapter 73: Mills | 1 | 12 sections; capture of 2026-05-13 |
+| `chapter-74/` | General Statutes Chapter 74: Mines and Quarries | 1 | 79 sections; capture of 2026-07-02 |
+| `chapter-74a/` | General Statutes Chapter 74A: Company Police | 1 | 1 sections; capture of 2026-05-15 |
+| `chapter-74b/` | General Statutes Chapter 74B: Private Protective Services Act | 1 | 1 sections; capture of 2026-06-11 |
+| `chapter-74c/` | General Statutes Chapter 74C: Private Protective Services | 1 | 35 sections; capture of 2026-06-16 |
+| `chapter-74d/` | General Statutes Chapter 74D: Security Systems | 1 | 37 sections; capture of 2026-06-29 |
+| `chapter-74e/` | General Statutes Chapter 74E: Company Police Act | 1 | 13 sections; capture of 2026-04-16 |
+| `chapter-74f/` | General Statutes Chapter 74F: Locksmith Licensing Act | 1 | 19 sections; capture of 2026-06-08 |
+| `chapter-74g/` | General Statutes Chapter 74G: Campus Police Act | 1 | 14 sections; capture of 2026-04-19 |
+| `chapter-75/` | General Statutes Chapter 75: Monopolies, Trusts and Consumer Protection | 1 | 135 sections; capture of 2026-07-06 |
+| `chapter-75a/` | General Statutes Chapter 75A: Boating and Water Safety | 1 | 54 sections; capture of 2026-06-12 |
+| `chapter-75b/` | General Statutes Chapter 75B: Discrimination in Business | 1 | 7 sections; capture of 2026-06-16 |
+| `chapter-75c/` | General Statutes Chapter 75C: Motion Picture Fair Competition Act | 1 | 5 sections; capture of 2026-06-14 |
+| `chapter-75d/` | General Statutes Chapter 75D: Racketeer Influenced and Corrupt Organizations | 1 | 14 sections; capture of 2026-06-18 |
+| `chapter-75e/` | General Statutes Chapter 75E: Unlawful Activities in Connection With Certain Corporate Transactions | 1 | 9 sections; capture of 2026-08-02 |
+| `chapter-76/` | General Statutes Chapter 76: Navigation | 1 | 26 sections; capture of 2026-07-28 |
+| `chapter-76a/` | General Statutes Chapter 76A: Navigation and Pilotage Commissions | 1 | 34 sections; capture of 2026-06-17 |
+| `chapter-77/` | General Statutes Chapter 77: Rivers, Creeks, and Coastal Waters | 1 | 119 sections; capture of 2026-07-21 |
+| `chapter-78/` | General Statutes Chapter 78: Securities Law | 1 | 1 sections; capture of 2026-08-13 |
+| `chapter-78a/` | General Statutes Chapter 78A: North Carolina Securities Act | 1 | 46 sections; capture of 2026-09-16 |
+| `chapter-78b/` | General Statutes Chapter 78B: Tender Offer Disclosure Act | 1 | 1 sections; capture of 2026-04-16 |
+| `chapter-78c/` | General Statutes Chapter 78C: Investment Advisers | 1 | 53 sections; capture of 2026-08-30 |
+| `chapter-78d/` | General Statutes Chapter 78D: Commodities Act | 1 | 23 sections; capture of 2026-10-08 |
+| `chapter-79/` | General Statutes Chapter 79: Strays | 1 | 1 sections; capture of 2026-04-16 |
+| `chapter-80/` | General Statutes Chapter 80: Trademarks, Brands, etc | 1 | 51 sections; capture of 2026-04-16 |
+| `chapter-81/` | General Statutes Chapter 81: Weights and Measures | 1 | 1 sections; capture of 2026-05-13 |
+| `chapter-81a/` | General Statutes Chapter 81A: Weights and Measures Act of 1975 | 1 | 64 sections; capture of 2026-05-14 |
+| `chapter-82/` | General Statutes Chapter 82: Wrecks | 1 | 1 sections; capture of 2026-07-16 |
+| `chapter-83/` | General Statutes Chapter 83: Architects | 1 | 1 sections; capture of 2026-04-15 |
+| `chapter-83a/` | General Statutes Chapter 83A: Architects and Registered Interior Designers | 1 | 18 sections; capture of 2026-09-27 |
+| `chapter-84/` | General Statutes Chapter 84: Attorneys-at-Law | 1 | 56 sections; capture of 2026-10-19 |
+| `chapter-84a/` | General Statutes Chapter 84A: Foreign Legal Consultants | 1 | 8 sections; capture of 2026-07-16 |
+| `chapter-85/` | General Statutes Chapter 85: Auctions and Auctioneers | 1 | 1 sections; capture of 2026-04-16 |
+| `chapter-85a/` | General Statutes Chapter 85A: Bail Bondsmen and Runners | 1 | 1 sections; capture of 2026-07-15 |
+| `chapter-85b/` | General Statutes Chapter 85B: Auctions and Auctioneers | 1 | 24 sections; capture of 2026-10-08 |
+| `chapter-85c/` | General Statutes Chapter 85C: Bail Bondsmen and Runners | 1 | 1 sections; capture of 2026-04-15 |
+| `chapter-86/` | General Statutes Chapter 86: Barbers | 1 | 1 sections; capture of 2026-04-15 |
+| `chapter-86a/` | General Statutes Chapter 86A: Barbers | 1 | 28 sections; capture of 2026-08-01 |
+| `chapter-86b/` | General Statutes Chapter 86B: Barber and Electrolysis Practice Act | 1 | 53 sections; capture of 2026-04-16 |
+| `chapter-87/` | General Statutes Chapter 87: Contractors | 1 | 153 sections; capture of 2026-04-15 |
+| `chapter-88/` | General Statutes Chapter 88: Cosmetic Art | 1 | 1 sections; capture of 2026-04-21 |
+| `chapter-88a/` | General Statutes Chapter 88A: Electrolysis Practice Act | 1 | 28 sections; capture of 2026-04-19 |
+| `chapter-88b/` | General Statutes Chapter 88B: Cosmetic Art | 1 | 30 sections; capture of 2026-07-16 |
+| `chapter-89/` | General Statutes Chapter 89: Engineering and Land Surveying | 1 | 1 sections; capture of 2026-07-27 |
+| `chapter-89a/` | General Statutes Chapter 89A: Landscape Architects | 1 | 9 sections; capture of 2026-07-12 |
+| `chapter-89b/` | General Statutes Chapter 89B: Foresters | 1 | 15 sections; capture of 2026-04-19 |
+| `chapter-89c/` | General Statutes Chapter 89C: Engineering and Land Surveying | 1 | 33 sections; capture of 2026-07-16 |
+| `chapter-89d/` | General Statutes Chapter 89D: Landscape Contractors | 1 | 24 sections; capture of 2026-07-11 |
+| `chapter-89e/` | General Statutes Chapter 89E: Geologists Licensing Act | 1 | 24 sections; capture of 2026-09-16 |
+| `chapter-89f/` | General Statutes Chapter 89F: North Carolina Soil Scientist Licensing Act | 1 | 25 sections; capture of 2026-05-08 |
+| `chapter-89g/` | General Statutes Chapter 89G: Irrigation Contractors | 1 | 14 sections; capture of 2026-10-14 |
+| `chapter-90/` | General Statutes Chapter 90: Medicine and Allied Occupations | 1 | 1607 sections; capture of 2026-10-14 |
+| `chapter-90a/` | General Statutes Chapter 90A: Sanitarians and Water and Wastewater Treatment Facility Operators | 1 | 74 sections; capture of 2026-05-20 |
+| `chapter-90b/` | General Statutes Chapter 90B: Social Worker Certification and Licensure Act | 1 | 54 sections; capture of 2026-09-15 |
+| `chapter-90c/` | General Statutes Chapter 90C: North Carolina Recreational Therapy Licensure Act | 1 | 19 sections; capture of 2026-04-15 |
+| `chapter-90d/` | General Statutes Chapter 90D: Interpreters and Transliterators | 1 | 14 sections; capture of 2026-04-19 |
+| `chapter-91/` | General Statutes Chapter 91: Pawnbrokers | 1 | 1 sections; capture of 2026-08-10 |
+| `chapter-91a/` | General Statutes Chapter 91A: Pawnbrokers and Cash Converters Modernization Act | 1 | 15 sections; capture of 2026-09-10 |
+| `chapter-92/` | General Statutes Chapter 92: Photographers | 1 | 29 sections; capture of 2026-07-14 |
+| `chapter-93/` | General Statutes Chapter 93: Certified Public Accountants | 1 | 15 sections; capture of 2026-04-16 |
+| `chapter-93a/` | General Statutes Chapter 93A: Real Estate License Law | 1 | 81 sections; capture of 2026-10-13 |
+| `chapter-93b/` | General Statutes Chapter 93B: Occupational Licensing Boards | 1 | 21 sections; capture of 2026-05-12 |
+| `chapter-93c/` | General Statutes Chapter 93C: Watchmakers | 1 | 1 sections; capture of 2026-05-03 |
+| `chapter-93d/` | General Statutes Chapter 93D: North Carolina State Hearing Aid Dealers and Fitters Board | 1 | 18 sections; capture of 2026-04-15 |
+| `chapter-93e/` | General Statutes Chapter 93E: North Carolina Appraisers Act | 1 | 29 sections; capture of 2026-09-30 |
+| `chapter-94/` | General Statutes Chapter 94: Apprenticeship | 1 | 1 sections; capture of 2026-04-19 |
+| `chapter-95/` | General Statutes Chapter 95: Department of Labor and Labor Regulations | 1 | 314 sections; capture of 2026-06-17 |
+| `chapter-96/` | General Statutes Chapter 96: Employment Security | 1 | 86 sections; capture of 2026-05-11 |
+| `chapter-97/` | General Statutes Chapter 97: Workers' Compensation Act | 1 | 167 sections; capture of 2026-04-19 |
+| `chapter-98/` | General Statutes Chapter 98: Burnt and Lost Records | 1 | 19 sections; capture of 2026-05-21 |
+| `chapter-99/` | General Statutes Chapter 99: Libel and Slander | 1 | 5 sections; capture of 2026-06-26 |
+| `chapter-99a/` | General Statutes Chapter 99A: Civil Remedies for Interference With Property | 1 | 2 sections; capture of 2026-06-18 |
+| `chapter-99b/` | General Statutes Chapter 99B: Products Liability | 1 | 12 sections; capture of 2026-06-07 |
+| `chapter-99c/` | General Statutes Chapter 99C: Actions Relating to Winter Sports Safety and Accidents | 1 | 5 sections; capture of 2026-06-09 |
+| `chapter-99d/` | General Statutes Chapter 99D: Civil Rights | 1 | 1 sections; capture of 2026-07-16 |
+| `chapter-99e/` | General Statutes Chapter 99E: Special Liability Provisions | 1 | 78 sections; capture of 2026-08-22 |
+| `chapter-100/` | General Statutes Chapter 100: Monuments, Memorials and Parks | 1 | 20 sections; capture of 2026-04-16 |
+| `chapter-101/` | General Statutes Chapter 101: Names of Persons | 1 | 8 sections; capture of 2026-09-22 |
+| `chapter-102/` | General Statutes Chapter 102: Official Survey Base | 1 | 20 sections; capture of 2026-09-08 |
+| `chapter-103/` | General Statutes Chapter 103: Sundays, Holidays and Special Days | 1 | 18 sections; capture of 2026-06-09 |
+| `chapter-104/` | General Statutes Chapter 104: United States Lands | 1 | 30 sections; capture of 2026-05-31 |
+| `chapter-104a/` | General Statutes Chapter 104A: Degrees of Kinship | 1 | 1 sections; capture of 2026-05-14 |
+| `chapter-104b/` | General Statutes Chapter 104B: Hurricanes or Other Acts of Nature | 1 | 3 sections; capture of 2026-04-24 |
+| `chapter-104c/` | General Statutes Chapter 104C: Atomic Energy, Radioactivity and Ionizing Radiation | 1 | 2 sections; capture of 2026-08-28 |
+| `chapter-104d/` | General Statutes Chapter 104D: Southern States Energy Compact | 1 | 6 sections; capture of 2026-07-27 |
+| `chapter-104e/` | General Statutes Chapter 104E: North Carolina Radiation Protection Act | 1 | 35 sections; capture of 2026-09-13 |
+| `chapter-104f/` | General Statutes Chapter 104F: Southeast Interstate Low-Level Radioactive Waste Management Compact | 1 | 1 sections; capture of 2026-06-08 |
+| `chapter-104g/` | General Statutes Chapter 104G: North Carolina Low-Level Radioactive Waste Management Authority Act of 1987 | 1 | 1 sections; capture of 2026-09-05 |
+| `chapter-105/` | General Statutes Chapter 105: Taxation | 1 | 1383 sections; capture of 2026-04-16 |
 
-In all: the Constitution and 149 chapters of the General Statutes. The other chapters are not in it yet.
+In all: the Constitution and 261 chapters of the General Statutes. The other chapters are not in it yet.
 
 ## Where the text comes from
 
@@ -175,7 +287,7 @@ A version is dated by the day the Internet Archive captured the page, not by the
 
 - Changes are credited to the capture, not to the act that made them.
 - The Constitution's articles were captured on different days; each version uses each article's latest sampled capture on or before its date.
-- Only the Constitution and 149 chapters are included; a chapter whose page the Internet Archive does not hold is not.
+- Only the Constitution and 261 chapters are included; a chapter whose page the Internet Archive does not hold is not.
 
 ## How it is checked
 
