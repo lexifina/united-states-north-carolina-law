@@ -194,6 +194,1546 @@
      "sha256": "d9ee28906ffa77c4ffa867b4236a633e4e2b2b4c7a87f6c5a8508bd415a111d1"
     }
    ]
+  },
+  {
+   "slug": "chapter-1",
+   "short": "G.S. ch. 1",
+   "title": "General Statutes Chapter 1: Civil Procedure",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1.html",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 891,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1.html",
+     "sha256": "3c4d367d06615055067075b674a466b6e4478e6f8843f5cee05f142d19c6f81a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10",
+   "short": "G.S. ch. 10",
+   "title": "General Statutes Chapter 10: Notaries. [Repealed]",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10.html",
+     "sha256": "2bfd1ccfb4508ed6406729d5546f177c025e3973fc13ed494ce43bbafabe5231"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10a",
+   "short": "G.S. ch. 10A",
+   "title": "General Statutes Chapter 10A: Notaries",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10A.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10A.html",
+     "sha256": "a73460f2d16678c9ef909a52078e6b65c11250590eaa127e537aaf7db6c1ebbc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-10b",
+   "short": "G.S. ch. 10B",
+   "title": "General Statutes Chapter 10B: Notaries",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10B.html",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 175,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10B.html",
+     "sha256": "4555ea1997ab1b91e613325818c51be2701f12e1465962e40ef964e5ffc0070c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-11",
+   "short": "G.S. ch. 11",
+   "title": "General Statutes Chapter 11: Oaths",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_11.html",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 12,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_11.html",
+     "sha256": "49541393dd0791a8c1fcc77c94f9d92aac7bb691d10ddb4fe89f512eca4b1089"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-12",
+   "short": "G.S. ch. 12",
+   "title": "General Statutes Chapter 12: Statutory Construction",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_12.html",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_12.html",
+     "sha256": "f014d1781feb3332c9385ecf51a6607850244768b707ed3f5664da6288ac42ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-13",
+   "short": "G.S. ch. 13",
+   "title": "General Statutes Chapter 13: Citizenship Restored",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_13.html",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_13.html",
+     "sha256": "f665689b638d9703ccefaf4ebcc50d75cef286f5cc8390a448b9ec8ba3aca629"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15",
+   "short": "G.S. ch. 15",
+   "title": "General Statutes Chapter 15: Criminal Procedure",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15.html",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 144,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15.html",
+     "sha256": "abd468d7c71c5f88df614c1d1f9f2d215ac28f91592465359db1c646e0a44c51"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15a",
+   "short": "G.S. ch. 15A",
+   "title": "General Statutes Chapter 15A: Criminal Procedure Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15A.html",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 769,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15A.html",
+     "sha256": "8740c9d5b90c15df662be42ae4ddf49b198b9068c6d2c9a1a541fbd975d3a0d0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15b",
+   "short": "G.S. ch. 15B",
+   "title": "General Statutes Chapter 15B: Victims Compensation",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15B.html",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 38,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15B.html",
+     "sha256": "0b4bfa038511ba5caba21c869f27f9347bc144b15ec4d173d4d4996de9300617"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-15c",
+   "short": "G.S. ch. 15C",
+   "title": "General Statutes Chapter 15C: Address Confidentiality Program",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15C.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15C.html",
+     "sha256": "d7b54e17a4b15901ecd4d7162a7e1c3276698462e91712f7329ff6a7b7fa5de9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-16",
+   "short": "G.S. ch. 16",
+   "title": "General Statutes Chapter 16: Gaming Contracts and Futures",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_16.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 6,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_16.html",
+     "sha256": "e0b8dd23e1012f0c7891303d8ded95e54febe337f2213d5bbe4c5cca90219032"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17",
+   "short": "G.S. ch. 17",
+   "title": "General Statutes Chapter 17: Habeas Corpus",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 45,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17.html",
+     "sha256": "ce7b132281bf67fc0e842dca30fd9d9799f94f7b7e1386a0c42775a3d849350b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17a",
+   "short": "G.S. ch. 17A",
+   "title": "General Statutes Chapter 17A: Law-Enforcement Officers",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17A.html",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17A.html",
+     "sha256": "12c856ad40bd9d98c674e7c175303ccb3759e05afd01a51ac66837e733fcdad6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17b",
+   "short": "G.S. ch. 17B",
+   "title": "General Statutes Chapter 17B: North Carolina Criminal Justice Education and Training System",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17B.html",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17B.html",
+     "sha256": "bd32d8a7cf28477874e643f56b289ce61b6f47dca9a17c08702f33d6325b9ea4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17c",
+   "short": "G.S. ch. 17C",
+   "title": "General Statutes Chapter 17C: North Carolina Criminal Justice Education and Training Standards Commission",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17C.html",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 25,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17C.html",
+     "sha256": "d9a9089f81afa09f9555fcf2cb431d1105bfb63aa575d7be7b904702271787cc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17d",
+   "short": "G.S. ch. 17D",
+   "title": "General Statutes Chapter 17D: North Carolina Justice Academy",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17D.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17D.html",
+     "sha256": "8fe6dbf98c4defa28db75306b871d8547fe7a4466d07776de2b135203a614cb0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17e",
+   "short": "G.S. ch. 17E",
+   "title": "General Statutes Chapter 17E: North Carolina Sheriffs' Education and Training Standards Commission",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17E.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 30,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17E.html",
+     "sha256": "872350fea02ddc46158641f3e39e9dda2e81bf3ef1bc4404261e00ebf01f0249"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-17f",
+   "short": "G.S. ch. 17F",
+   "title": "General Statutes Chapter 17F: Law Enforcement",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17F.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 17,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17F.html",
+     "sha256": "911e21b1d14c32d82a915785b7c0fc941868ff91596a537396da54549bfd5483"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-18",
+   "short": "G.S. ch. 18",
+   "title": "General Statutes Chapter 18: Regulation of Intoxicating Liquors",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18.html",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18.html",
+     "sha256": "e5e62f5d69f3c98eb69cb187c54328c31dafad874fada31c66c7a36185e05dd0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-18a",
+   "short": "G.S. ch. 18A",
+   "title": "General Statutes Chapter 18A: Regulation of Intoxicating Liquors",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18A.html",
+     "sha256": "672eef7b9fd633b75c2111a616e0cd6346dc921bc3339cfe69445d57af3b0d9e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-18b",
+   "short": "G.S. ch. 18B",
+   "title": "General Statutes Chapter 18B: Regulation of Alcoholic Beverages",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18B.html",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 272,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18B.html",
+     "sha256": "6cdcb2b40975ea096dbac2714149bf2b9071c3e4ad744401e6a6ec924ca56611"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-18c",
+   "short": "G.S. ch. 18C",
+   "title": "General Statutes Chapter 18C: North Carolina State Lottery",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18C.html",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 97,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18C.html",
+     "sha256": "1288bcc94ee929220d73b50f3a88622163c4b85116edad4d15436b3ef0f92412"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-19",
+   "short": "G.S. ch. 19",
+   "title": "General Statutes Chapter 19: Offenses Against Public Morals",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_19.html",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 36,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_19.html",
+     "sha256": "3dfad94dfa7e2582ceea54d68ddf1236e9fe084b599e523d22cada47a73c1d17"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-19a",
+   "short": "G.S. ch. 19A",
+   "title": "General Statutes Chapter 19A: Protection of Animals",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_19A.html",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 55,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_19A.html",
+     "sha256": "67897f9975e963e42194f1cb42898789c1172aedf28d9ff899362cbaa82e16b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1a",
+   "short": "G.S. ch. 1A",
+   "title": "General Statutes Chapter 1A: Rules of Civil Procedure",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1A.html",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1A.html",
+     "sha256": "f22ec4904103e16da931021e435451e715aecbfff64bbbfb7fdd58b2f6ec8b97"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1b",
+   "short": "G.S. ch. 1B",
+   "title": "General Statutes Chapter 1B: Contribution",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1B.html",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 8,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1B.html",
+     "sha256": "1a6e66a7a2e38192f833d16ca0a99fed9fe0cba81e8c1eff3d0c32d9e1a79731"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1c",
+   "short": "G.S. ch. 1C",
+   "title": "General Statutes Chapter 1C: Enforcement of Judgments",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1C.html",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 71,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1C.html",
+     "sha256": "84503451ab25ecbd503810a9860ee597a1fab56b0a0046e05b97dc4a1051dd05"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1d",
+   "short": "G.S. ch. 1D",
+   "title": "General Statutes Chapter 1D: Punitive Damages",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1D.html",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1D.html",
+     "sha256": "f94f51638b139075d443ffd83beacceac432df212c35427547f5df628a10166e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1e",
+   "short": "G.S. ch. 1E",
+   "title": "General Statutes Chapter 1E: Eastern Band of Cherokee Indians and Catawba Indian Nation",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1E.html",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 20,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1E.html",
+     "sha256": "ece1892fa60d83c01a26c657baceb00edc81f3bbaa06a82967b4f9605465556f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1f",
+   "short": "G.S. ch. 1F",
+   "title": "General Statutes Chapter 1F: North Carolina Uniform Interstate Depositions and Discovery Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1F.html",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 7,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1F.html",
+     "sha256": "8cb13f9b5ea8b75c256c7dd7ccd2df28c0936470b30fe2c0f6cc737ec06a65b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-1g",
+   "short": "G.S. ch. 1G",
+   "title": "General Statutes Chapter 1G: North Carolina Choice of Law and Forum in Business Contracts Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1G.html",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1G.html",
+     "sha256": "2a8b47ebbf936377efe1eb323600b43f2f01e5914519f38d1d61dfc204402de1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-2",
+   "short": "G.S. ch. 2",
+   "title": "General Statutes Chapter 2: Clerk of Superior Court",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_2.html",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_2.html",
+     "sha256": "ac13991ca6e3902e8659ea1fe35164bfcd90d6bf3de4b4c158c90eed56c03b28"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-20",
+   "short": "G.S. ch. 20",
+   "title": "General Statutes Chapter 20: Motor Vehicles",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_20.html",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 863,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_20.html",
+     "sha256": "9ece6c83555f57fe77e1eec4cc586845aa516901c3e0ea3e6e535c330a2f3c91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-21",
+   "short": "G.S. ch. 21",
+   "title": "General Statutes Chapter 21: Bills of Lading",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_21.html",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_21.html",
+     "sha256": "7dcfbd6ccf9dda446ac23166212578ab492f886ea4b811a0bcc6e0ef4b34cdea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-22",
+   "short": "G.S. ch. 22",
+   "title": "General Statutes Chapter 22: Contracts Requiring Writing",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22.html",
+     "sha256": "65a1f22f8e6fc2869b8cde32d254c7967f6b91f5ac89e53a5de12f96b516abe8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-22a",
+   "short": "G.S. ch. 22A",
+   "title": "General Statutes Chapter 22A: Signatures",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22A.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22A.html",
+     "sha256": "306a528b2bd01aee7318d2f56e7279e36126d4e3ea63298f4aa8bd3f7ab9be97"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-22b",
+   "short": "G.S. ch. 22B",
+   "title": "General Statutes Chapter 22B: Contracts Against Public Policy",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 20,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22B.html",
+     "sha256": "304354b5a7690465dea02dcf5174372cb6662cb7fc50aa96d47758aac840aaae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-22c",
+   "short": "G.S. ch. 22C",
+   "title": "General Statutes Chapter 22C: Payments to Subcontractors",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22C.html",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 6,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22C.html",
+     "sha256": "21808f81d8827f8be40337724c5118929f76282789b95507cb46fd4ad2f6b674"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-23",
+   "short": "G.S. ch. 23",
+   "title": "General Statutes Chapter 23: Debtor and Creditor",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_23.html",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 34,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_23.html",
+     "sha256": "a7fe362a6990740a055cd6e9d466f523351699da5fc36258d8f0a42b1e27e897"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-24",
+   "short": "G.S. ch. 24",
+   "title": "General Statutes Chapter 24: Interest",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_24.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 41,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_24.html",
+     "sha256": "e728051b32c096674df024829a5e579bc3a975380e444b2853962b1e2c83ccb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25",
+   "short": "G.S. ch. 25",
+   "title": "General Statutes Chapter 25: Uniform Commercial Code",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25.html",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 646,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25.html",
+     "sha256": "2eba1f11c65c7022bf27ec3585dd6615272064b58c8285aa4f0862d5d29555c5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25a",
+   "short": "G.S. ch. 25A",
+   "title": "General Statutes Chapter 25A: Retail Installment Sales Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25A.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 46,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25A.html",
+     "sha256": "58c18d976dee6c89729cc747cf9eb616bd2e0fa4166cfbb39407e8b028ce3730"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25b",
+   "short": "G.S. ch. 25B",
+   "title": "General Statutes Chapter 25B: Credit",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25B.html",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25B.html",
+     "sha256": "f077e8595aa1ad0f66567551ee528bf810c08ed0bf61897ffdab4d8b3d9df435"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-25c",
+   "short": "G.S. ch. 25C",
+   "title": "General Statutes Chapter 25C: Sales of Artwork",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25C.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25C.html",
+     "sha256": "206f3edc25ba9133388d4c79c230fd32cffc592ebd0d53dc16d0dd95d2545ca8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-26",
+   "short": "G.S. ch. 26",
+   "title": "General Statutes Chapter 26: Suretyship",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_26.html",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_26.html",
+     "sha256": "c040e63bcb256b7da3888f12b79e104b7e456d6804c6e50df36efddd0e5f92eb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-27",
+   "short": "G.S. ch. 27",
+   "title": "General Statutes Chapter 27: Warehouse Receipts",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_27.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_27.html",
+     "sha256": "1873a9fef704d7e0edc829dccc8bd8e54db6838302db5e34c1d3783806c740d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28",
+   "short": "G.S. ch. 28",
+   "title": "General Statutes Chapter 28: Administration",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28.html",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28.html",
+     "sha256": "22a774385a6bb3e9cfc2f59b01cb0d4d1d9af150294d197a654f20391471a493"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28a",
+   "short": "G.S. ch. 28A",
+   "title": "General Statutes Chapter 28A: Administration of Decedents' Estates",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28A.html",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 237,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28A.html",
+     "sha256": "1a15326034d01d2017d8e073d615cdf83888d0cb3d027a577a105e9983c7ae71"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28b",
+   "short": "G.S. ch. 28B",
+   "title": "General Statutes Chapter 28B: Estates of Absentees in Military Service",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28B.html",
+     "sha256": "65b411c775456cc6509aa38b2cd3ef15b5a701599c5e0039791ca9fd8186afd5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-28c",
+   "short": "G.S. ch. 28C",
+   "title": "General Statutes Chapter 28C: Estates of Missing Persons",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28C.html",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 22,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28C.html",
+     "sha256": "106fe3863dce69d1870b31e14822f1942524c6cb26e2ca6fc8b0876c7457426a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-29",
+   "short": "G.S. ch. 29",
+   "title": "General Statutes Chapter 29: Intestate Succession",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_29.html",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 31,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_29.html",
+     "sha256": "391d6b90e68d9d74d03df5d22d54a166e8deceb4e5e0eabc791d64ce1f7f919e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-3",
+   "short": "G.S. ch. 3",
+   "title": "General Statutes Chapter 3: Commissioners of Affidavits and Deeds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_3.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_3.html",
+     "sha256": "a170e5dfb260d6a138c9488c018471abfc964b8e67b9c6b6e4f196e632b4e0bf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-30",
+   "short": "G.S. ch. 30",
+   "title": "General Statutes Chapter 30: Surviving Spouses",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_30.html",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 47,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_30.html",
+     "sha256": "5634ccf9127392f7f75920a08e6e0cd6eb8c99e7854dd614a4e583f59d4346c6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31",
+   "short": "G.S. ch. 31",
+   "title": "General Statutes Chapter 31: Wills",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31.html",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 67,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31.html",
+     "sha256": "c950781c0c45b05be16c5f8e9572bcbdd55b16831974d7e0e480eaba7c50bfd8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31a",
+   "short": "G.S. ch. 31A",
+   "title": "General Statutes Chapter 31A: Acts Barring Property Rights",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31A.html",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 16,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31A.html",
+     "sha256": "6686ac4e350ed09d77f3a31577e892ee57c5d4f212b676089e57446acc7f86ae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31b",
+   "short": "G.S. ch. 31B",
+   "title": "General Statutes Chapter 31B: Renunciation of Property and Renunciation of Fiduciary Powers Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31B.html",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 12,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31B.html",
+     "sha256": "2a7a211683be58a5b7167f6de007a50153147b0a15336f1a1339466f08531d49"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31c",
+   "short": "G.S. ch. 31C",
+   "title": "General Statutes Chapter 31C: (Repealed) Uniform Disposition of Community Property Rights at Death Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31C.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 12,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31C.html",
+     "sha256": "a6a778897de864d1d9dc1e985276cd3d2f13504c2265d0b975b740a6a2cad2b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-31d",
+   "short": "G.S. ch. 31D",
+   "title": "General Statutes Chapter 31D: North Carolina Uniform Powers of Appointment Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31D.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 40,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31D.html",
+     "sha256": "48b77419befcdaf652e0fc84d7ddd5c1f72b5c4f378038467e3f0629b4646a52"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32",
+   "short": "G.S. ch. 32",
+   "title": "General Statutes Chapter 32: Fiduciaries",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32.html",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 46,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32.html",
+     "sha256": "11cfa8b8bc077d2b1c33de6699aff1f5976c1fcd414a2628c8517a49ca1815a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32a",
+   "short": "G.S. ch. 32A",
+   "title": "General Statutes Chapter 32A: Powers of Attorney",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32A.html",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 40,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32A.html",
+     "sha256": "9a80a9d17eb787f1476713e2942dae5c233842e8669bd961767e218354392583"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-32c",
+   "short": "G.S. ch. 32C",
+   "title": "General Statutes Chapter 32C: North Carolina Uniform Power of Attorney Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32C.html",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 48,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32C.html",
+     "sha256": "4e0664a49ef6f11b53955840b90a4fe00354e34b907136d30b1f05a870ea3c61"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-33",
+   "short": "G.S. ch. 33",
+   "title": "General Statutes Chapter 33: Guardian and Ward",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33.html",
+     "sha256": "c2fda471a1c4731c3502aa0ace408c59f815c541756946c457c7f4d4e26fa2ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-33a",
+   "short": "G.S. ch. 33A",
+   "title": "General Statutes Chapter 33A: North Carolina Uniform Transfers to Minors Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33A.html",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 24,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33A.html",
+     "sha256": "e9699db7edafc4c752d61cd0d30dff78c9299bf29bcde254ebba61766fe9461d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-33b",
+   "short": "G.S. ch. 33B",
+   "title": "General Statutes Chapter 33B: North Carolina Uniform Custodial Trust Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33B.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 22,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33B.html",
+     "sha256": "d967be00de52fe79c3e909898845cba5834555f82151b25f48d86694f2799233"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-34",
+   "short": "G.S. ch. 34",
+   "title": "General Statutes Chapter 34: Veterans' Guardianship Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_34.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 20,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_34.html",
+     "sha256": "93741eb13c9b813fa813ddddae04565c3ad2fe2959de49e4aececf790f14f2fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35",
+   "short": "G.S. ch. 35",
+   "title": "General Statutes Chapter 35: Sterilization Procedures",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 22,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35.html",
+     "sha256": "e2c4052769042ce39a0aeba587c5d02f78d0ad571f093178937e37acc82c74a6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35a",
+   "short": "G.S. ch. 35A",
+   "title": "General Statutes Chapter 35A: Incompetency and Guardianship",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35A.html",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 164,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35A.html",
+     "sha256": "712a8e17e463246deb2093cf0161a56773d55bcbcf97a1a4a975afeb0c4533f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-35b",
+   "short": "G.S. ch. 35B",
+   "title": "General Statutes Chapter 35B: Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35B.html",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 46,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35B.html",
+     "sha256": "d8ea9e9bf24db45e9cd1ba26ce54fbbd80572d60b299fe1af179440e244ca10d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36",
+   "short": "G.S. ch. 36",
+   "title": "General Statutes Chapter 36: Trusts and Trustees",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36.html",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36.html",
+     "sha256": "d5b018cd3f19473ba86c101f0c480d6d615e6941db4468fa659ae8a891b32ec6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36a",
+   "short": "G.S. ch. 36A",
+   "title": "General Statutes Chapter 36A: Trusts and Trustees",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36A.html",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 65,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36A.html",
+     "sha256": "6ca51ab845877dbf74dae74fb50f12eeb331046db15693ad3ad1e72f02afd8c8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36b",
+   "short": "G.S. ch. 36B",
+   "title": "General Statutes Chapter 36B: Uniform Management of Institutional Funds Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36B.html",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36B.html",
+     "sha256": "0359fe9b82cc3b6cf29dc0b538a70cfbc9c1372485f2ecb257c5f5eb1b58d0eb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36c",
+   "short": "G.S. ch. 36C",
+   "title": "General Statutes Chapter 36C: North Carolina Uniform Trust Code",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36C.html",
+   "versions": [
+    {
+     "from": "2026-06-27",
+     "units": 181,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36C.html",
+     "sha256": "eb0fc1e57eea033794fbdde1b57aff3c522d0a9980cd102ef954c9b9b4389f4a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36d",
+   "short": "G.S. ch. 36D",
+   "title": "General Statutes Chapter 36D: North Carolina Community Third Party Trusts, Pooled Trusts",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36D.html",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 12,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36D.html",
+     "sha256": "b26c8a6abf2a2f44e00bd3b37c37d9000e15092b82911ded014c9f84ae6e8cc2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36e",
+   "short": "G.S. ch. 36E",
+   "title": "General Statutes Chapter 36E: Uniform Prudent Management of Institutional Funds Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36E.html",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 11,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36E.html",
+     "sha256": "4069c5f7e45239aefdc80b4cdaed909f499c4f1a08ca7201118f03603464659e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-36f",
+   "short": "G.S. ch. 36F",
+   "title": "General Statutes Chapter 36F: Revised Uniform Fiduciary Access to Digital Assets Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36F.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 18,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36F.html",
+     "sha256": "de8040eb3f0c7737fe94b87ee75c9f22f8ac04e55e68035866fb59ccbd093519"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37",
+   "short": "G.S. ch. 37",
+   "title": "General Statutes Chapter 37: Allocation of Principal and Income",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_37.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 2,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_37.html",
+     "sha256": "04d3741a2b8cc4913f22beabe13e39481123bbb9d3ffd216f8243679b2080b2f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-37a",
+   "short": "G.S. ch. 37A",
+   "title": "General Statutes Chapter 37A: Uniform Principal and Income Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_37A.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 48,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_37A.html",
+     "sha256": "9a70d6bc2e4bfd92c38ce6296bed79fcdc7accd3f44e643016a48d3ac43591e3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38",
+   "short": "G.S. ch. 38",
+   "title": "General Statutes Chapter 38: Boundaries",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38.html",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38.html",
+     "sha256": "68c71c49d1f648e7a0bcf85bd7bcdc139e74e2599722a4bfac54ef5a4b8b4cf9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38a",
+   "short": "G.S. ch. 38A",
+   "title": "General Statutes Chapter 38A: Landowner Liability",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38A.html",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38A.html",
+     "sha256": "e1263b85ec2f55a7896bc27b169b4adc110fe3234bbe0133a6ff9346dfd9f2c1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-38b",
+   "short": "G.S. ch. 38B",
+   "title": "General Statutes Chapter 38B: Trespasser Responsibility",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38B.html",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38B.html",
+     "sha256": "11ab343ebf4baec261fda7c5763db39fb6303631a0e2891b3d46ff4e44abb756"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39",
+   "short": "G.S. ch. 39",
+   "title": "General Statutes Chapter 39: Conveyances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_39.html",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 70,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_39.html",
+     "sha256": "b60b79e5546a25b2c57c3305c5a843f75ee0ef06f202316255c2d0281e6e01e3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-39a",
+   "short": "G.S. ch. 39A",
+   "title": "General Statutes Chapter 39A: Transfer Fee Covenants Prohibited",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_39A.html",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_39A.html",
+     "sha256": "f4c9eb9dee4ddb503bea33da40767f853ea1269623704cfb7d62db4b3d8ed388"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-4",
+   "short": "G.S. ch. 4",
+   "title": "General Statutes Chapter 4: Common Law",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_4.html",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_4.html",
+     "sha256": "0ab60753ee7744ca045558bb9abc2b7d4e1e02ce6e632523f2630ec38c22adb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40",
+   "short": "G.S. ch. 40",
+   "title": "General Statutes Chapter 40: Eminent Domain",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_40.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_40.html",
+     "sha256": "b0e596e742d7172aae246d088dd3ec44dfc3fc51bee9867548e191bfb81e8417"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-40a",
+   "short": "G.S. ch. 40A",
+   "title": "General Statutes Chapter 40A: Eminent Domain",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_40A.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 73,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_40A.html",
+     "sha256": "d7ad368a97a14f4efcf52417df4982d1d1eae4100d9edcf5d933fde178215c1e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41",
+   "short": "G.S. ch. 41",
+   "title": "General Statutes Chapter 41: Estates",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_41.html",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 109,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_41.html",
+     "sha256": "932ef70ce83d24397ec6d74bd69a47afb90f411f25533f69041159c01522e227"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-41a",
+   "short": "G.S. ch. 41A",
+   "title": "General Statutes Chapter 41A: State Fair Housing Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_41A.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_41A.html",
+     "sha256": "084aa189413c32aabf7a3cb1db01a1372e290d7ccdba5941b1a73cb2f7dba47a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-42a",
+   "short": "G.S. ch. 42A",
+   "title": "General Statutes Chapter 42A: Vacation Rental Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42A.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 30,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42A.html",
+     "sha256": "0455e5a357082e94134332c5775bfa8b335accbff2093d0bc57df98a13e7377d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-43",
+   "short": "G.S. ch. 43",
+   "title": "General Statutes Chapter 43: Land Registration",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_43.html",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 65,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_43.html",
+     "sha256": "b72e24a14cd8806e25d5d4b5d721730c6834d2b52c631cde36ca5a406373b90b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-44",
+   "short": "G.S. ch. 44",
+   "title": "General Statutes Chapter 44: Liens",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_44.html",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 51,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_44.html",
+     "sha256": "e9e64f4bb72df1bdc950612d4d67f2a13ccda34bb77cd83ddb6caccc1a4bba33"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-44a",
+   "short": "G.S. ch. 44A",
+   "title": "General Statutes Chapter 44A: Statutory Liens and Charges",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_44A.html",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 74,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_44A.html",
+     "sha256": "7187d1198b12166a0b5ffe8e615482c0f3db3c8787cd339f31610362e9f8f26b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-45",
+   "short": "G.S. ch. 45",
+   "title": "General Statutes Chapter 45: Mortgages and Deeds of Trust",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_45.html",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 173,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_45.html",
+     "sha256": "f6f29026b98440360497f131782336557a6ba40ea4633a4fa6b744451f8c2b2c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-45a",
+   "short": "G.S. ch. 45A",
+   "title": "General Statutes Chapter 45A: Good Funds Settlement Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_45A.html",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_45A.html",
+     "sha256": "71e0462c339cbe152e065d3ad51d596abc3cfd6ebf2eb46f4738127175831768"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-46",
+   "short": "G.S. ch. 46",
+   "title": "General Statutes Chapter 46: Partition",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_46.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 47,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_46.html",
+     "sha256": "c5713a10d9661b9fe6c1831963747b4b6e1ba14098503859e4d5c276a1975f6b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-46a",
+   "short": "G.S. ch. 46A",
+   "title": "General Statutes Chapter 46A: Partition",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_46A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 103,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_46A.html",
+     "sha256": "fa7ba4186ef9c84d5c0c3a0dcc42604159a486123fc8456f4a2ef8105b9a7962"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47",
+   "short": "G.S. ch. 47",
+   "title": "General Statutes Chapter 47: Probate and Registration",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47.html",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 207,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47.html",
+     "sha256": "a8731bbd351f54d22df8843a82ce66bed7b3ed846224b5ecdae189937120320f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47a",
+   "short": "G.S. ch. 47A",
+   "title": "General Statutes Chapter 47A: Unit Ownership",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 34,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47A.html",
+     "sha256": "8333a0620207a0150aa35308f16b8fff5701a233f4419fae5f8013d58e7db4ac"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47b",
+   "short": "G.S. ch. 47B",
+   "title": "General Statutes Chapter 47B: Real Property Marketable Title Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47B.html",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 9,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47B.html",
+     "sha256": "d53097d8c50271a6a894f13b70151af2ed7ebcd0f1c7d42c35e2f66e1e74b095"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5",
+   "short": "G.S. ch. 5",
+   "title": "General Statutes Chapter 5: Contempt",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5.html",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5.html",
+     "sha256": "e21d31fb483db1dfb96b3813f1d791887c61761c4bb67b99c6ff3c20a2954d6c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-5a",
+   "short": "G.S. ch. 5A",
+   "title": "General Statutes Chapter 5A: Contempt",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5A.html",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 34,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5A.html",
+     "sha256": "75f22be8e433a29c53c12cf65eb4cdfaaaca355398c8bbc5aa3ac87bddd761f2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-6",
+   "short": "G.S. ch. 6",
+   "title": "General Statutes Chapter 6: Liability for Court Costs",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_6.html",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 58,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_6.html",
+     "sha256": "f1b3832aae3f4955332d69775edd770c52fced5674bf4a971a5b34934c2b0e29"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7",
+   "short": "G.S. ch. 7",
+   "title": "General Statutes Chapter 7: Courts",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7.html",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7.html",
+     "sha256": "18832c1714105bdbccda554d8ad1dd60ba6c2526626fe71d7b88bf2dd29c496f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7a",
+   "short": "G.S. ch. 7A",
+   "title": "General Statutes Chapter 7A: Judicial Department",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7A.html",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 711,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7A.html",
+     "sha256": "ff00d6a6b65c4dab918316d922c317d9aede0fa64f449919b3c58290fceb87ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-7b",
+   "short": "G.S. ch. 7B",
+   "title": "General Statutes Chapter 7B: Juvenile Code",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7B.html",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 669,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7B.html",
+     "sha256": "3483a59af019285e269bea5e36f2c831ee13b00ae21e02402b3c6f27f4edee8e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8",
+   "short": "G.S. ch. 8",
+   "title": "General Statutes Chapter 8: Evidence",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8.html",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 191,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8.html",
+     "sha256": "f921af1ab50dc93544145cb7a5d7924b1fcb8eef1e0d38bf300139d6eb6cde10"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8a",
+   "short": "G.S. ch. 8A",
+   "title": "General Statutes Chapter 8A: Interpreters for Deaf Persons",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8A.html",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8A.html",
+     "sha256": "d7079075f4d002ca0e17ce20da831de528309b0500d807b8797b961dcfd04f3d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8b",
+   "short": "G.S. ch. 8B",
+   "title": "General Statutes Chapter 8B: Interpreters for Deaf Persons",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8B.html",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8B.html",
+     "sha256": "28cdf78eb12205a3d2ab27d8451c63bd929c3d51b9571355c9eb793259bbf08f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-8c",
+   "short": "G.S. ch. 8C",
+   "title": "General Statutes Chapter 8C: Evidence Code",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8C.html",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8C.html",
+     "sha256": "64efac721cd18cd83379a2f99cb55c469de2b7c3abdc0e8d106506c384d6e789"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-9",
+   "short": "G.S. ch. 9",
+   "title": "General Statutes Chapter 9: Jurors",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_9.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 28,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_9.html",
+     "sha256": "5548127e3ee3e8615be2b38496c2fc32cb42060fc2dc07332868dd9b757f075b"
+    }
+   ]
   }
  ]
 }
