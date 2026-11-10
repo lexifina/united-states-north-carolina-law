@@ -122,8 +122,44 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-47/` | General Statutes Chapter 47: Probate and Registration | 1 | 207 sections; capture of 2026-10-09 |
 | `chapter-47a/` | General Statutes Chapter 47A: Unit Ownership | 1 | 34 sections; capture of 2026-04-15 |
 | `chapter-47b/` | General Statutes Chapter 47B: Real Property Marketable Title Act | 1 | 9 sections; capture of 2026-08-08 |
+| `chapter-47c/` | General Statutes Chapter 47C: North Carolina Condominium Act | 1 | 76 sections; capture of 2026-06-06 |
+| `chapter-47d/` | General Statutes Chapter 47D: Notice of Settlement Act | 1 | 1 sections; capture of 2026-05-15 |
+| `chapter-47e/` | General Statutes Chapter 47E: Residential Property Disclosure Act | 1 | 11 sections; capture of 2026-04-27 |
+| `chapter-47f/` | General Statutes Chapter 47F: North Carolina Planned Community Act | 1 | 42 sections; capture of 2026-05-07 |
+| `chapter-47g/` | General Statutes Chapter 47G: Option to Purchase Contracts Executed With Lease Agreements | 1 | 7 sections; capture of 2026-04-15 |
+| `chapter-47h/` | General Statutes Chapter 47H: Contracts for Deed | 1 | 8 sections; capture of 2026-10-08 |
+| `chapter-48/` | General Statutes Chapter 48: Adoptions | 1 | 122 sections; capture of 2026-07-30 |
+| `chapter-48a/` | General Statutes Chapter 48A: Minors | 1 | 13 sections; capture of 2026-07-11 |
+| `chapter-49/` | General Statutes Chapter 49: Children Born Out of Wedlock | 1 | 19 sections; capture of 2026-09-06 |
+| `chapter-49a/` | General Statutes Chapter 49A: Rights of Children | 1 | 1 sections; capture of 2026-04-20 |
+| `chapter-50/` | General Statutes Chapter 50: Divorce and Alimony | 1 | 129 sections; capture of 2026-06-18 |
+| `chapter-50a/` | General Statutes Chapter 50A: Uniform Acts on Children | 1 | 131 sections; capture of 2026-06-14 |
+| `chapter-50b/` | General Statutes Chapter 50B: Domestic Violence | 1 | 13 sections; capture of 2026-10-09 |
+| `chapter-50c/` | General Statutes Chapter 50C: Civil No-Contact Orders | 1 | 11 sections; capture of 2026-05-14 |
+| `chapter-50d/` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 11 sections; capture of 2026-07-13 |
+| `chapter-51/` | General Statutes Chapter 51: Marriage | 1 | 30 sections; capture of 2026-09-27 |
+| `chapter-52/` | General Statutes Chapter 52: Powers and Liabilities of Married Persons | 1 | 16 sections; capture of 2026-04-15 |
+| `chapter-52a/` | General Statutes Chapter 52A: Uniform Reciprocal Enforcement of Support Act | 1 | 1 sections; capture of 2026-06-12 |
+| `chapter-52b/` | General Statutes Chapter 52B: Uniform Premarital Agreement Act | 1 | 11 sections; capture of 2026-10-11 |
+| `chapter-52c/` | General Statutes Chapter 52C: Uniform Interstate Family Support Act | 1 | 78 sections; capture of 2026-10-28 |
+| `chapter-53/` | General Statutes Chapter 53: Regulation of Financial Services | 1 | 579 sections; capture of 2026-07-12 |
+| `chapter-53a/` | General Statutes Chapter 53A: Business Development Corporations and North Carolina Capital Resource Corporations | 1 | 29 sections; capture of 2026-05-28 |
+| `chapter-53b/` | General Statutes Chapter 53B: Financial Privacy Act | 1 | 10 sections; capture of 2026-04-19 |
+| `chapter-53c/` | General Statutes Chapter 53C: Regulation of Banks | 1 | 118 sections; capture of 2026-07-31 |
+| `chapter-54/` | General Statutes Chapter 54: Cooperative Organizations | 1 | 207 sections; capture of 2026-07-16 |
+| `chapter-54a/` | General Statutes Chapter 54A: Capital Stock Savings and Loan Associations | 1 | 1 sections; capture of 2026-04-15 |
+| `chapter-54b/` | General Statutes Chapter 54B: Savings and Loan Associations | 1 | 200 sections; capture of 2026-04-15 |
+| `chapter-54c/` | General Statutes Chapter 54C: Savings Banks | 1 | 153 sections; capture of 2026-07-23 |
+| `chapter-54d/` | General Statutes Chapter 54D: Uniform Special Deposits Act | 1 | 15 sections; capture of 2026-07-13 |
+| `chapter-55a/` | General Statutes Chapter 55A: North Carolina Nonprofit Corporation Act | 1 | 215 sections; capture of 2026-04-16 |
+| `chapter-55b/` | General Statutes Chapter 55B: Professional Corporation Act | 1 | 16 sections; capture of 2026-05-17 |
+| `chapter-55c/` | General Statutes Chapter 55C: Foreign Trade Zones | 1 | 4 sections; capture of 2026-04-15 |
+| `chapter-55d/` | General Statutes Chapter 55D: Filings, Names, and Registered Agents for Corporations, Nonprofit Corporations, and Partnerships | 1 | 26 sections; capture of 2026-04-19 |
+| `chapter-56/` | General Statutes Chapter 56: Electric, Telegraph and Power Companies | 1 | 1 sections; capture of 2026-07-12 |
+| `chapter-57/` | General Statutes Chapter 57: Hospital, Medical and Dental Service Corporations | 1 | 1 sections; capture of 2026-09-13 |
+| `chapter-57a/` | General Statutes Chapter 57A: Health Maintenance Organization Act | 1 | 1 sections; capture of 2026-04-15 |
 
-In all: the Constitution and 113 chapters of the General Statutes. The other chapters are not in it yet.
+In all: the Constitution and 149 chapters of the General Statutes. The other chapters are not in it yet.
 
 ## Where the text comes from
 
@@ -139,7 +175,7 @@ A version is dated by the day the Internet Archive captured the page, not by the
 
 - Changes are credited to the capture, not to the act that made them.
 - The Constitution's articles were captured on different days; each version uses each article's latest sampled capture on or before its date.
-- Only the Constitution and 113 chapters are included; a chapter whose page the Internet Archive does not hold is not.
+- Only the Constitution and 149 chapters are included; a chapter whose page the Internet Archive does not hold is not.
 
 ## How it is checked
 

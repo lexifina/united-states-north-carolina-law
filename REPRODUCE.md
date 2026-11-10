@@ -106,7 +106,43 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | North Carolina General Assembly: General Statutes Chapter 47 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 47A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 47B (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 47C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 47D (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 47E (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47E.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 47F (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47F.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 47G (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47G.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 47H (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 48 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 48A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 49 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 49A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 5 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 50 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 50A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 50B (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 50C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 50D (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 51 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_51.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 52 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 52A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 52B (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 52C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 53 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 53A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 53B (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 53C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 54 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 54A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 54B (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 54C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 54D (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 55A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 55B (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 55C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 55D (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 56 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_56.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 57 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly: General Statutes Chapter 57A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 5A (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 6 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_6.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 7 (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
@@ -227,7 +263,43 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-47` | General Statutes Chapter 47: Probate and Registration | 1 | 2026-10-09 to 2026-10-09 |
 | `chapter-47a` | General Statutes Chapter 47A: Unit Ownership | 1 | 2026-04-15 to 2026-04-15 |
 | `chapter-47b` | General Statutes Chapter 47B: Real Property Marketable Title Act | 1 | 2026-08-08 to 2026-08-08 |
+| `chapter-47c` | General Statutes Chapter 47C: North Carolina Condominium Act | 1 | 2026-06-06 to 2026-06-06 |
+| `chapter-47d` | General Statutes Chapter 47D: Notice of Settlement Act | 1 | 2026-05-15 to 2026-05-15 |
+| `chapter-47e` | General Statutes Chapter 47E: Residential Property Disclosure Act | 1 | 2026-04-27 to 2026-04-27 |
+| `chapter-47f` | General Statutes Chapter 47F: North Carolina Planned Community Act | 1 | 2026-05-07 to 2026-05-07 |
+| `chapter-47g` | General Statutes Chapter 47G: Option to Purchase Contracts Executed With Lease Agreements | 1 | 2026-04-15 to 2026-04-15 |
+| `chapter-47h` | General Statutes Chapter 47H: Contracts for Deed | 1 | 2026-10-08 to 2026-10-08 |
+| `chapter-48` | General Statutes Chapter 48: Adoptions | 1 | 2026-07-30 to 2026-07-30 |
+| `chapter-48a` | General Statutes Chapter 48A: Minors | 1 | 2026-07-11 to 2026-07-11 |
+| `chapter-49` | General Statutes Chapter 49: Children Born Out of Wedlock | 1 | 2026-09-06 to 2026-09-06 |
+| `chapter-49a` | General Statutes Chapter 49A: Rights of Children | 1 | 2026-04-20 to 2026-04-20 |
 | `chapter-5` | General Statutes Chapter 5: Contempt | 1 | 2026-07-11 to 2026-07-11 |
+| `chapter-50` | General Statutes Chapter 50: Divorce and Alimony | 1 | 2026-06-18 to 2026-06-18 |
+| `chapter-50a` | General Statutes Chapter 50A: Uniform Acts on Children | 1 | 2026-06-14 to 2026-06-14 |
+| `chapter-50b` | General Statutes Chapter 50B: Domestic Violence | 1 | 2026-10-09 to 2026-10-09 |
+| `chapter-50c` | General Statutes Chapter 50C: Civil No-Contact Orders | 1 | 2026-05-14 to 2026-05-14 |
+| `chapter-50d` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 2026-07-13 to 2026-07-13 |
+| `chapter-51` | General Statutes Chapter 51: Marriage | 1 | 2026-09-27 to 2026-09-27 |
+| `chapter-52` | General Statutes Chapter 52: Powers and Liabilities of Married Persons | 1 | 2026-04-15 to 2026-04-15 |
+| `chapter-52a` | General Statutes Chapter 52A: Uniform Reciprocal Enforcement of Support Act | 1 | 2026-06-12 to 2026-06-12 |
+| `chapter-52b` | General Statutes Chapter 52B: Uniform Premarital Agreement Act | 1 | 2026-10-11 to 2026-10-11 |
+| `chapter-52c` | General Statutes Chapter 52C: Uniform Interstate Family Support Act | 1 | 2026-10-28 to 2026-10-28 |
+| `chapter-53` | General Statutes Chapter 53: Regulation of Financial Services | 1 | 2026-07-12 to 2026-07-12 |
+| `chapter-53a` | General Statutes Chapter 53A: Business Development Corporations and North Carolina Capital Resource Corporations | 1 | 2026-05-28 to 2026-05-28 |
+| `chapter-53b` | General Statutes Chapter 53B: Financial Privacy Act | 1 | 2026-04-19 to 2026-04-19 |
+| `chapter-53c` | General Statutes Chapter 53C: Regulation of Banks | 1 | 2026-07-31 to 2026-07-31 |
+| `chapter-54` | General Statutes Chapter 54: Cooperative Organizations | 1 | 2026-07-16 to 2026-07-16 |
+| `chapter-54a` | General Statutes Chapter 54A: Capital Stock Savings and Loan Associations | 1 | 2026-04-15 to 2026-04-15 |
+| `chapter-54b` | General Statutes Chapter 54B: Savings and Loan Associations | 1 | 2026-04-15 to 2026-04-15 |
+| `chapter-54c` | General Statutes Chapter 54C: Savings Banks | 1 | 2026-07-23 to 2026-07-23 |
+| `chapter-54d` | General Statutes Chapter 54D: Uniform Special Deposits Act | 1 | 2026-07-13 to 2026-07-13 |
+| `chapter-55a` | General Statutes Chapter 55A: North Carolina Nonprofit Corporation Act | 1 | 2026-04-16 to 2026-04-16 |
+| `chapter-55b` | General Statutes Chapter 55B: Professional Corporation Act | 1 | 2026-05-17 to 2026-05-17 |
+| `chapter-55c` | General Statutes Chapter 55C: Foreign Trade Zones | 1 | 2026-04-15 to 2026-04-15 |
+| `chapter-55d` | General Statutes Chapter 55D: Filings, Names, and Registered Agents for Corporations, Nonprofit Corporations, and Partnerships | 1 | 2026-04-19 to 2026-04-19 |
+| `chapter-56` | General Statutes Chapter 56: Electric, Telegraph and Power Companies | 1 | 2026-07-12 to 2026-07-12 |
+| `chapter-57` | General Statutes Chapter 57: Hospital, Medical and Dental Service Corporations | 1 | 2026-09-13 to 2026-09-13 |
+| `chapter-57a` | General Statutes Chapter 57A: Health Maintenance Organization Act | 1 | 2026-04-15 to 2026-04-15 |
 | `chapter-5a` | General Statutes Chapter 5A: Contempt | 1 | 2026-05-29 to 2026-05-29 |
 | `chapter-6` | General Statutes Chapter 6: Liability for Court Costs | 1 | 2026-09-17 to 2026-09-17 |
 | `chapter-7` | General Statutes Chapter 7: Courts | 1 | 2026-06-16 to 2026-06-16 |
@@ -239,11 +311,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-8c` | General Statutes Chapter 8C: Evidence Code | 1 | 2026-04-22 to 2026-04-22 |
 | `chapter-9` | General Statutes Chapter 9: Jurors | 1 | 2026-04-19 to 2026-04-19 |
 
-The build made 135 commits:
+The build made 171 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 114 | first version of an act |
+| 150 | first version of an act |
 | 21 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -251,7 +323,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 22 laws in the record.
-- 158 tags.
+- 194 tags.
 
 ## Dates
 
@@ -263,7 +335,7 @@ When a law gives no date of its own, the default rule applies: ncleg.gov does no
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `caf5286460bfcc1b5794456ec55a5650fd9796698bfba76eca9259f6da724bed` (15872622 bytes).
+- Corpus: sha256 `a867048f28b89ae3205836c2fb289daf078f5dd6d26054f22aa00c7687ff420e` (18955861 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -378,7 +450,43 @@ No second build of this corpus has been compared yet.
 - General Statutes Chapter 47: one version, dated 2026-10-09, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 47A: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 47B: one version, dated 2026-08-08, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 47C: one version, dated 2026-06-06, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 47D: one version, dated 2026-05-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 47E: one version, dated 2026-04-27, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 47F: one version, dated 2026-05-07, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 47G: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 47H: one version, dated 2026-10-08, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 48: one version, dated 2026-07-30, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 48A: one version, dated 2026-07-11, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 49: one version, dated 2026-09-06, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 49A: one version, dated 2026-04-20, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 5: one version, dated 2026-07-11, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 50: one version, dated 2026-06-18, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 50A: one version, dated 2026-06-14, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 50B: one version, dated 2026-10-09, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 50C: one version, dated 2026-05-14, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 50D: one version, dated 2026-07-13, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 51: one version, dated 2026-09-27, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 52: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 52A: one version, dated 2026-06-12, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 52B: one version, dated 2026-10-11, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 52C: one version, dated 2026-10-28, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 53: one version, dated 2026-07-12, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 53A: one version, dated 2026-05-28, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 53B: one version, dated 2026-04-19, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 53C: one version, dated 2026-07-31, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 54: one version, dated 2026-07-16, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 54A: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 54B: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 54C: one version, dated 2026-07-23, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 54D: one version, dated 2026-07-13, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 55A: one version, dated 2026-04-16, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 55B: one version, dated 2026-05-17, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 55C: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 55D: one version, dated 2026-04-19, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 56: one version, dated 2026-07-12, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 57: one version, dated 2026-09-13, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- General Statutes Chapter 57A: one version, dated 2026-04-15, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 5A: one version, dated 2026-05-29, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 6: one version, dated 2026-09-17, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 7: one version, dated 2026-06-16, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
@@ -400,6 +508,42 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.

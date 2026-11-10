@@ -1582,6 +1582,146 @@
    ]
   },
   {
+   "slug": "chapter-47c",
+   "short": "G.S. ch. 47C",
+   "title": "General Statutes Chapter 47C: North Carolina Condominium Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47C.html",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 76,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47C.html",
+     "sha256": "d2d824564c16e1f21a7e90a229fcab1410e2fae294a8047b707f669d7d1998e1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47d",
+   "short": "G.S. ch. 47D",
+   "title": "General Statutes Chapter 47D: Notice of Settlement Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47D.html",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47D.html",
+     "sha256": "ee3935f1ae6134d9ee3ab4ccc67ec7393a30c9c8f38704450b9b9ede8e2ae5d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47e",
+   "short": "G.S. ch. 47E",
+   "title": "General Statutes Chapter 47E: Residential Property Disclosure Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47E.html",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 11,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47E.html",
+     "sha256": "5e6ff10f0d9169a15196feee959a2432a8462445272619c6f4db70078126fd70"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47f",
+   "short": "G.S. ch. 47F",
+   "title": "General Statutes Chapter 47F: North Carolina Planned Community Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47F.html",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 42,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47F.html",
+     "sha256": "741902720d2f5ffe39f4559aa48f77e973ebf4010b16c6bfbebc8b5c3e3dc2c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47g",
+   "short": "G.S. ch. 47G",
+   "title": "General Statutes Chapter 47G: Option to Purchase Contracts Executed With Lease Agreements",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47G.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 7,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47G.html",
+     "sha256": "79ee07976829d6d5b22829d6f22629c9d0e0707f4130bc539509f7ddcec77810"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47h",
+   "short": "G.S. ch. 47H",
+   "title": "General Statutes Chapter 47H: Contracts for Deed",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 8,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html",
+     "sha256": "c35462f6feef19b6af3a9df65a98bcae33f526aa5b910049cc0b6bc7abdf9d91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-48",
+   "short": "G.S. ch. 48",
+   "title": "General Statutes Chapter 48: Adoptions",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48.html",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 122,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48.html",
+     "sha256": "13533b426feaac36c90ed4856f31d01a084e5375122b33900231dc9358ad6234"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-48a",
+   "short": "G.S. ch. 48A",
+   "title": "General Statutes Chapter 48A: Minors",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48A.html",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48A.html",
+     "sha256": "e2d02c1c6010a6d74307c97a2c44ba73faaaf6df6e289ea164436dd1f7a6221d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-49",
+   "short": "G.S. ch. 49",
+   "title": "General Statutes Chapter 49: Children Born Out of Wedlock",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49.html",
+   "versions": [
+    {
+     "from": "2026-09-06",
+     "units": 19,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49.html",
+     "sha256": "70bcdad7f1726c5f3c12e86364d3d4db548a7343eff35034ec6cf6a9ba4dc2d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-49a",
+   "short": "G.S. ch. 49A",
+   "title": "General Statutes Chapter 49A: Rights of Children",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49A.html",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49A.html",
+     "sha256": "04bff3796cc4d9861dd1ea1364939f97cd6ef421ef697a2d8f97feff42f1dd9e"
+    }
+   ]
+  },
+  {
    "slug": "chapter-5",
    "short": "G.S. ch. 5",
    "title": "General Statutes Chapter 5: Contempt",
@@ -1592,6 +1732,370 @@
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5.html",
      "sha256": "e21d31fb483db1dfb96b3813f1d791887c61761c4bb67b99c6ff3c20a2954d6c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-50",
+   "short": "G.S. ch. 50",
+   "title": "General Statutes Chapter 50: Divorce and Alimony",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50.html",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 129,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50.html",
+     "sha256": "fb6f3870250f92ce0f7e3321b983c6f8bd196fcdd22f4023a5d0abf9cdda7494"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-50a",
+   "short": "G.S. ch. 50A",
+   "title": "General Statutes Chapter 50A: Uniform Acts on Children",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50A.html",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 131,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50A.html",
+     "sha256": "6c152c696ddbfcbc1a02e2b34bb7f0bb8bfa98074e8a4ddc9866105b796b64e0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-50b",
+   "short": "G.S. ch. 50B",
+   "title": "General Statutes Chapter 50B: Domestic Violence",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50B.html",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50B.html",
+     "sha256": "3fbdcec900e779e7c1e6df1c63bd0dafecbe806e00b0cfacce2d07d27aeac42b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-50c",
+   "short": "G.S. ch. 50C",
+   "title": "General Statutes Chapter 50C: Civil No-Contact Orders",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50C.html",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 11,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50C.html",
+     "sha256": "8143e6e3aebd05cb171f3691447ed6619e8251054c88cad7545bb53ffa8afc13"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-50d",
+   "short": "G.S. ch. 50D",
+   "title": "General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 11,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html",
+     "sha256": "f8d4e59b21910701fee6c86f4d530cd62105c7155a20e9a0245e9293eff01ced"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-51",
+   "short": "G.S. ch. 51",
+   "title": "General Statutes Chapter 51: Marriage",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_51.html",
+   "versions": [
+    {
+     "from": "2026-09-27",
+     "units": 30,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_51.html",
+     "sha256": "943375a94c39cc333e06cc296f122952cc8b66779cac3a6f60c7901ad4d84dca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-52",
+   "short": "G.S. ch. 52",
+   "title": "General Statutes Chapter 52: Powers and Liabilities of Married Persons",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 16,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52.html",
+     "sha256": "5caf462921b0c68b500381796e9d8538dcd9856061c9897355761f97618ec770"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-52a",
+   "short": "G.S. ch. 52A",
+   "title": "General Statutes Chapter 52A: Uniform Reciprocal Enforcement of Support Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52A.html",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52A.html",
+     "sha256": "7075e8e81b48dcc99908808aa509f1b7e7081b365f75e935626020c6956508cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-52b",
+   "short": "G.S. ch. 52B",
+   "title": "General Statutes Chapter 52B: Uniform Premarital Agreement Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52B.html",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 11,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52B.html",
+     "sha256": "07efe8d73d79b3247c2188ea074d78dfe13b4fecca645dd9b7a7e6e914e3aaf5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-52c",
+   "short": "G.S. ch. 52C",
+   "title": "General Statutes Chapter 52C: Uniform Interstate Family Support Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52C.html",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 78,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52C.html",
+     "sha256": "dc1bef295107159a61395ffbe7c41f0556f09bc83d26ba72bb9e7fd99637076d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-53",
+   "short": "G.S. ch. 53",
+   "title": "General Statutes Chapter 53: Regulation of Financial Services",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 579,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53.html",
+     "sha256": "e87549cbb56500d69fd9447128e6760dba2c18356a590255220de3df4e0ade3e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-53a",
+   "short": "G.S. ch. 53A",
+   "title": "General Statutes Chapter 53A: Business Development Corporations and North Carolina Capital Resource Corporations",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53A.html",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 29,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53A.html",
+     "sha256": "1863905330ef9c1b1e275643537345ac119f30c86fd53ae7fbfe9e46ac32fde7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-53b",
+   "short": "G.S. ch. 53B",
+   "title": "General Statutes Chapter 53B: Financial Privacy Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53B.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53B.html",
+     "sha256": "3cd60ff8e873bf40e3e16caceb1704b25afea039a9bb837966d3e5f5f441bdc3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-53c",
+   "short": "G.S. ch. 53C",
+   "title": "General Statutes Chapter 53C: Regulation of Banks",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53C.html",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 118,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53C.html",
+     "sha256": "4d766afc0ef83d42ac192ffcdd4f0d86b9509593730e6aed1b92127c9ff3d837"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-54",
+   "short": "G.S. ch. 54",
+   "title": "General Statutes Chapter 54: Cooperative Organizations",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 207,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54.html",
+     "sha256": "8074b827a32fcb48f99e39300783a8fd89437a0c6bae4097a0b170750b59c08f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-54a",
+   "short": "G.S. ch. 54A",
+   "title": "General Statutes Chapter 54A: Capital Stock Savings and Loan Associations",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54A.html",
+     "sha256": "894cfcf9487c6cdbf713a3ec3cb67a7df7c74f3802f750ef2c0851c116013865"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-54b",
+   "short": "G.S. ch. 54B",
+   "title": "General Statutes Chapter 54B: Savings and Loan Associations",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 200,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54B.html",
+     "sha256": "d5b872526387238494762a506327a3c1699c7c7121a244ffea357f1d340ce084"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-54c",
+   "short": "G.S. ch. 54C",
+   "title": "General Statutes Chapter 54C: Savings Banks",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54C.html",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 153,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54C.html",
+     "sha256": "ac5abb11cbbda017b67408f1e9f359d6bff4ac01bd690099ba0c062df653e6c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-54d",
+   "short": "G.S. ch. 54D",
+   "title": "General Statutes Chapter 54D: Uniform Special Deposits Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54D.html",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 15,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54D.html",
+     "sha256": "ec6b59999dee90c442299b1c53b718dd73e54802b1df284a020f6e0e5781d739"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-55a",
+   "short": "G.S. ch. 55A",
+   "title": "General Statutes Chapter 55A: North Carolina Nonprofit Corporation Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55A.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 215,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55A.html",
+     "sha256": "150c6c7b275b1c5a6b933dd7c46d9c14d5ba5a4fcaf3c09d65b6d857efc00ea8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-55b",
+   "short": "G.S. ch. 55B",
+   "title": "General Statutes Chapter 55B: Professional Corporation Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55B.html",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 16,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55B.html",
+     "sha256": "2de48005f9d1fe56e9988e453fb84c70dc0aef649b34d3278efef3ef0d50f773"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-55c",
+   "short": "G.S. ch. 55C",
+   "title": "General Statutes Chapter 55C: Foreign Trade Zones",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55C.html",
+     "sha256": "11efd4e9813ee5f4444f09e29c620ec10784fe7c84847ed8ed0d00b85ed1c8c2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-55d",
+   "short": "G.S. ch. 55D",
+   "title": "General Statutes Chapter 55D: Filings, Names, and Registered Agents for Corporations, Nonprofit Corporations, and Partnerships",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55D.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 26,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55D.html",
+     "sha256": "40c6a820d513e5e9378eace4f98b1a980f8e5b318083a52649480ca076771072"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-56",
+   "short": "G.S. ch. 56",
+   "title": "General Statutes Chapter 56: Electric, Telegraph and Power Companies",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_56.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_56.html",
+     "sha256": "8729a34ef7c36c0bdf7a4a29965535066995aa205401ac6ac2f11d6b86f610c8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-57",
+   "short": "G.S. ch. 57",
+   "title": "General Statutes Chapter 57: Hospital, Medical and Dental Service Corporations",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57.html",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57.html",
+     "sha256": "af54f139f2bdcc5bda15663f40282c93cfc056be22e140ee25f2d1450c0d1b13"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-57a",
+   "short": "G.S. ch. 57A",
+   "title": "General Statutes Chapter 57A: Health Maintenance Organization Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57A.html",
+     "sha256": "8fd2457ac1387c0f306c66ee1a0d62e4c0c462111ba8d0f4a85a13650cd49e03"
     }
    ]
   },
