@@ -406,6 +406,146 @@
    ]
   },
   {
+   "slug": "chapter-105a",
+   "short": "G.S. ch. 105A",
+   "title": "General Statutes Chapter 105A: Setoff Debt Collection and Forced Debt Collection Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 22,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105A.html",
+     "sha256": "ccae76ca45cd818a45751eae26481c279225610d20addc99650314176b73bdf5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-105b",
+   "short": "G.S. ch. 105B",
+   "title": "General Statutes Chapter 105B: Defaulted Student Loan Recovery Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105B.html",
+     "sha256": "7959c1ce299cd38da57bd72f14bd0cca786b2e318ebfc02601a420b1bb9a9728"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-106",
+   "short": "G.S. ch. 106",
+   "title": "General Statutes Chapter 106: Agriculture",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_106.html",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1314,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_106.html",
+     "sha256": "687ab7dcd7fa301bb6fa244c003033083b23d8dccc06af262a04252f5fb2020a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-107",
+   "short": "G.S. ch. 107",
+   "title": "General Statutes Chapter 107: Agricultural Development Districts",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_107.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_107.html",
+     "sha256": "0af1efb9a56324af2cf5150f65102698580621701e17e7bd6c90e93e48eff7b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-108",
+   "short": "G.S. ch. 108",
+   "title": "General Statutes Chapter 108: Social Services",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108.html",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108.html",
+     "sha256": "ecdde6013b322fa6dde4566e60965965660fbe9eb48609975096b315b65b6c21"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-108a",
+   "short": "G.S. ch. 108A",
+   "title": "General Statutes Chapter 108A: Social Services",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108A.html",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 334,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108A.html",
+     "sha256": "5c31960f46546830a90263ca0603ee9f54eb76d66360585d976d5bf667d58866"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-108b",
+   "short": "G.S. ch. 108B",
+   "title": "General Statutes Chapter 108B: Community Action Programs",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108B.html",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 7,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108B.html",
+     "sha256": "9d2043cb9a400bea2ad4fcfdfef8780a06ed4643020885e9da0d5db109630a57"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-108c",
+   "short": "G.S. ch. 108C",
+   "title": "General Statutes Chapter 108C: Medicaid Provider Requirements",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108C.html",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 16,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108C.html",
+     "sha256": "2fe747e53c3514e0a970745e1209b0dcc1f1777403b556e0c465c7f96650884c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-108d",
+   "short": "G.S. ch. 108D",
+   "title": "General Statutes Chapter 108D: Medicaid Managed Care Program",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108D.html",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 47,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108D.html",
+     "sha256": "fe319abd25f3d511c77b91f5d97337838fa77be417e06bf5d99e49ab45357d81"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-109",
+   "short": "G.S. ch. 109",
+   "title": "General Statutes Chapter 109: Bonds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_109.html",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_109.html",
+     "sha256": "60ee4d35783f337847f666293361f90b15f77ee5c14bc3d3e16380fcddcaad16"
+    }
+   ]
+  },
+  {
    "slug": "chapter-10a",
    "short": "G.S. ch. 10A",
    "title": "General Statutes Chapter 10A: Notaries",
@@ -448,6 +588,356 @@
    ]
   },
   {
+   "slug": "chapter-110",
+   "short": "G.S. ch. 110",
+   "title": "General Statutes Chapter 110: Child Welfare",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_110.html",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 120,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_110.html",
+     "sha256": "d364b0d9cb8f02d392a8a83c7d5b21545054e4d9acf5dcff3fcdc44dde9475e5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-111",
+   "short": "G.S. ch. 111",
+   "title": "General Statutes Chapter 111: Aid to the Blind",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_111.html",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 62,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_111.html",
+     "sha256": "0772890edb9c0f93256649bb60a26f34ea76537571fe7e520613fbaeefd2cf58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-112",
+   "short": "G.S. ch. 112",
+   "title": "General Statutes Chapter 112: Confederate Homes and Pensions",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_112.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_112.html",
+     "sha256": "bd2cbbf1545b12415a66cb4394d034bbff03487893626db4365e3e5ab534ed74"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-113",
+   "short": "G.S. ch. 113",
+   "title": "General Statutes Chapter 113: Conservation and Development",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113.html",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 435,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113.html",
+     "sha256": "e59fa718bdf340bb324af7b534aef34dace0d6680112acbb5fc41f4e7f85e9bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-113a",
+   "short": "G.S. ch. 113A",
+   "title": "General Statutes Chapter 113A: Pollution Control and Environment",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113A.html",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 234,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113A.html",
+     "sha256": "29e58c307f67aca1384056b919918c0e3bad8c135f0a35ef3b131dde0e5d431a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-113b",
+   "short": "G.S. ch. 113B",
+   "title": "General Statutes Chapter 113B: North Carolina Energy Policy Act of 1975",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113B.html",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 20,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113B.html",
+     "sha256": "999b78836544a0a1c83b02ff1f339bb3b9100d06a203778a7773e124301a9350"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-114",
+   "short": "G.S. ch. 114",
+   "title": "General Statutes Chapter 114: Department of Justice",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_114.html",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 103,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_114.html",
+     "sha256": "e7a5e9511ad410c204f74fdbd6b48aed8d4031a33638f03d6164dec6587a869a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-114a",
+   "short": "G.S. ch. 114A",
+   "title": "General Statutes Chapter 114A: Parents' Bill of Rights",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_114A.html",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 20,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_114A.html",
+     "sha256": "1fe7513298d11c01ffe95914cf0927309add62e26ec0f9ab33ff304f68203dec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-115",
+   "short": "G.S. ch. 115",
+   "title": "General Statutes Chapter 115: Elementary and Secondary Education",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115.html",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115.html",
+     "sha256": "3825be0a4230eb5312c80ff1c73a8bb5ffff9cd523f447cb0d9ffa7ea51f91fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-115a",
+   "short": "G.S. ch. 115A",
+   "title": "General Statutes Chapter 115A: Community Colleges, Technical Institutes, and Industrial Education Centers",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115A.html",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115A.html",
+     "sha256": "bc76301b42ddaa384830746ba5239172b8c25b88388d4a5110bd26a0594a092f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-115b",
+   "short": "G.S. ch. 115B",
+   "title": "General Statutes Chapter 115B: Tuition and Fee Waivers",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115B.html",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115B.html",
+     "sha256": "c5da537af4d446c8ad5b332a58843e1a110e1a489c00704fadb86c88415ca285"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-115c",
+   "short": "G.S. ch. 115C",
+   "title": "General Statutes Chapter 115C: Elementary and Secondary Education",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115C.html",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1146,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115C.html",
+     "sha256": "4d45d380e280f42d9d2fb9e18953a282e5e0f3fe77ce361f7b1c0c1eb463deb1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-115d",
+   "short": "G.S. ch. 115D",
+   "title": "General Statutes Chapter 115D: Community Colleges",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115D.html",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 186,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115D.html",
+     "sha256": "2112eec00d497841b80bd4dd057f0254b96e39514bdc202aee209d42a026b3d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-115e",
+   "short": "G.S. ch. 115E",
+   "title": "General Statutes Chapter 115E: Private Educational Facilities Finance Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115E.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115E.html",
+     "sha256": "eb21cd5be5032342b5a9616ba2f8f940fbdb327259539c212211e1d5d57a5ece"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-116",
+   "short": "G.S. ch. 116",
+   "title": "General Statutes Chapter 116: Higher Education",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116.html",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 527,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116.html",
+     "sha256": "47ad5a5cd94f6949e38f6940085c601f00467fbc99c0904c72791ab74d713a14"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-116a",
+   "short": "G.S. ch. 116A",
+   "title": "General Statutes Chapter 116A: Escheats and Abandoned Property",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116A.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116A.html",
+     "sha256": "59790f79bedf8f5e604f15974a6400daca709b7bbb6fb5567020853fc188c558"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-116b",
+   "short": "G.S. ch. 116B",
+   "title": "General Statutes Chapter 116B: Escheats and Abandoned Property",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116B.html",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 54,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116B.html",
+     "sha256": "f522662675c3e877e925f08b9c173dc94e70bc7ff27c91582c298700f4a780b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-116c",
+   "short": "G.S. ch. 116C",
+   "title": "General Statutes Chapter 116C: Continuum of Education Programs",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116C.html",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 6,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116C.html",
+     "sha256": "5de28c7c0029431b874b9e0e99426f85d0b1d6bdba1496591e01c16b41a34e07"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-116d",
+   "short": "G.S. ch. 116D",
+   "title": "General Statutes Chapter 116D: Higher Education Bonds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116D.html",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 39,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116D.html",
+     "sha256": "d8106988bca19005bf4da7696dd24e1e25dd984a491985209acebe2fa6ca72cb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-116e",
+   "short": "G.S. ch. 116E",
+   "title": "General Statutes Chapter 116E: North Carolina Longitudinal Data System",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116E.html",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 6,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116E.html",
+     "sha256": "8446d72e137840c9a7f56230e169fac8c85925fc5c17a73e84e30d2ff12fd95c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-117",
+   "short": "G.S. ch. 117",
+   "title": "General Statutes Chapter 117: Electrification",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_117.html",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 50,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_117.html",
+     "sha256": "1338d258a922985bd692030f841485539df585b0dbdc8d2371b43be8ea291538"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-118",
+   "short": "G.S. ch. 118",
+   "title": "General Statutes Chapter 118: Firemen's and Rescue Squad Workers' Relief and Pension Funds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118.html",
+     "sha256": "ab72874fa3541fcf9943c9689143fa92b8952f28e281c0b2820d7f2ef6040f78"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-118a",
+   "short": "G.S. ch. 118A",
+   "title": "General Statutes Chapter 118A: Firemen's Death Benefit Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118A.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118A.html",
+     "sha256": "40607e5fad7710b3b1a91fe6c6e886842f56e39c6b698124b10158f3d7a98e65"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-118b",
+   "short": "G.S. ch. 118B",
+   "title": "General Statutes Chapter 118B: Members of a Rescue Squad Death Benefit Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118B.html",
+   "versions": [
+    {
+     "from": "2026-01-11",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118B.html",
+     "sha256": "fcad12531465224047237fd47919c175de11c756f17d9e2e786b82d78579c86a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-119",
+   "short": "G.S. ch. 119",
+   "title": "General Statutes Chapter 119: Gasoline and Oil Inspection and Regulation",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_119.html",
+   "versions": [
+    {
+     "from": "2025-12-07",
+     "units": 81,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_119.html",
+     "sha256": "2c3457297d2ebdff587dfb1e186be2133da727e04a2efc253f64683c0406ade6"
+    }
+   ]
+  },
+  {
    "slug": "chapter-12",
    "short": "G.S. ch. 12",
    "title": "General Statutes Chapter 12: Statutory Construction",
@@ -458,6 +948,286 @@
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_12.html",
      "sha256": "f014d1781feb3332c9385ecf51a6607850244768b707ed3f5664da6288ac42ca"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-120",
+   "short": "G.S. ch. 120",
+   "title": "General Statutes Chapter 120: General Assembly",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_120.html",
+   "versions": [
+    {
+     "from": "2026-04-12",
+     "units": 497,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_120.html",
+     "sha256": "bc679456795f962cff8dfd32f8fa4a17597c4dda02978a47d384d5e0e6c85f08"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-120c",
+   "short": "G.S. ch. 120C",
+   "title": "General Statutes Chapter 120C: Lobbying",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_120C.html",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 899,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_120C.html",
+     "sha256": "3174d29e3a17e4fdb501c9f6dcfd7fed7a5c88eaaaad4570766080a0bbef2457"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-121",
+   "short": "G.S. ch. 121",
+   "title": "General Statutes Chapter 121: Archives and History",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_121.html",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 63,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_121.html",
+     "sha256": "87df9e048cf9dca420ce7584e91ea5661d9489233fcecbccf3c4dced7598dcb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-122",
+   "short": "G.S. ch. 122",
+   "title": "General Statutes Chapter 122: Hospitals for the Mentally Disordered",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122.html",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122.html",
+     "sha256": "44be2e0a2baa087259c397f32d7cd95bc8c948c7e2cd4124395286d3adac5763"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-122a",
+   "short": "G.S. ch. 122A",
+   "title": "General Statutes Chapter 122A: North Carolina Housing Finance Agency",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122A.html",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 39,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122A.html",
+     "sha256": "1fdb47ab15c28385dca4dce70c9108f91cfcae236cd3be1004846a9925189900"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-122b",
+   "short": "G.S. ch. 122B",
+   "title": "General Statutes Chapter 122B: North Carolina Agricultural Facilities Finance Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122B.html",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122B.html",
+     "sha256": "45fd04e2c72d6f87b0502b98d9ff8ee492c56cc1165dc423f730be2371ae4c05"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-122c",
+   "short": "G.S. ch. 122C",
+   "title": "General Statutes Chapter 122C: Mental Health, Developmental Disabilities, and Substance Abuse Act of 1985",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122C.html",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 411,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122C.html",
+     "sha256": "f0caa750eb0913a0bc1641698741ee47d57055e1e8b4429f2b8c449dcef06657"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-122d",
+   "short": "G.S. ch. 122D",
+   "title": "General Statutes Chapter 122D: North Carolina Agricultural Finance Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122D.html",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 23,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122D.html",
+     "sha256": "88c7b36c9905052b7a5e005f3c0325d9ea1c5411034a7a939e774c155ffa50b2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-122e",
+   "short": "G.S. ch. 122E",
+   "title": "General Statutes Chapter 122E: North Carolina Housing Trust and Oil Overcharge Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122E.html",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122E.html",
+     "sha256": "b8e7bc9d207ab25184e7aa9517ee532403d90ac7510f77df58ffe1d9c37fe1a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-123",
+   "short": "G.S. ch. 123",
+   "title": "General Statutes Chapter 123: Impeachment",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_123.html",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_123.html",
+     "sha256": "19cee74622218b7b2ad6588a4204001e61fdb3e786233ebb9896c03ffbcf67dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-123a",
+   "short": "G.S. ch. 123A",
+   "title": "General Statutes Chapter 123A: Industrial Development",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_123A.html",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_123A.html",
+     "sha256": "f7cd7cf80acf7864da02ab724ae1885ab83bfbe77dbd36bc5f2776df49f3c6c1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-124",
+   "short": "G.S. ch. 124",
+   "title": "General Statutes Chapter 124: Internal Improvements",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_124.html",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 19,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_124.html",
+     "sha256": "658591eba243bf76b5e242d9bf1d746a4a43dbaa6f732656e8a658c7895a0ff0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-125",
+   "short": "G.S. ch. 125",
+   "title": "General Statutes Chapter 125: Libraries",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_125.html",
+   "versions": [
+    {
+     "from": "2026-05-03",
+     "units": 28,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_125.html",
+     "sha256": "af592eb3a6605fe128ed99d43a6f060f988cc75adf4c841b7e8aec5fc76e457f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-126",
+   "short": "G.S. ch. 126",
+   "title": "General Statutes Chapter 126: North Carolina Human Resources Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126.html",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 112,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126.html",
+     "sha256": "08f27de1cc7f576a2f259d4d2e908a0f8c8a78f46a759ae446215189762cdb0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-127",
+   "short": "G.S. ch. 127",
+   "title": "General Statutes Chapter 127: Militia",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127.html",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127.html",
+     "sha256": "3d5e975e0869c727da72f40e2779739d665519e1cd23b7416b3549293e548a9f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-127a",
+   "short": "G.S. ch. 127A",
+   "title": "General Statutes Chapter 127A: Militia",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127A.html",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 177,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127A.html",
+     "sha256": "678fd4e4689146571a932b31073d847e9334b223c72274baa090e74d80226807"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-127b",
+   "short": "G.S. ch. 127B",
+   "title": "General Statutes Chapter 127B: Military Affairs",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127B.html",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 31,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127B.html",
+     "sha256": "84d20fa94138639531458a24e24189800bdcc0d1f5319e55ffbdea7dfb3d0ed1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-127c",
+   "short": "G.S. ch. 127C",
+   "title": "General Statutes Chapter 127C: North Carolina Military Affairs Commission",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127C.html",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127C.html",
+     "sha256": "72d196a5d56a4a4e53f820bf5b91b9b26bc4f28e3866f83582d8f13881a7addc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-128",
+   "short": "G.S. ch. 128",
+   "title": "General Statutes Chapter 128: Offices and Public Officers",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_128.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 80,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_128.html",
+     "sha256": "dfa665ce3d0e38d893ebd3d279fd0ca6199d0542ab52dbd0f7dd9d5c89654934"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-129",
+   "short": "G.S. ch. 129",
+   "title": "General Statutes Chapter 129: Public Buildings and Grounds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_129.html",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 14,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_129.html",
+     "sha256": "5768c1432d85ff49037893d68d861232dcb1bcd532561deb20d2cd8571ceaaf4"
     }
    ]
   },
@@ -476,6 +1246,510 @@
    ]
   },
   {
+   "slug": "chapter-130",
+   "short": "G.S. ch. 130",
+   "title": "General Statutes Chapter 130: Public Health",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130.html",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130.html",
+     "sha256": "947c895d066015262a8419dcd6bfd428422b1e3f334df3e88767e76e29316757"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-130a",
+   "short": "G.S. ch. 130A",
+   "title": "General Statutes Chapter 130A: Public Health",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130A.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1000,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130A.html",
+     "sha256": "9299ca9c52763c6de7dcd91c9865d7361184c8261751e28c4b442fa4b9c05500"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-130b",
+   "short": "G.S. ch. 130B",
+   "title": "General Statutes Chapter 130B: Hazardous Waste Management Commission",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130B.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130B.html",
+     "sha256": "62ca711ea87ac8c89d88678e87eb938f723c5dc4cf21960421c11754b64f30a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131",
+   "short": "G.S. ch. 131",
+   "title": "General Statutes Chapter 131: Public Hospitals",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131.html",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131.html",
+     "sha256": "140c5bdac7577461571ecd5e3a4390ee00df0b937ee51dd06066bdf5f68171f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131a",
+   "short": "G.S. ch. 131A",
+   "title": "General Statutes Chapter 131A: Health Care Facilities Finance Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131A.html",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 36,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131A.html",
+     "sha256": "a89c66bbdd8588544e4f9579fad840232bcc5cf4834dbbace3ab895014455779"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131b",
+   "short": "G.S. ch. 131B",
+   "title": "General Statutes Chapter 131B: Licensing of Ambulatory Surgical Facilities",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131B.html",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131B.html",
+     "sha256": "7053873cb4b7ee89d869353e699597c4045bfe67f06fded77223eb45da855eaf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131c",
+   "short": "G.S. ch. 131C",
+   "title": "General Statutes Chapter 131C: Charitable Solicitation Licensure Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131C.html",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131C.html",
+     "sha256": "54a73dacfc722dd1b0a037ebd313f7a900d293d824afdb5f0c4314d59582623d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131d",
+   "short": "G.S. ch. 131D",
+   "title": "General Statutes Chapter 131D: Inspection and Licensing of Facilities",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131D.html",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 98,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131D.html",
+     "sha256": "4459c5a9569ef4631a28cf89a19b27f31487116fdd8da0e758af75b59d30a76c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131e",
+   "short": "G.S. ch. 131E",
+   "title": "General Statutes Chapter 131E: Health Care Facilities and Services",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131E.html",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 367,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131E.html",
+     "sha256": "f7ac9f17c8919d918de68dc1ab461bb3ec232e0ae9f9c95f886a61d7dbfbc57b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-131f",
+   "short": "G.S. ch. 131F",
+   "title": "General Statutes Chapter 131F: Solicitation of Contributions",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131F.html",
+   "versions": [
+    {
+     "from": "2026-04-19",
+     "units": 29,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131F.html",
+     "sha256": "db3977e0fb9eede9d3768809c38ab7049c9e0ada2becb21e414055242f8fe722"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-132",
+   "short": "G.S. ch. 132",
+   "title": "General Statutes Chapter 132: Public Records",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_132.html",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 43,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_132.html",
+     "sha256": "1f4830a0d732bfbeab754e7089dde2866161132ea9b33b98fd0000ab191cdaff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-133",
+   "short": "G.S. ch. 133",
+   "title": "General Statutes Chapter 133: Public Works",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_133.html",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 34,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_133.html",
+     "sha256": "568768d398df7f1e59fee25c4549a60d5fd364bb8628453c428852205f0b2024"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-134",
+   "short": "G.S. ch. 134",
+   "title": "General Statutes Chapter 134: Youth Development",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_134.html",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_134.html",
+     "sha256": "8fef93e7f883456714b8081c9d74c002160cc4a9743f9e8f1b8a855aea02eecf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-134a",
+   "short": "G.S. ch. 134A",
+   "title": "General Statutes Chapter 134A: Youth Services",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_134A.html",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_134A.html",
+     "sha256": "198bcd7847b5ba492519634a8b2a5098f1eb93c52b828d525becb4739571d04c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-135",
+   "short": "G.S. ch. 135",
+   "title": "General Statutes Chapter 135: Retirement System for Teachers and State Employees; Social Security; State Health Plan for Teachers and State Employees",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_135.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 248,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_135.html",
+     "sha256": "c31e8e8e85ff07426dabe3eec42aedb5f3d601970a9f3efc993d4ee1890097a1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-136",
+   "short": "G.S. ch. 136",
+   "title": "General Statutes Chapter 136: Transportation",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_136.html",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 543,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_136.html",
+     "sha256": "d1bbfa83ff8201a451ea5371a58cde5d331541912af9c1a9f79d2402fdff4270"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-137",
+   "short": "G.S. ch. 137",
+   "title": "General Statutes Chapter 137: Rural Rehabilitation",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_137.html",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 2,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_137.html",
+     "sha256": "7e584f9c0f8832e7b0eddf0d9fb063656f38c8d721a01201502912696148bb3b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-138",
+   "short": "G.S. ch. 138",
+   "title": "General Statutes Chapter 138: Salaries, Fees and Allowances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_138.html",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 8,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_138.html",
+     "sha256": "7cf3289f3389fb323e614f5d8222ec3f4bb34a5e3661873c31c5325047faaf6e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-138a",
+   "short": "G.S. ch. 138A",
+   "title": "General Statutes Chapter 138A: State Government Ethics Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_138A.html",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 46,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_138A.html",
+     "sha256": "6057ed12e77fb92af82d39d1347ad52b81a3b716e639f4b25343b33b274ee316"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-139",
+   "short": "G.S. ch. 139",
+   "title": "General Statutes Chapter 139: Soil and Water Conservation Districts",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_139.html",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 57,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_139.html",
+     "sha256": "00738eb5465addaa07547518333deb3f7f3a72fd47a42dcb2c7344ad282f3f87"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-140",
+   "short": "G.S. ch. 140",
+   "title": "General Statutes Chapter 140: State Art Museum; Symphony and Art Societies",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_140.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 21,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_140.html",
+     "sha256": "f6276a477044015554116df37a9c8ad45a542e28d7dac059ef476d1b3ca72072"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-140a",
+   "short": "G.S. ch. 140A",
+   "title": "General Statutes Chapter 140A: State Awards System",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_140A.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 6,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_140A.html",
+     "sha256": "e34eff97732700ad91883beca04e6049bdefd218f94453313affa9285fead329"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-141",
+   "short": "G.S. ch. 141",
+   "title": "General Statutes Chapter 141: State Boundaries",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_141.html",
+   "versions": [
+    {
+     "from": "2026-10-04",
+     "units": 10,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_141.html",
+     "sha256": "f9b42d1c3612a7b33c5eaf61af07bd8522453ddb7dbfd9fb7b4d9b137f356710"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-142",
+   "short": "G.S. ch. 142",
+   "title": "General Statutes Chapter 142: State Debt",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_142.html",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 96,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_142.html",
+     "sha256": "eaffba77914b4ce34867f19684c48785f9e17c7c52bb2dfc727769644b60f83e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-143",
+   "short": "G.S. ch. 143",
+   "title": "General Statutes Chapter 143: State Departments, Institutions, and Commissions",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143.html",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1358,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143.html",
+     "sha256": "8b5bf7d42b120511dd4d4784abfabfd8b417953ed19e012d138fb351aef3305d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-143a",
+   "short": "G.S. ch. 143A",
+   "title": "General Statutes Chapter 143A: State Government Reorganization",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143A.html",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 113,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143A.html",
+     "sha256": "e6cc486a31c5ba055ac71f508c512153be3574b3c3c7e5ca57892a53d193f317"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-143b",
+   "short": "G.S. ch. 143B",
+   "title": "General Statutes Chapter 143B: Executive Organization Act of 1973",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143B.html",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 1955,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143B.html",
+     "sha256": "5c93b419d76ab2869bee2ffc95553d0fe284aa18e1ccad2d638e813d6f26a82c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-143c",
+   "short": "G.S. ch. 143C",
+   "title": "General Statutes Chapter 143C: State Budget Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143C.html",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 90,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143C.html",
+     "sha256": "5e0b7bcfcb4f55f2fbeb36bdea49e17367cd37c4f5a2244f1fd7391b3fde7c5c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-143d",
+   "short": "G.S. ch. 143D",
+   "title": "General Statutes Chapter 143D: The State Governmental Accountability and Internal Control Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143D.html",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 12,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143D.html",
+     "sha256": "70299ca8dcaa035af46d59f4eee27c502cee55eee3eea05bd2b538dbcdea4b77"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-143e",
+   "short": "G.S. ch. 143E",
+   "title": "General Statutes Chapter 143E: The North Carolina Measurability Assessment Act of 2016. (Repealed)",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143E.html",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 4,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143E.html",
+     "sha256": "2c4e862e4d38cfcc98fbdfac4de8a22c8740dee088255df13fbe5a9ee2379ac9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-144",
+   "short": "G.S. ch. 144",
+   "title": "General Statutes Chapter 144: State Flag, Official Governmental Flags, Motto, and Colors",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_144.html",
+   "versions": [
+    {
+     "from": "2026-07-12",
+     "units": 9,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_144.html",
+     "sha256": "c8d728f5734500e296d9da78127e5b81cadeb9eaadeae9d1210123d6e8090253"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-145",
+   "short": "G.S. ch. 145",
+   "title": "General Statutes Chapter 145: State Symbols and Other Official Adoptions",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_145.html",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 52,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_145.html",
+     "sha256": "3665bdf6f75947eb71f2e2bec202d7d055dee0f06461030c4568af8b4d668fc1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-146",
+   "short": "G.S. ch. 146",
+   "title": "General Statutes Chapter 146: State Lands",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_146.html",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 102,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_146.html",
+     "sha256": "a2ecacff792781a7ded3a722e87efba55ce74f03e983f664a6e530ff20b4a475"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-147",
+   "short": "G.S. ch. 147",
+   "title": "General Statutes Chapter 147: State Officers",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_147.html",
+   "versions": [
+    {
+     "from": "2025-11-22",
+     "units": 269,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_147.html",
+     "sha256": "42f913bdf445e5d0d1bf4edcee971678451e8919c945c8a1caa0b5c44e37af6f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-148",
+   "short": "G.S. ch. 148",
+   "title": "General Statutes Chapter 148: State Prison System",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_148.html",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 162,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_148.html",
+     "sha256": "7ac9111f315655975a59902395d5860679a1a3eb00d303d5a4230a5da35c9cbc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-149",
+   "short": "G.S. ch. 149",
+   "title": "General Statutes Chapter 149: State Song and Toast",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_149.html",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 2,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_149.html",
+     "sha256": "1ba56a9e023da01e00a1ea75fcf1ae7cafa301548f686c1cbb89f3bd917c90fb"
+    }
+   ]
+  },
+  {
    "slug": "chapter-15",
    "short": "G.S. ch. 15",
    "title": "General Statutes Chapter 15: Criminal Procedure",
@@ -486,6 +1760,356 @@
      "units": 144,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15.html",
      "sha256": "abd468d7c71c5f88df614c1d1f9f2d215ac28f91592465359db1c646e0a44c51"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-150",
+   "short": "G.S. ch. 150",
+   "title": "General Statutes Chapter 150: Uniform Revocation of Licenses",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150.html",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150.html",
+     "sha256": "b87a99d0840672ccaf6042dd77e196f92db9397ea81fd89b0107b0375887a2fe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-150a",
+   "short": "G.S. ch. 150A",
+   "title": "General Statutes Chapter 150A: Administrative Procedure Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150A.html",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150A.html",
+     "sha256": "6120ce1a22c98cda4545f1d041f229cdace36cf0e39b1ae5088c776bbc27f776"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-150b",
+   "short": "G.S. ch. 150B",
+   "title": "General Statutes Chapter 150B: Administrative Procedure Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150B.html",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 85,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150B.html",
+     "sha256": "1daf186bd6197a7e18c1900cf4cb8a8f8f2440675d918598ffbd6faf461a859e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-151",
+   "short": "G.S. ch. 151",
+   "title": "General Statutes Chapter 151: Constables",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_151.html",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_151.html",
+     "sha256": "b53fc7646bd806b4127e71bce5d2b2234cd9991d28f1e5d4ee5e920dc6fc7780"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-152",
+   "short": "G.S. ch. 152",
+   "title": "General Statutes Chapter 152: Coroners",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_152.html",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 11,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_152.html",
+     "sha256": "d24bc080029b2956a4643693baaf67ab9f3d4ee1978806fdffa3e59398df4eb5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-152a",
+   "short": "G.S. ch. 152A",
+   "title": "General Statutes Chapter 152A: County Medical Examiner",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_152A.html",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_152A.html",
+     "sha256": "67ad647992bd6c2c47c43996c3077076f0e39a9fd3d40a4b186bcafab84ca3ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-153",
+   "short": "G.S. ch. 153",
+   "title": "General Statutes Chapter 153: Counties and County Commissioners",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153.html",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153.html",
+     "sha256": "1c6539692510658df76c148524af59ace0c6034fa62302f5aa6553f302cf30d4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-153a",
+   "short": "G.S. ch. 153A",
+   "title": "General Statutes Chapter 153A: Counties",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153A.html",
+   "versions": [
+    {
+     "from": "2026-06-27",
+     "units": 444,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153A.html",
+     "sha256": "85b73c47dd8d39e6213b2cc6e3521f381a07e7b3b0f0ca415693ca901b349814"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-153b",
+   "short": "G.S. ch. 153B",
+   "title": "General Statutes Chapter 153B: Mountain Resources Planning Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153B.html",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153B.html",
+     "sha256": "adb0ba1d688b698d6febffa0376392172740ebaf11b3c7c5b22cfdef4c91418c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-153c",
+   "short": "G.S. ch. 153C",
+   "title": "General Statutes Chapter 153C: Uwharrie Regional Resources Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153C.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153C.html",
+     "sha256": "77ad67de0218249657da91eec9646a01c422792cf75441a3d5935a9d0bd9bb0f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-154",
+   "short": "G.S. ch. 154",
+   "title": "General Statutes Chapter 154: County Surveyor",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_154.html",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 2,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_154.html",
+     "sha256": "48b37fb48bc03555ce35c14cd5d387a1fce8412a77a8caf00bfb9e49237c8b7f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-155",
+   "short": "G.S. ch. 155",
+   "title": "General Statutes Chapter 155: County Treasurer",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_155.html",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 5,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_155.html",
+     "sha256": "84935484210d822ebf85112a80975c030b37145e531a754dfa5dbd041fe5957b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-156",
+   "short": "G.S. ch. 156",
+   "title": "General Statutes Chapter 156: Drainage",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_156.html",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 162,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_156.html",
+     "sha256": "0a383489a748de00dfe3038ac6bcb920c13686b01cbca4287ed1b5eaab0ee431"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-157",
+   "short": "G.S. ch. 157",
+   "title": "General Statutes Chapter 157: Housing Authorities and Projects",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_157.html",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 88,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_157.html",
+     "sha256": "354b136f6a52af1bb28b29d20ed32ef31c115c05fd788bb90fdcf758d7b0bc7f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-157a",
+   "short": "G.S. ch. 157A",
+   "title": "General Statutes Chapter 157A: Historic Properties Commissions",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_157A.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_157A.html",
+     "sha256": "1ea87d54f8e1691bc88264b109e37aca6aa4208705e041e5d41aa72d7ea2fc01"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-158",
+   "short": "G.S. ch. 158",
+   "title": "General Statutes Chapter 158: Local Development",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_158.html",
+   "versions": [
+    {
+     "from": "2026-03-15",
+     "units": 30,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_158.html",
+     "sha256": "717b988c1e266f93df6c338f3e1b213fdde0deb336d4284f2d7a881a15274dde"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159",
+   "short": "G.S. ch. 159",
+   "title": "General Statutes Chapter 159: Local Government Finance",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159.html",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 203,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159.html",
+     "sha256": "171331f3a3da9c01024668290d7e1a6078242b2cd1532fd3d02009cc8d27199b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159a",
+   "short": "G.S. ch. 159A",
+   "title": "General Statutes Chapter 159A: Pollution Abatement and Industrial Facilities Financing Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159A.html",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159A.html",
+     "sha256": "55b27ac3e7218febccb8fbdbe407ea478dda54ec8b4e1f0a207390057bb6a8ea"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159b",
+   "short": "G.S. ch. 159B",
+   "title": "General Statutes Chapter 159B: Joint Municipal Electric Power and Energy Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159B.html",
+   "versions": [
+    {
+     "from": "2025-11-22",
+     "units": 56,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159B.html",
+     "sha256": "642bc889953a1ab29e4f6d8fea2172da43eea77d0cbad00b48273e2b2f8942ce"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159c",
+   "short": "G.S. ch. 159C",
+   "title": "General Statutes Chapter 159C: Industrial and Pollution Control Facilities Financing Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159C.html",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 28,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159C.html",
+     "sha256": "92c5ab37e178af1b89321911d40eed8bc33a6c28e16e572fe7bc0a3d6da45f03"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159d",
+   "short": "G.S. ch. 159D",
+   "title": "General Statutes Chapter 159D: The North Carolina Capital Facilities Financing Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 58,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159D.html",
+     "sha256": "53a7d41ef9ad7a2bca72820b6824f4beb75d5146e88f20dfe457e5cce552ecb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159e",
+   "short": "G.S. ch. 159E",
+   "title": "General Statutes Chapter 159E: Registered Public Obligations Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159E.html",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 15,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159E.html",
+     "sha256": "985870ab26f8cc6b74a8f5e2940858e28ac324f3ac9dc38bafdceb582efb6dfa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159f",
+   "short": "G.S. ch. 159F",
+   "title": "General Statutes Chapter 159F: North Carolina Energy Development Authority",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159F.html",
+   "versions": [
+    {
+     "from": "2026-07-19",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159F.html",
+     "sha256": "fe1bb7705888e467a23566b5ab54f472c25156f4901be803c9abd56d3eec816a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159g",
+   "short": "G.S. ch. 159G",
+   "title": "General Statutes Chapter 159G: Water Infrastructure",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159G.html",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 46,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159G.html",
+     "sha256": "cca6c455fdf13e80845c6d3353af87a4aa43bafc969f5b8f753e8c1b6d547cff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-159i",
+   "short": "G.S. ch. 159I",
+   "title": "General Statutes Chapter 159I: Solid Waste Management Loan Program and Local Government Special Obligation Bonds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159I.html",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 2,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159I.html",
+     "sha256": "d1f159509e29a5a5543b635611ab6e505f5edd0ba7617389410228779daf21a4"
     }
    ]
   },
@@ -542,6 +2166,272 @@
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_16.html",
      "sha256": "e0b8dd23e1012f0c7891303d8ded95e54febe337f2213d5bbe4c5cca90219032"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-160",
+   "short": "G.S. ch. 160",
+   "title": "General Statutes Chapter 160: Municipal Corporations",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160.html",
+   "versions": [
+    {
+     "from": "2025-11-22",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160.html",
+     "sha256": "69302fcf29ffba50072702b05be92e3e016abfbd50aeab5f701579bafe655421"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-160a",
+   "short": "G.S. ch. 160A",
+   "title": "General Statutes Chapter 160A: Cities and Towns",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160A.html",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 864,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160A.html",
+     "sha256": "55bba6ca723c54f740e867b6bd6a317ffdc9b119c682db9ddaec8fef75b87bbf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-160b",
+   "short": "G.S. ch. 160B",
+   "title": "General Statutes Chapter 160B: Consolidated City-County Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160B.html",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 27,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160B.html",
+     "sha256": "a3f51a4746f4fc538b8fad46a62da6883b277b49b1d0c360aad6007f6587263e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-160c",
+   "short": "G.S. ch. 160C",
+   "title": "General Statutes Chapter 160C: Baseball Park Districts",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160C.html",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160C.html",
+     "sha256": "4c28e1a1fc982bd515e7bc695c716309929934264232de43a238eaaed2285508"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-160d",
+   "short": "G.S. ch. 160D",
+   "title": "General Statutes Chapter 160D: Local Planning and Development Regulation",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160D.html",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 214,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160D.html",
+     "sha256": "b95756a3ae54ae62692df5a8807982efcf8c02795785f26e1ea7feae58df943e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-161",
+   "short": "G.S. ch. 161",
+   "title": "General Statutes Chapter 161: Register of Deeds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_161.html",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 56,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_161.html",
+     "sha256": "5bbef15a5531143c8a9e7c29616fd72fd98d9ac4ff4f1ca68bd1728e487a0f89"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-162",
+   "short": "G.S. ch. 162",
+   "title": "General Statutes Chapter 162: Sheriff",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162.html",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 59,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162.html",
+     "sha256": "b32cced005cac3edb7c4c0922750669ad203a9f42c7903f2a6884ec505b38014"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-162a",
+   "short": "G.S. ch. 162A",
+   "title": "General Statutes Chapter 162A: Water and Sewer Systems",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162A.html",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 272,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162A.html",
+     "sha256": "ce515a6066052969be1292363ba7641657b9d2feac9dc3c831b00dae7b9ae799"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-162b",
+   "short": "G.S. ch. 162B",
+   "title": "General Statutes Chapter 162B: Continuity of Local Government in Emergency",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162B.html",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162B.html",
+     "sha256": "0e1a593a84d7a9ea4d67bafb16bb449cb26d5001b8f5ce6ddb0a7b0bb59b7fa4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-163",
+   "short": "G.S. ch. 163",
+   "title": "General Statutes Chapter 163: Elections and Election Laws",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_163.html",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 810,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_163.html",
+     "sha256": "fb0b4c8134222c75e60c80b68d4b459fdbb140d10e2012c93dc09d0a1c17e70a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-163a",
+   "short": "G.S. ch. 163A",
+   "title": "General Statutes Chapter 163A: Elections and Ethics Enforcement Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_163A.html",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 1489,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_163A.html",
+     "sha256": "48203867dc9cf2e097d1c772164a31efe9afec5e470d97886b518c0a04b392bd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-164",
+   "short": "G.S. ch. 164",
+   "title": "General Statutes Chapter 164: Concerning the General Statutes of North Carolina",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_164.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 49,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_164.html",
+     "sha256": "d2c0cf4ce734854f9b44e2ec1c8f74ad39711097787096b921c750b82d2e4351"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-165",
+   "short": "G.S. ch. 165",
+   "title": "General Statutes Chapter 165: Veterans",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_165.html",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "units": 16,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_165.html",
+     "sha256": "40ff5d28d9d6f33dff7f949f9df74d83316bb75be2d7d74f74ae030f23145a45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-166",
+   "short": "G.S. ch. 166",
+   "title": "General Statutes Chapter 166: Civil Preparedness Agencies",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_166.html",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_166.html",
+     "sha256": "c148308849d98734a36d618548429338c593f66976bc6752abbb7f4a04bc84b6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-166a",
+   "short": "G.S. ch. 166A",
+   "title": "General Statutes Chapter 166A: North Carolina Emergency Management Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_166A.html",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 158,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_166A.html",
+     "sha256": "ec0d9adbb67e8fef88b7efca03c21e7cc8e471fc15043ae19931b0b9d1961558"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-167",
+   "short": "G.S. ch. 167",
+   "title": "General Statutes Chapter 167: State Civil Air Patrol",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_167.html",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_167.html",
+     "sha256": "3293568e3af49ab82a0537cc8403a3a3bb8ce72f845570399a48370607fe8e41"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-168",
+   "short": "G.S. ch. 168",
+   "title": "General Statutes Chapter 168: Persons with Disabilities",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168.html",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 21,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168.html",
+     "sha256": "2be434c210f04b1736936dbebdf20d2672e33c60b2c52d144968238dcf7948f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-168a",
+   "short": "G.S. ch. 168A",
+   "title": "General Statutes Chapter 168A: Persons With Disabilities Protection Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168A.html",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168A.html",
+     "sha256": "8647179ffae0289233c2c26292047963212ea0175db82e7d42f6904af2fba3c8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-169",
+   "short": "G.S. ch. 169",
+   "title": "General Statutes Chapter 169: North Carolina Regulatory Sandbox",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_169.html",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 13,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_169.html",
+     "sha256": "b34c294805fc08e71f0a22850981b8651088f2feadf2e1c807b92d59b43dc3ec"
     }
    ]
   },

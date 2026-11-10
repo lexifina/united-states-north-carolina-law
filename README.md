@@ -270,8 +270,143 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-104f/` | General Statutes Chapter 104F: Southeast Interstate Low-Level Radioactive Waste Management Compact | 1 | 1 sections; capture of 2026-06-08 |
 | `chapter-104g/` | General Statutes Chapter 104G: North Carolina Low-Level Radioactive Waste Management Authority Act of 1987 | 1 | 1 sections; capture of 2026-09-05 |
 | `chapter-105/` | General Statutes Chapter 105: Taxation | 1 | 1383 sections; capture of 2026-04-16 |
+| `chapter-105a/` | General Statutes Chapter 105A: Setoff Debt Collection and Forced Debt Collection Act | 1 | 22 sections; capture of 2026-04-15 |
+| `chapter-105b/` | General Statutes Chapter 105B: Defaulted Student Loan Recovery Act | 1 | 5 sections; capture of 2026-04-15 |
+| `chapter-106/` | General Statutes Chapter 106: Agriculture | 1 | 1314 sections; capture of 2026-05-20 |
+| `chapter-107/` | General Statutes Chapter 107: Agricultural Development Districts | 1 | 1 sections; capture of 2026-04-19 |
+| `chapter-108/` | General Statutes Chapter 108: Social Services | 1 | 1 sections; capture of 2026-09-15 |
+| `chapter-108a/` | General Statutes Chapter 108A: Social Services | 1 | 334 sections; capture of 2026-08-19 |
+| `chapter-108b/` | General Statutes Chapter 108B: Community Action Programs | 1 | 7 sections; capture of 2026-06-09 |
+| `chapter-108c/` | General Statutes Chapter 108C: Medicaid Provider Requirements | 1 | 16 sections; capture of 2026-04-25 |
+| `chapter-108d/` | General Statutes Chapter 108D: Medicaid Managed Care Program | 1 | 47 sections; capture of 2026-08-07 |
+| `chapter-109/` | General Statutes Chapter 109: Bonds | 1 | 1 sections; capture of 2026-04-16 |
+| `chapter-110/` | General Statutes Chapter 110: Child Welfare | 1 | 120 sections; capture of 2026-09-03 |
+| `chapter-111/` | General Statutes Chapter 111: Aid to the Blind | 1 | 62 sections; capture of 2026-06-07 |
+| `chapter-112/` | General Statutes Chapter 112: Confederate Homes and Pensions | 1 | 1 sections; capture of 2026-05-12 |
+| `chapter-113/` | General Statutes Chapter 113: Conservation and Development | 1 | 435 sections; capture of 2026-09-30 |
+| `chapter-113a/` | General Statutes Chapter 113A: Pollution Control and Environment | 1 | 234 sections; capture of 2026-08-01 |
+| `chapter-113b/` | General Statutes Chapter 113B: North Carolina Energy Policy Act of 1975 | 1 | 20 sections; capture of 2026-06-12 |
+| `chapter-114/` | General Statutes Chapter 114: Department of Justice | 1 | 103 sections; capture of 2026-06-18 |
+| `chapter-114a/` | General Statutes Chapter 114A: Parents' Bill of Rights | 1 | 20 sections; capture of 2026-10-25 |
+| `chapter-115/` | General Statutes Chapter 115: Elementary and Secondary Education | 1 | 1 sections; capture of 2026-07-13 |
+| `chapter-115a/` | General Statutes Chapter 115A: Community Colleges, Technical Institutes, and Industrial Education Centers | 1 | 1 sections; capture of 2026-06-11 |
+| `chapter-115b/` | General Statutes Chapter 115B: Tuition and Fee Waivers | 1 | 10 sections; capture of 2026-05-19 |
+| `chapter-115c/` | General Statutes Chapter 115C: Elementary and Secondary Education | 1 | 1146 sections; capture of 2026-06-15 |
+| `chapter-115d/` | General Statutes Chapter 115D: Community Colleges | 1 | 186 sections; capture of 2026-07-25 |
+| `chapter-115e/` | General Statutes Chapter 115E: Private Educational Facilities Finance Act | 1 | 1 sections; capture of 2026-07-16 |
+| `chapter-116/` | General Statutes Chapter 116: Higher Education | 1 | 527 sections; capture of 2026-05-17 |
+| `chapter-116a/` | General Statutes Chapter 116A: Escheats and Abandoned Property | 1 | 1 sections; capture of 2025-11-19 |
+| `chapter-116b/` | General Statutes Chapter 116B: Escheats and Abandoned Property | 1 | 54 sections; capture of 2026-11-03 |
+| `chapter-116c/` | General Statutes Chapter 116C: Continuum of Education Programs | 1 | 6 sections; capture of 2026-07-14 |
+| `chapter-116d/` | General Statutes Chapter 116D: Higher Education Bonds | 1 | 39 sections; capture of 2026-08-03 |
+| `chapter-116e/` | General Statutes Chapter 116E: North Carolina Longitudinal Data System | 1 | 6 sections; capture of 2026-04-12 |
+| `chapter-117/` | General Statutes Chapter 117: Electrification | 1 | 50 sections; capture of 2026-09-18 |
+| `chapter-118/` | General Statutes Chapter 118: Firemen's and Rescue Squad Workers' Relief and Pension Funds | 1 | 1 sections; capture of 2026-07-12 |
+| `chapter-118a/` | General Statutes Chapter 118A: Firemen's Death Benefit Act | 1 | 1 sections; capture of 2025-11-19 |
+| `chapter-118b/` | General Statutes Chapter 118B: Members of a Rescue Squad Death Benefit Act | 1 | 1 sections; capture of 2026-01-11 |
+| `chapter-119/` | General Statutes Chapter 119: Gasoline and Oil Inspection and Regulation | 1 | 81 sections; capture of 2025-12-07 |
+| `chapter-120/` | General Statutes Chapter 120: General Assembly | 1 | 497 sections; capture of 2026-04-12 |
+| `chapter-120c/` | General Statutes Chapter 120C: Lobbying | 1 | 899 sections; capture of 2026-08-07 |
+| `chapter-121/` | General Statutes Chapter 121: Archives and History | 1 | 63 sections; capture of 2026-05-20 |
+| `chapter-122/` | General Statutes Chapter 122: Hospitals for the Mentally Disordered | 1 | 1 sections; capture of 2026-07-17 |
+| `chapter-122a/` | General Statutes Chapter 122A: North Carolina Housing Finance Agency | 1 | 39 sections; capture of 2026-06-07 |
+| `chapter-122b/` | General Statutes Chapter 122B: North Carolina Agricultural Facilities Finance Act | 1 | 1 sections; capture of 2026-01-22 |
+| `chapter-122c/` | General Statutes Chapter 122C: Mental Health, Developmental Disabilities, and Substance Abuse Act of 1985 | 1 | 411 sections; capture of 2026-08-03 |
+| `chapter-122d/` | General Statutes Chapter 122D: North Carolina Agricultural Finance Act | 1 | 23 sections; capture of 2026-06-08 |
+| `chapter-122e/` | General Statutes Chapter 122E: North Carolina Housing Trust and Oil Overcharge Act | 1 | 10 sections; capture of 2025-11-18 |
+| `chapter-123/` | General Statutes Chapter 123: Impeachment | 1 | 13 sections; capture of 2026-06-07 |
+| `chapter-123a/` | General Statutes Chapter 123A: Industrial Development | 1 | 1 sections; capture of 2026-07-08 |
+| `chapter-124/` | General Statutes Chapter 124: Internal Improvements | 1 | 19 sections; capture of 2026-09-02 |
+| `chapter-125/` | General Statutes Chapter 125: Libraries | 1 | 28 sections; capture of 2026-05-03 |
+| `chapter-126/` | General Statutes Chapter 126: North Carolina Human Resources Act | 1 | 112 sections; capture of 2026-04-21 |
+| `chapter-127/` | General Statutes Chapter 127: Militia | 1 | 1 sections; capture of 2026-08-30 |
+| `chapter-127a/` | General Statutes Chapter 127A: Militia | 1 | 177 sections; capture of 2026-07-11 |
+| `chapter-127b/` | General Statutes Chapter 127B: Military Affairs | 1 | 31 sections; capture of 2026-09-11 |
+| `chapter-127c/` | General Statutes Chapter 127C: North Carolina Military Affairs Commission | 1 | 1 sections; capture of 2026-06-10 |
+| `chapter-128/` | General Statutes Chapter 128: Offices and Public Officers | 1 | 80 sections; capture of 2026-07-16 |
+| `chapter-129/` | General Statutes Chapter 129: Public Buildings and Grounds | 1 | 14 sections; capture of 2025-11-24 |
+| `chapter-130/` | General Statutes Chapter 130: Public Health | 1 | 1 sections; capture of 2025-07-14 |
+| `chapter-130a/` | General Statutes Chapter 130A: Public Health | 1 | 1000 sections; capture of 2026-07-16 |
+| `chapter-130b/` | General Statutes Chapter 130B: Hazardous Waste Management Commission | 1 | 1 sections; capture of 2025-11-19 |
+| `chapter-131/` | General Statutes Chapter 131: Public Hospitals | 1 | 1 sections; capture of 2026-08-10 |
+| `chapter-131a/` | General Statutes Chapter 131A: Health Care Facilities Finance Act | 1 | 36 sections; capture of 2026-04-27 |
+| `chapter-131b/` | General Statutes Chapter 131B: Licensing of Ambulatory Surgical Facilities | 1 | 1 sections; capture of 2026-06-10 |
+| `chapter-131c/` | General Statutes Chapter 131C: Charitable Solicitation Licensure Act | 1 | 1 sections; capture of 2026-05-20 |
+| `chapter-131d/` | General Statutes Chapter 131D: Inspection and Licensing of Facilities | 1 | 98 sections; capture of 2026-07-27 |
+| `chapter-131e/` | General Statutes Chapter 131E: Health Care Facilities and Services | 1 | 367 sections; capture of 2026-10-26 |
+| `chapter-131f/` | General Statutes Chapter 131F: Solicitation of Contributions | 1 | 29 sections; capture of 2026-04-19 |
+| `chapter-132/` | General Statutes Chapter 132: Public Records | 1 | 43 sections; capture of 2026-05-12 |
+| `chapter-133/` | General Statutes Chapter 133: Public Works | 1 | 34 sections; capture of 2026-09-22 |
+| `chapter-134/` | General Statutes Chapter 134: Youth Development | 1 | 1 sections; capture of 2025-10-06 |
+| `chapter-134a/` | General Statutes Chapter 134A: Youth Services | 1 | 1 sections; capture of 2026-07-15 |
+| `chapter-135/` | General Statutes Chapter 135: Retirement System for Teachers and State Employees; Social Security; State Health Plan for Teachers and State Employees | 1 | 248 sections; capture of 2026-07-12 |
+| `chapter-136/` | General Statutes Chapter 136: Transportation | 1 | 543 sections; capture of 2026-04-30 |
+| `chapter-137/` | General Statutes Chapter 137: Rural Rehabilitation | 1 | 2 sections; capture of 2026-01-22 |
+| `chapter-138/` | General Statutes Chapter 138: Salaries, Fees and Allowances | 1 | 8 sections; capture of 2025-11-18 |
+| `chapter-138a/` | General Statutes Chapter 138A: State Government Ethics Act | 1 | 46 sections; capture of 2026-08-28 |
+| `chapter-139/` | General Statutes Chapter 139: Soil and Water Conservation Districts | 1 | 57 sections; capture of 2026-10-07 |
+| `chapter-140/` | General Statutes Chapter 140: State Art Museum; Symphony and Art Societies | 1 | 21 sections; capture of 2025-11-19 |
+| `chapter-140a/` | General Statutes Chapter 140A: State Awards System | 1 | 6 sections; capture of 2025-11-19 |
+| `chapter-141/` | General Statutes Chapter 141: State Boundaries | 1 | 10 sections; capture of 2026-10-04 |
+| `chapter-142/` | General Statutes Chapter 142: State Debt | 1 | 96 sections; capture of 2026-01-27 |
+| `chapter-143/` | General Statutes Chapter 143: State Departments, Institutions, and Commissions | 1 | 1358 sections; capture of 2026-10-23 |
+| `chapter-143a/` | General Statutes Chapter 143A: State Government Reorganization | 1 | 113 sections; capture of 2026-06-17 |
+| `chapter-143b/` | General Statutes Chapter 143B: Executive Organization Act of 1973 | 1 | 1955 sections; capture of 2026-07-11 |
+| `chapter-143c/` | General Statutes Chapter 143C: State Budget Act | 1 | 90 sections; capture of 2026-06-09 |
+| `chapter-143d/` | General Statutes Chapter 143D: The State Governmental Accountability and Internal Control Act | 1 | 12 sections; capture of 2026-09-25 |
+| `chapter-143e/` | General Statutes Chapter 143E: The North Carolina Measurability Assessment Act of 2016. (Repealed) | 1 | 4 sections; capture of 2026-05-19 |
+| `chapter-144/` | General Statutes Chapter 144: State Flag, Official Governmental Flags, Motto, and Colors | 1 | 9 sections; capture of 2026-07-12 |
+| `chapter-145/` | General Statutes Chapter 145: State Symbols and Other Official Adoptions | 1 | 52 sections; capture of 2026-07-14 |
+| `chapter-146/` | General Statutes Chapter 146: State Lands | 1 | 102 sections; capture of 2026-10-08 |
+| `chapter-147/` | General Statutes Chapter 147: State Officers | 1 | 269 sections; capture of 2025-11-22 |
+| `chapter-148/` | General Statutes Chapter 148: State Prison System | 1 | 162 sections; capture of 2026-03-27 |
+| `chapter-149/` | General Statutes Chapter 149: State Song and Toast | 1 | 2 sections; capture of 2026-07-14 |
+| `chapter-150/` | General Statutes Chapter 150: Uniform Revocation of Licenses | 1 | 1 sections; capture of 2026-01-20 |
+| `chapter-150a/` | General Statutes Chapter 150A: Administrative Procedure Act | 1 | 1 sections; capture of 2026-10-14 |
+| `chapter-150b/` | General Statutes Chapter 150B: Administrative Procedure Act | 1 | 85 sections; capture of 2026-09-30 |
+| `chapter-151/` | General Statutes Chapter 151: Constables | 1 | 1 sections; capture of 2026-09-18 |
+| `chapter-152/` | General Statutes Chapter 152: Coroners | 1 | 11 sections; capture of 2026-08-21 |
+| `chapter-152a/` | General Statutes Chapter 152A: County Medical Examiner | 1 | 1 sections; capture of 2026-10-15 |
+| `chapter-153/` | General Statutes Chapter 153: Counties and County Commissioners | 1 | 1 sections; capture of 2026-08-01 |
+| `chapter-153a/` | General Statutes Chapter 153A: Counties | 1 | 444 sections; capture of 2026-06-27 |
+| `chapter-153b/` | General Statutes Chapter 153B: Mountain Resources Planning Act | 1 | 1 sections; capture of 2026-08-12 |
+| `chapter-153c/` | General Statutes Chapter 153C: Uwharrie Regional Resources Act | 1 | 1 sections; capture of 2025-11-19 |
+| `chapter-154/` | General Statutes Chapter 154: County Surveyor | 1 | 2 sections; capture of 2026-05-23 |
+| `chapter-155/` | General Statutes Chapter 155: County Treasurer | 1 | 5 sections; capture of 2026-09-14 |
+| `chapter-156/` | General Statutes Chapter 156: Drainage | 1 | 162 sections; capture of 2026-09-04 |
+| `chapter-157/` | General Statutes Chapter 157: Housing Authorities and Projects | 1 | 88 sections; capture of 2026-05-18 |
+| `chapter-157a/` | General Statutes Chapter 157A: Historic Properties Commissions | 1 | 1 sections; capture of 2025-11-19 |
+| `chapter-158/` | General Statutes Chapter 158: Local Development | 1 | 30 sections; capture of 2026-03-15 |
+| `chapter-159/` | General Statutes Chapter 159: Local Government Finance | 1 | 203 sections; capture of 2025-11-19 |
+| `chapter-159a/` | General Statutes Chapter 159A: Pollution Abatement and Industrial Facilities Financing Act | 1 | 1 sections; capture of 2026-08-20 |
+| `chapter-159b/` | General Statutes Chapter 159B: Joint Municipal Electric Power and Energy Act | 1 | 56 sections; capture of 2025-11-22 |
+| `chapter-159c/` | General Statutes Chapter 159C: Industrial and Pollution Control Facilities Financing Act | 1 | 28 sections; capture of 2026-01-23 |
+| `chapter-159d/` | General Statutes Chapter 159D: The North Carolina Capital Facilities Financing Act | 1 | 58 sections; capture of 2026-04-15 |
+| `chapter-159e/` | General Statutes Chapter 159E: Registered Public Obligations Act | 1 | 15 sections; capture of 2025-11-18 |
+| `chapter-159f/` | General Statutes Chapter 159F: North Carolina Energy Development Authority | 1 | 1 sections; capture of 2026-07-19 |
+| `chapter-159g/` | General Statutes Chapter 159G: Water Infrastructure | 1 | 46 sections; capture of 2026-07-17 |
+| `chapter-159i/` | General Statutes Chapter 159I: Solid Waste Management Loan Program and Local Government Special Obligation Bonds | 1 | 2 sections; capture of 2026-07-17 |
+| `chapter-160/` | General Statutes Chapter 160: Municipal Corporations | 1 | 1 sections; capture of 2025-11-22 |
+| `chapter-160a/` | General Statutes Chapter 160A: Cities and Towns | 1 | 864 sections; capture of 2026-10-07 |
+| `chapter-160b/` | General Statutes Chapter 160B: Consolidated City-County Act | 1 | 27 sections; capture of 2026-07-28 |
+| `chapter-160c/` | General Statutes Chapter 160C: Baseball Park Districts | 1 | 1 sections; capture of 2026-05-14 |
+| `chapter-160d/` | General Statutes Chapter 160D: Local Planning and Development Regulation | 1 | 214 sections; capture of 2026-08-27 |
+| `chapter-161/` | General Statutes Chapter 161: Register of Deeds | 1 | 56 sections; capture of 2026-04-24 |
+| `chapter-162/` | General Statutes Chapter 162: Sheriff | 1 | 59 sections; capture of 2026-06-08 |
+| `chapter-162a/` | General Statutes Chapter 162A: Water and Sewer Systems | 1 | 272 sections; capture of 2026-06-21 |
+| `chapter-162b/` | General Statutes Chapter 162B: Continuity of Local Government in Emergency | 1 | 13 sections; capture of 2026-01-22 |
+| `chapter-163/` | General Statutes Chapter 163: Elections and Election Laws | 1 | 810 sections; capture of 2026-09-01 |
+| `chapter-163a/` | General Statutes Chapter 163A: Elections and Ethics Enforcement Act | 1 | 1489 sections; capture of 2026-01-24 |
+| `chapter-164/` | General Statutes Chapter 164: Concerning the General Statutes of North Carolina | 1 | 49 sections; capture of 2026-09-09 |
+| `chapter-165/` | General Statutes Chapter 165: Veterans | 1 | 16 sections; capture of 2026-05-10 |
+| `chapter-166/` | General Statutes Chapter 166: Civil Preparedness Agencies | 1 | 1 sections; capture of 2026-04-24 |
+| `chapter-166a/` | General Statutes Chapter 166A: North Carolina Emergency Management Act | 1 | 158 sections; capture of 2026-07-16 |
+| `chapter-167/` | General Statutes Chapter 167: State Civil Air Patrol | 1 | 1 sections; capture of 2026-07-01 |
+| `chapter-168/` | General Statutes Chapter 168: Persons with Disabilities | 1 | 21 sections; capture of 2026-09-13 |
+| `chapter-168a/` | General Statutes Chapter 168A: Persons With Disabilities Protection Act | 1 | 13 sections; capture of 2026-07-28 |
+| `chapter-169/` | General Statutes Chapter 169: North Carolina Regulatory Sandbox | 1 | 13 sections; capture of 2026-10-13 |
 
-In all: the Constitution and 261 chapters of the General Statutes. The other chapters are not in it yet.
+In all: the Constitution and 396 chapters of the General Statutes. The other chapters are not in it yet.
 
 ## Where the text comes from
 
@@ -287,7 +422,7 @@ A version is dated by the day the Internet Archive captured the page, not by the
 
 - Changes are credited to the capture, not to the act that made them.
 - The Constitution's articles were captured on different days; each version uses each article's latest sampled capture on or before its date.
-- Only the Constitution and 261 chapters are included; a chapter whose page the Internet Archive does not hold is not.
+- Only the Constitution and 396 chapters are included; a chapter whose page the Internet Archive does not hold is not.
 
 ## How it is checked
 
