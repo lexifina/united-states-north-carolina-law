@@ -4,6 +4,8 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The statute law of North Carolina as a git repository: one file per section, committed with the official publisher named as author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
+**Coverage and limits.** The local corpus contains the Constitution and 396 General Statutes chapters, reconstructed from Internet Archive captures of North Carolina General Assembly pages. It includes historical captures for the Constitution and three chapters; the other 393 chapters have one captured text each. This is a partial reconstruction: chapter listings include repealed and reserved chapters, and capture dates in existing versions do not establish when that wording took legal effect. Exact archive capture URLs, source based in force dates, and earlier wording still need verification and correction. Do not use a version's capture date as its legal commencement date.
+
 **What is in it now (a first build, not complete)**
 
 | Folder | Act | Versions | History |
