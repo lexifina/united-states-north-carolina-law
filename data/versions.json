@@ -3870,7 +3870,7 @@
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html",
    "versions": [
     {
-     "from": "2026-07-13",
+     "from": "2023-08-01",
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html",
      "sha256": "f8d4e59b21910701fee6c86f4d530cd62105c7155a20e9a0245e9293eff01ced"
@@ -5694,6 +5694,20 @@
      "units": 78,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99E.html",
      "sha256": "8453461b476326b1e9eafa0039c002b6761679e736d4bfc6e8c3eb53b1a2eb33"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-126a",
+   "short": "G.S. ch. 126A",
+   "title": "General Statutes Chapter 126A: North Carolina Human Resources Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126A.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 96,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126A.html",
+     "sha256": "8cd74704692bec4a992147b4829ae3abc4da4f3a8df65cab126716e96d4c911f"
     }
    ]
   }

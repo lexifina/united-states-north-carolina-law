@@ -4,6 +4,8 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The statute law of North Carolina as a git repository: one file per section, committed with the official publisher named as author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
+**Coverage and limits.** The local corpus contains the Constitution and 397 General Statutes chapters. Most text was reconstructed from Internet Archive captures of North Carolina General Assembly pages; Chapter 126A was added from the live official page. Historical captures are included for the Constitution and three chapters; 394 chapters have one current-text version each. This is a partial reconstruction: chapter listings include repealed and reserved chapters, and capture dates in existing versions do not establish when that wording took legal effect. Exact archive capture URLs, source based in force dates, and earlier wording still need verification and correction for most chapters. Chapter 50D has a source based latest-amendment date, August 1, 2023, supported by S.L. 2023-71 section 1(b). Do not use a version's capture date as its legal commencement date.
+
 **What is in it now (a first build, not complete)**
 
 | Folder | Act | Versions | History |
@@ -136,7 +138,7 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-50a/` | General Statutes Chapter 50A: Uniform Acts on Children | 1 | 131 sections; capture of 2026-06-14 |
 | `chapter-50b/` | General Statutes Chapter 50B: Domestic Violence | 1 | 13 sections; capture of 2026-10-09 |
 | `chapter-50c/` | General Statutes Chapter 50C: Civil No-Contact Orders | 1 | 11 sections; capture of 2026-05-14 |
-| `chapter-50d/` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 11 sections; capture of 2026-07-13 |
+| `chapter-50d/` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 11 sections; latest amendment effective 2023-08-01 (S.L. 2023-71, s. 1(b)) |
 | `chapter-51/` | General Statutes Chapter 51: Marriage | 1 | 30 sections; capture of 2026-09-27 |
 | `chapter-52/` | General Statutes Chapter 52: Powers and Liabilities of Married Persons | 1 | 16 sections; capture of 2026-04-15 |
 | `chapter-52a/` | General Statutes Chapter 52A: Uniform Reciprocal Enforcement of Support Act | 1 | 1 sections; capture of 2026-06-12 |
@@ -319,6 +321,7 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-124/` | General Statutes Chapter 124: Internal Improvements | 1 | 19 sections; capture of 2026-09-02 |
 | `chapter-125/` | General Statutes Chapter 125: Libraries | 1 | 28 sections; capture of 2026-05-03 |
 | `chapter-126/` | General Statutes Chapter 126: North Carolina Human Resources Act | 1 | 112 sections; capture of 2026-04-21 |
+| `chapter-126a/` | General Statutes Chapter 126A: North Carolina Human Resources Act | 1 | 96 sections; effective 2026-10-01 (S.L. 2026-40, s. 6.1) |
 | `chapter-127/` | General Statutes Chapter 127: Militia | 1 | 1 sections; capture of 2026-08-30 |
 | `chapter-127a/` | General Statutes Chapter 127A: Militia | 1 | 177 sections; capture of 2026-07-11 |
 | `chapter-127b/` | General Statutes Chapter 127B: Military Affairs | 1 | 31 sections; capture of 2026-09-11 |
@@ -406,7 +409,7 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-168a/` | General Statutes Chapter 168A: Persons With Disabilities Protection Act | 1 | 13 sections; capture of 2026-07-28 |
 | `chapter-169/` | General Statutes Chapter 169: North Carolina Regulatory Sandbox | 1 | 13 sections; capture of 2026-10-13 |
 
-In all: the Constitution and 396 chapters of the General Statutes. The other chapters are not in it yet.
+In all: the Constitution and 397 chapters of the General Statutes. The official chapter selector listed 397 chapters on 2026-11-11.
 
 ## Where the text comes from
 
