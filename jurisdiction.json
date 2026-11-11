@@ -1,0 +1,9 @@
+{
+  "path": "us-nc",
+  "code": "NC",
+  "name": "North Carolina",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-north-carolina-law",
+  "build": "built: Constitution and 397 General Statutes chapters; Chapter 126A added from live official text, effective 2026-10-01; most other chapter dates remain archive capture days",
+  "register_date": "2026-10-30"
+}
