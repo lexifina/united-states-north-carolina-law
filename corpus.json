@@ -1,0 +1,17 @@
+{
+ "corpus": "us/north-carolina/acts",
+ "path": "united-states/north-carolina/acts",
+ "scope": "selected-acts",
+ "acts": 398,
+ "future_branch": "future",
+ "publisher": "North Carolina General Assembly",
+ "name": "United States (North Carolina)",
+ "language": "en",
+ "coverage": "398 acts of United States (North Carolina) with every dated version the source gives (421 versions), in force from 2019-02-24 to 2026-11-11",
+ "history": "in-force",
+ "history_from": "2019-02-24",
+ "record_to": "2026-11-11",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from North Carolina General Assembly.",
+ "in_force_trailer": "In-force"
+}

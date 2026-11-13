@@ -9,6 +9,8 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The statute law of North Carolina as a git repository: one file per section, committed with the official publisher named as author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
+**Coverage and limits.** The local corpus contains the Constitution and 397 General Statutes chapters. Most text was reconstructed from Internet Archive captures of North Carolina General Assembly pages; Chapter 126A was added from the live official page. Historical captures are included for the Constitution and three chapters; 394 chapters have one current-text version each. This is a partial reconstruction: chapter listings include repealed and reserved chapters, and capture dates in existing versions do not establish when that wording took legal effect. Exact archive capture URLs, source based in force dates, and earlier wording still need verification and correction for most chapters. Chapter 50D has a source based latest-amendment date, August 1, 2023, supported by S.L. 2023-71 section 1(b). Do not use a version's capture date as its legal commencement date.
+
 **What is in it now (a first build, not complete)**
 
 | Folder | Act | Versions | History |
@@ -141,7 +143,7 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-50a/` | General Statutes Chapter 50A: Uniform Acts on Children | 1 | 131 sections; capture of 2026-06-14 |
 | `chapter-50b/` | General Statutes Chapter 50B: Domestic Violence | 1 | 13 sections; capture of 2026-10-09 |
 | `chapter-50c/` | General Statutes Chapter 50C: Civil No-Contact Orders | 1 | 11 sections; capture of 2026-05-14 |
-| `chapter-50d/` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 11 sections; capture of 2026-07-13 |
+| `chapter-50d/` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 11 sections; latest amendment effective 2023-08-01 (S.L. 2023-71, s. 1(b)) |
 | `chapter-51/` | General Statutes Chapter 51: Marriage | 1 | 30 sections; capture of 2026-09-27 |
 | `chapter-52/` | General Statutes Chapter 52: Powers and Liabilities of Married Persons | 1 | 16 sections; capture of 2026-04-15 |
 | `chapter-52a/` | General Statutes Chapter 52A: Uniform Reciprocal Enforcement of Support Act | 1 | 1 sections; capture of 2026-06-12 |
@@ -324,6 +326,7 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-124/` | General Statutes Chapter 124: Internal Improvements | 1 | 19 sections; capture of 2026-09-02 |
 | `chapter-125/` | General Statutes Chapter 125: Libraries | 1 | 28 sections; capture of 2026-05-03 |
 | `chapter-126/` | General Statutes Chapter 126: North Carolina Human Resources Act | 1 | 112 sections; capture of 2026-04-21 |
+| `chapter-126a/` | General Statutes Chapter 126A: North Carolina Human Resources Act | 1 | 96 sections; effective 2026-10-01 (S.L. 2026-40, s. 6.1) |
 | `chapter-127/` | General Statutes Chapter 127: Militia | 1 | 1 sections; capture of 2026-08-30 |
 | `chapter-127a/` | General Statutes Chapter 127A: Militia | 1 | 177 sections; capture of 2026-07-11 |
 | `chapter-127b/` | General Statutes Chapter 127B: Military Affairs | 1 | 31 sections; capture of 2026-09-11 |
@@ -411,23 +414,25 @@ The statute law of North Carolina as a git repository: one file per section, com
 | `chapter-168a/` | General Statutes Chapter 168A: Persons With Disabilities Protection Act | 1 | 13 sections; capture of 2026-07-28 |
 | `chapter-169/` | General Statutes Chapter 169: North Carolina Regulatory Sandbox | 1 | 13 sections; capture of 2026-10-13 |
 
-In all: the Constitution and 396 chapters of the General Statutes. The other chapters are not in it yet.
+In all: the Constitution and 397 chapters of the General Statutes. The official chapter selector listed 397 chapters on 2026-11-11.
 
 ## Where the text comes from
 
-Only section headings and text are taken; the history notes in brackets at the end of a section are left out where their form is recognised (some older ones, such as those citing C.C.P., stay). Every text is an Internet Archive capture of the General Assembly's own public page (ncleg.gov).
+Texts come from the North Carolina General Assembly's official pages. Most existing versions use Internet Archive captures; Chapter 126A uses the official current chapter page. Chapter 50D's unchanged text was also checked against its official current page. Earlier chapters omit trailing publisher history notes where their form is recognised; Chapter 126A retains the source's history citations.
 
 ## Dates
 
-A version is dated by the day the Internet Archive captured the page, not by the day a change took effect. Only a sample of captures is used (the Constitution: first, middle and last per article; chapters: one per year from 2019 and the last), so a change shown on one date may have happened earlier.
+Chapter 126A is dated 2026-10-01, the effective date stated in S.L. 2026-40 section 6.1. Chapter 50D is dated 2023-08-01, the latest amendment's effective date stated in S.L. 2023-71 section 1(b). Their inventory rows use those source-based dates.
+
+Other existing versions remain dated by the day of their Internet Archive capture. Those dates identify the copies used and do not establish when the wording took legal effect. Only a sample of historical captures is included, so a change shown on one date may have happened earlier.
 
 - Chapters added on 2026-11-10 hold one version each: the newest Internet Archive capture of the chapter page, dated by the capture day (the page states no currency date). Their sections' structural headings (Subchapter, Article, Part) are not part of any section, and a heading such as "2-1 through 2-60" keeps its whole range.
 
 ## What it does not show
 
-- Changes are credited to the capture, not to the act that made them.
+- Most older changes are credited to the capture rather than the amending act; the two source-based dates above are supported by the cited session laws.
 - The Constitution's articles were captured on different days; each version uses each article's latest sampled capture on or before its date.
-- Only the Constitution and 396 chapters are included; a chapter whose page the Internet Archive does not hold is not.
+- The Constitution and all 397 chapters in the checked official selector are represented, including repealed and reserved chapters. Complete historical wording, commencement dates, exact archive provenance and normative-image coverage remain unverified for most acts.
 
 ## How it is checked
 
@@ -436,4 +441,4 @@ A version is dated by the day the Internet Archive captured the page, not by the
 
 ## What "author" means
 
-Each commit is authored by the publisher (North Carolina General Assembly) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.
+Initial text commits name the publisher, North Carolina General Assembly, as author. Labelled corrections name Lexifina and cite their official source basis. The committer is Lexifina.
