@@ -9,84 +9,126 @@
    "versions": [
     {
      "from": "2022-01-26",
+     "to": "2022-01-27",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "b8e828bf71f5f13ccbed7a308d1e59b6d429b1914a5c0b7fe199e2ec5ca8e8c0"
     },
     {
      "from": "2022-01-28",
+     "to": "2022-07-24",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "9ec56ccf085b41bdade80ffed546617547b558de460a597a10c8787a1cb6a9eb"
     },
     {
      "from": "2022-07-25",
+     "to": "2022-07-29",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "54c8966f56577fcb186d6377c86cf945f6145c2921c336d404484d9d4f2b8ac5"
     },
     {
      "from": "2022-07-30",
+     "to": "2023-03-20",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "bfd136afd11fbff9358e8b7063b763d5e648f48adddf473f06bcbb26205068cc"
     },
     {
      "from": "2023-03-21",
+     "to": "2025-12-12",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "4321698b11b7b731a95da22ac6d2aed9230f0bb590eef7d07225ad767a43238c"
     },
     {
      "from": "2025-12-13",
+     "to": "2026-04-10",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "ed399c9616aeb673f02b39a14a939fd6f7a15f4433f17f185904015ec89f1c06"
     },
     {
      "from": "2026-04-11",
+     "to": "2026-05-04",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "84829330c2a525c3e958765bf0143c91fbaca57c637ceb4a84a7bcbc6c16c18d"
     },
     {
      "from": "2026-05-05",
+     "to": "2026-05-14",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "bf71ed9ab5fbd79d52ca643be5586efd3d8fe987975c70e031de002a976fcbf0"
     },
     {
      "from": "2026-05-15",
+     "to": "2026-05-27",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "f8b8b3d958075461ad188899467cb1a5cafc5dd68a743999258c3f814c022d51"
     },
     {
      "from": "2026-05-28",
+     "to": "2026-07-09",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "8fac00854295b196b80ddd821b01396edc53f1433fce008bee1f0a1b5389a443"
     },
     {
      "from": "2026-07-10",
+     "to": "2026-07-10",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "decf64a0dd7e3b064c30eea5bf96e78ef93bf13a2726a0fca16f6addf64afe2d"
     },
     {
      "from": "2026-07-11",
+     "to": "2026-07-12",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "1bc2a0bd2383263b0bb654996d9ce57a13c7d3d7e9ba583d197bed082588a84a"
     },
     {
      "from": "2026-07-13",
+     "to": "2026-09-10",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "ea73a82517a46202d503bd66a977fc3cb3e8ef72588cb392573e9afe32c8e37d"
     },
     {
      "from": "2026-09-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 154,
      "source_url": "https://www.ncleg.gov/Laws/Constitution",
      "sha256": "b6065c12ff3cd6eb563eb46e6c37693832441d33be289347c852f5497223803e"
@@ -101,30 +143,45 @@
    "versions": [
     {
      "from": "2019-02-24",
+     "to": "2021-01-25",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 1094,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
      "sha256": "7050fc2d1b530cc855a6df151c0a2d08464c827f09a6e09576d8bb3673c69978"
     },
     {
      "from": "2021-01-26",
+     "to": "2023-01-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 1115,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
      "sha256": "ac4dfc963fdc3579aa3f9a3ef492b080bfc19f19897f28c868b6004f5cc1e1b4"
     },
     {
      "from": "2023-01-31",
+     "to": "2025-01-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 1133,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
      "sha256": "2829760485fbbebfeeafa2a4f0a5249689a0121358ff6a5844436d328880fdbc"
     },
     {
      "from": "2025-02-01",
+     "to": "2026-06-08",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 1133,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
      "sha256": "196688e7d4204e395a84a1170117d68f56491a6697740a0d95fe749a862c348a"
     },
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1145,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_14.html",
      "sha256": "448111849b63d667765c0a05a48df844e09dac3fec4fa986546818d4db0a2432"
@@ -139,24 +196,36 @@
    "versions": [
     {
      "from": "2021-01-30",
+     "to": "2023-01-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 297,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
      "sha256": "13387bd75e2b778a253af6ecee10bd254ed0e17a932e17cac8e041fe93d29780"
     },
     {
      "from": "2023-01-31",
+     "to": "2025-10-05",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 298,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
      "sha256": "2b0b8e360099517cd351406908b9247c25ce23a1750f73bf9b1842c4afeb4e24"
     },
     {
      "from": "2025-10-06",
+     "to": "2026-04-13",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 298,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
      "sha256": "fbf75043abe019c4f8ad52e093e810477ead238d925a5938d03629fdaa2865ae"
     },
     {
      "from": "2026-04-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 299,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55.html",
      "sha256": "6e58772a81444279914192100ccab036f73c3b387403970f55ce0c29d54b2375"
@@ -171,24 +240,36 @@
    "versions": [
     {
      "from": "2021-01-30",
+     "to": "2023-01-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 100,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
      "sha256": "82376512a86ebdca72386edf009dd33e7831ff0df0c7ad922f704b13cb6b64a3"
     },
     {
      "from": "2023-01-31",
+     "to": "2025-05-28",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 101,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
      "sha256": "d2cd8c5d96534174d5850acae11e1763d74196c8b37ce40681c4fa4d1310d43b"
     },
     {
      "from": "2025-05-29",
+     "to": "2026-04-14",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 102,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
      "sha256": "40de590ba615c6529857b428d9bcde1cb5af8e8cb8e83310c707cca44637c45c"
     },
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 102,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42.html",
      "sha256": "d9ee28906ffa77c4ffa867b4236a633e4e2b2b4c7a87f6c5a8508bd415a111d1"
@@ -203,6 +284,9 @@
    "versions": [
     {
      "from": "2026-07-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 891,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1.html",
      "sha256": "3c4d367d06615055067075b674a466b6e4478e6f8843f5cee05f142d19c6f81a"
@@ -217,6 +301,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10.html",
      "sha256": "2bfd1ccfb4508ed6406729d5546f177c025e3973fc13ed494ce43bbafabe5231"
@@ -231,6 +318,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_100.html",
      "sha256": "1c8f6d914c247e1cd576f43377cbe7c0d968674d267a63703d951dc8bd2abd97"
@@ -245,6 +335,9 @@
    "versions": [
     {
      "from": "2026-09-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_101.html",
      "sha256": "06f7e9f51814f41bad7e4a8d8e4c3b819e7fa3cc00f4ab47a273c2337a0117ad"
@@ -259,6 +352,9 @@
    "versions": [
     {
      "from": "2026-09-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_102.html",
      "sha256": "68f5f351614b27232aa3f929cc1fb842b024ecad431649ba0c8c397490d565e4"
@@ -273,6 +369,9 @@
    "versions": [
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_103.html",
      "sha256": "ff0e873eeaf6dbcedff18efd86c65adbc813f14ec58df87705878b078ffde774"
@@ -287,6 +386,9 @@
    "versions": [
     {
      "from": "2026-05-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104.html",
      "sha256": "7671ad3e6e98ee573d6d12940070343e6c99f2e2c6587a0490691220a796f3f8"
@@ -301,6 +403,9 @@
    "versions": [
     {
      "from": "2026-05-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104A.html",
      "sha256": "ce4fb426c3693c54a70ab64de496c2d4f0c13a742ee965d4bb69d9ff7101626c"
@@ -315,6 +420,9 @@
    "versions": [
     {
      "from": "2026-04-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104B.html",
      "sha256": "4992fb1b932cbef7448dd5d763059c9e9732bdbbaf54381c19e7c4ceee61cdf8"
@@ -329,6 +437,9 @@
    "versions": [
     {
      "from": "2026-08-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104C.html",
      "sha256": "e0be943bc95121fd3d2278917b64c4c28d5eed75d259c91b74a34e121f790a61"
@@ -343,6 +454,9 @@
    "versions": [
     {
      "from": "2026-07-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104D.html",
      "sha256": "3ddb7bf9212c9b4d5596ddb52fb5c02f55834cf402b7f3f4c03bc402a377c7f4"
@@ -357,6 +471,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 35,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104E.html",
      "sha256": "7b748e9bf9902e809336b28c2f4446a6fba9d72048c2876d500bc18845d1e04c"
@@ -371,6 +488,9 @@
    "versions": [
     {
      "from": "2026-06-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104F.html",
      "sha256": "c504f4bdba3ea1c59f002f663a7bc67b4f9899a243448a9a12a49f27cd6f32fd"
@@ -385,6 +505,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_104G.html",
      "sha256": "df50d2b868aede896f9f988af3e34167cf8cc93ff4d25dff7568bcb19d6ed313"
@@ -399,6 +522,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1383,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105.html",
      "sha256": "4e8798bb8933f1530ed44a2abef812df326f011ed793cb0374e7a4c3d0221202"
@@ -413,6 +539,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105A.html",
      "sha256": "ccae76ca45cd818a45751eae26481c279225610d20addc99650314176b73bdf5"
@@ -427,6 +556,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_105B.html",
      "sha256": "7959c1ce299cd38da57bd72f14bd0cca786b2e318ebfc02601a420b1bb9a9728"
@@ -441,6 +573,9 @@
    "versions": [
     {
      "from": "2026-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1314,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_106.html",
      "sha256": "687ab7dcd7fa301bb6fa244c003033083b23d8dccc06af262a04252f5fb2020a"
@@ -455,6 +590,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_107.html",
      "sha256": "0af1efb9a56324af2cf5150f65102698580621701e17e7bd6c90e93e48eff7b0"
@@ -469,6 +607,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108.html",
      "sha256": "ecdde6013b322fa6dde4566e60965965660fbe9eb48609975096b315b65b6c21"
@@ -483,6 +624,9 @@
    "versions": [
     {
      "from": "2026-08-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 334,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108A.html",
      "sha256": "5c31960f46546830a90263ca0603ee9f54eb76d66360585d976d5bf667d58866"
@@ -497,6 +641,9 @@
    "versions": [
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108B.html",
      "sha256": "9d2043cb9a400bea2ad4fcfdfef8780a06ed4643020885e9da0d5db109630a57"
@@ -511,6 +658,9 @@
    "versions": [
     {
      "from": "2026-04-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108C.html",
      "sha256": "2fe747e53c3514e0a970745e1209b0dcc1f1777403b556e0c465c7f96650884c"
@@ -525,6 +675,9 @@
    "versions": [
     {
      "from": "2026-08-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 47,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_108D.html",
      "sha256": "fe319abd25f3d511c77b91f5d97337838fa77be417e06bf5d99e49ab45357d81"
@@ -539,6 +692,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_109.html",
      "sha256": "60ee4d35783f337847f666293361f90b15f77ee5c14bc3d3e16380fcddcaad16"
@@ -553,6 +709,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10A.html",
      "sha256": "a73460f2d16678c9ef909a52078e6b65c11250590eaa127e537aaf7db6c1ebbc"
@@ -567,6 +726,9 @@
    "versions": [
     {
      "from": "2026-10-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 175,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_10B.html",
      "sha256": "4555ea1997ab1b91e613325818c51be2701f12e1465962e40ef964e5ffc0070c"
@@ -581,6 +743,9 @@
    "versions": [
     {
      "from": "2026-06-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_11.html",
      "sha256": "49541393dd0791a8c1fcc77c94f9d92aac7bb691d10ddb4fe89f512eca4b1089"
@@ -595,6 +760,9 @@
    "versions": [
     {
      "from": "2026-09-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 120,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_110.html",
      "sha256": "d364b0d9cb8f02d392a8a83c7d5b21545054e4d9acf5dcff3fcdc44dde9475e5"
@@ -609,6 +777,9 @@
    "versions": [
     {
      "from": "2026-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 62,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_111.html",
      "sha256": "0772890edb9c0f93256649bb60a26f34ea76537571fe7e520613fbaeefd2cf58"
@@ -623,6 +794,9 @@
    "versions": [
     {
      "from": "2026-05-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_112.html",
      "sha256": "bd2cbbf1545b12415a66cb4394d034bbff03487893626db4365e3e5ab534ed74"
@@ -637,6 +811,9 @@
    "versions": [
     {
      "from": "2026-09-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 435,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113.html",
      "sha256": "e59fa718bdf340bb324af7b534aef34dace0d6680112acbb5fc41f4e7f85e9bb"
@@ -651,6 +828,9 @@
    "versions": [
     {
      "from": "2026-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 234,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113A.html",
      "sha256": "29e58c307f67aca1384056b919918c0e3bad8c135f0a35ef3b131dde0e5d431a"
@@ -665,6 +845,9 @@
    "versions": [
     {
      "from": "2026-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_113B.html",
      "sha256": "999b78836544a0a1c83b02ff1f339bb3b9100d06a203778a7773e124301a9350"
@@ -679,6 +862,9 @@
    "versions": [
     {
      "from": "2026-06-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 103,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_114.html",
      "sha256": "e7a5e9511ad410c204f74fdbd6b48aed8d4031a33638f03d6164dec6587a869a"
@@ -693,6 +879,9 @@
    "versions": [
     {
      "from": "2026-10-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_114A.html",
      "sha256": "1fe7513298d11c01ffe95914cf0927309add62e26ec0f9ab33ff304f68203dec"
@@ -707,6 +896,9 @@
    "versions": [
     {
      "from": "2026-07-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115.html",
      "sha256": "3825be0a4230eb5312c80ff1c73a8bb5ffff9cd523f447cb0d9ffa7ea51f91fa"
@@ -721,6 +913,9 @@
    "versions": [
     {
      "from": "2026-06-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115A.html",
      "sha256": "bc76301b42ddaa384830746ba5239172b8c25b88388d4a5110bd26a0594a092f"
@@ -735,6 +930,9 @@
    "versions": [
     {
      "from": "2026-05-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115B.html",
      "sha256": "c5da537af4d446c8ad5b332a58843e1a110e1a489c00704fadb86c88415ca285"
@@ -749,6 +947,9 @@
    "versions": [
     {
      "from": "2026-06-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1146,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115C.html",
      "sha256": "4d45d380e280f42d9d2fb9e18953a282e5e0f3fe77ce361f7b1c0c1eb463deb1"
@@ -763,6 +964,9 @@
    "versions": [
     {
      "from": "2026-07-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 186,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115D.html",
      "sha256": "2112eec00d497841b80bd4dd057f0254b96e39514bdc202aee209d42a026b3d9"
@@ -777,6 +981,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_115E.html",
      "sha256": "eb21cd5be5032342b5a9616ba2f8f940fbdb327259539c212211e1d5d57a5ece"
@@ -791,6 +998,9 @@
    "versions": [
     {
      "from": "2026-05-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 527,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116.html",
      "sha256": "47ad5a5cd94f6949e38f6940085c601f00467fbc99c0904c72791ab74d713a14"
@@ -805,6 +1015,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116A.html",
      "sha256": "59790f79bedf8f5e604f15974a6400daca709b7bbb6fb5567020853fc188c558"
@@ -819,6 +1032,9 @@
    "versions": [
     {
      "from": "2026-11-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 54,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116B.html",
      "sha256": "f522662675c3e877e925f08b9c173dc94e70bc7ff27c91582c298700f4a780b0"
@@ -833,6 +1049,9 @@
    "versions": [
     {
      "from": "2026-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116C.html",
      "sha256": "5de28c7c0029431b874b9e0e99426f85d0b1d6bdba1496591e01c16b41a34e07"
@@ -847,6 +1066,9 @@
    "versions": [
     {
      "from": "2026-08-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 39,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116D.html",
      "sha256": "d8106988bca19005bf4da7696dd24e1e25dd984a491985209acebe2fa6ca72cb"
@@ -861,6 +1083,9 @@
    "versions": [
     {
      "from": "2026-04-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_116E.html",
      "sha256": "8446d72e137840c9a7f56230e169fac8c85925fc5c17a73e84e30d2ff12fd95c"
@@ -875,6 +1100,9 @@
    "versions": [
     {
      "from": "2026-09-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_117.html",
      "sha256": "1338d258a922985bd692030f841485539df585b0dbdc8d2371b43be8ea291538"
@@ -889,6 +1117,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118.html",
      "sha256": "ab72874fa3541fcf9943c9689143fa92b8952f28e281c0b2820d7f2ef6040f78"
@@ -903,6 +1134,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118A.html",
      "sha256": "40607e5fad7710b3b1a91fe6c6e886842f56e39c6b698124b10158f3d7a98e65"
@@ -917,6 +1151,9 @@
    "versions": [
     {
      "from": "2026-01-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_118B.html",
      "sha256": "fcad12531465224047237fd47919c175de11c756f17d9e2e786b82d78579c86a"
@@ -931,6 +1168,9 @@
    "versions": [
     {
      "from": "2025-12-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 81,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_119.html",
      "sha256": "2c3457297d2ebdff587dfb1e186be2133da727e04a2efc253f64683c0406ade6"
@@ -945,6 +1185,9 @@
    "versions": [
     {
      "from": "2026-07-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_12.html",
      "sha256": "f014d1781feb3332c9385ecf51a6607850244768b707ed3f5664da6288ac42ca"
@@ -959,6 +1202,9 @@
    "versions": [
     {
      "from": "2026-04-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 497,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_120.html",
      "sha256": "bc679456795f962cff8dfd32f8fa4a17597c4dda02978a47d384d5e0e6c85f08"
@@ -973,6 +1219,9 @@
    "versions": [
     {
      "from": "2026-08-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 899,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_120C.html",
      "sha256": "3174d29e3a17e4fdb501c9f6dcfd7fed7a5c88eaaaad4570766080a0bbef2457"
@@ -987,6 +1236,9 @@
    "versions": [
     {
      "from": "2026-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 63,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_121.html",
      "sha256": "87df9e048cf9dca420ce7584e91ea5661d9489233fcecbccf3c4dced7598dcb4"
@@ -1001,6 +1253,9 @@
    "versions": [
     {
      "from": "2026-07-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122.html",
      "sha256": "44be2e0a2baa087259c397f32d7cd95bc8c948c7e2cd4124395286d3adac5763"
@@ -1015,6 +1270,9 @@
    "versions": [
     {
      "from": "2026-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 39,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122A.html",
      "sha256": "1fdb47ab15c28385dca4dce70c9108f91cfcae236cd3be1004846a9925189900"
@@ -1029,6 +1287,9 @@
    "versions": [
     {
      "from": "2026-01-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122B.html",
      "sha256": "45fd04e2c72d6f87b0502b98d9ff8ee492c56cc1165dc423f730be2371ae4c05"
@@ -1043,6 +1304,9 @@
    "versions": [
     {
      "from": "2026-08-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 411,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122C.html",
      "sha256": "f0caa750eb0913a0bc1641698741ee47d57055e1e8b4429f2b8c449dcef06657"
@@ -1057,6 +1321,9 @@
    "versions": [
     {
      "from": "2026-06-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122D.html",
      "sha256": "88c7b36c9905052b7a5e005f3c0325d9ea1c5411034a7a939e774c155ffa50b2"
@@ -1071,6 +1338,9 @@
    "versions": [
     {
      "from": "2025-11-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_122E.html",
      "sha256": "b8e7bc9d207ab25184e7aa9517ee532403d90ac7510f77df58ffe1d9c37fe1a9"
@@ -1085,6 +1355,9 @@
    "versions": [
     {
      "from": "2026-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_123.html",
      "sha256": "19cee74622218b7b2ad6588a4204001e61fdb3e786233ebb9896c03ffbcf67dc"
@@ -1099,6 +1372,9 @@
    "versions": [
     {
      "from": "2026-07-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_123A.html",
      "sha256": "f7cd7cf80acf7864da02ab724ae1885ab83bfbe77dbd36bc5f2776df49f3c6c1"
@@ -1113,6 +1389,9 @@
    "versions": [
     {
      "from": "2026-09-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_124.html",
      "sha256": "658591eba243bf76b5e242d9bf1d746a4a43dbaa6f732656e8a658c7895a0ff0"
@@ -1127,6 +1406,9 @@
    "versions": [
     {
      "from": "2026-05-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_125.html",
      "sha256": "af592eb3a6605fe128ed99d43a6f060f988cc75adf4c841b7e8aec5fc76e457f"
@@ -1141,6 +1423,9 @@
    "versions": [
     {
      "from": "2026-04-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 112,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126.html",
      "sha256": "08f27de1cc7f576a2f259d4d2e908a0f8c8a78f46a759ae446215189762cdb0e"
@@ -1155,6 +1440,9 @@
    "versions": [
     {
      "from": "2026-08-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127.html",
      "sha256": "3d5e975e0869c727da72f40e2779739d665519e1cd23b7416b3549293e548a9f"
@@ -1169,6 +1457,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 177,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127A.html",
      "sha256": "678fd4e4689146571a932b31073d847e9334b223c72274baa090e74d80226807"
@@ -1183,6 +1474,9 @@
    "versions": [
     {
      "from": "2026-09-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127B.html",
      "sha256": "84d20fa94138639531458a24e24189800bdcc0d1f5319e55ffbdea7dfb3d0ed1"
@@ -1197,6 +1491,9 @@
    "versions": [
     {
      "from": "2026-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_127C.html",
      "sha256": "72d196a5d56a4a4e53f820bf5b91b9b26bc4f28e3866f83582d8f13881a7addc"
@@ -1211,6 +1508,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 80,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_128.html",
      "sha256": "dfa665ce3d0e38d893ebd3d279fd0ca6199d0542ab52dbd0f7dd9d5c89654934"
@@ -1225,6 +1525,9 @@
    "versions": [
     {
      "from": "2025-11-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_129.html",
      "sha256": "5768c1432d85ff49037893d68d861232dcb1bcd532561deb20d2cd8571ceaaf4"
@@ -1239,6 +1542,9 @@
    "versions": [
     {
      "from": "2026-10-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_13.html",
      "sha256": "f665689b638d9703ccefaf4ebcc50d75cef286f5cc8390a448b9ec8ba3aca629"
@@ -1253,6 +1559,9 @@
    "versions": [
     {
      "from": "2025-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130.html",
      "sha256": "947c895d066015262a8419dcd6bfd428422b1e3f334df3e88767e76e29316757"
@@ -1267,6 +1576,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1000,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130A.html",
      "sha256": "9299ca9c52763c6de7dcd91c9865d7361184c8261751e28c4b442fa4b9c05500"
@@ -1281,6 +1593,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_130B.html",
      "sha256": "62ca711ea87ac8c89d88678e87eb938f723c5dc4cf21960421c11754b64f30a1"
@@ -1295,6 +1610,9 @@
    "versions": [
     {
      "from": "2026-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131.html",
      "sha256": "140c5bdac7577461571ecd5e3a4390ee00df0b937ee51dd06066bdf5f68171f3"
@@ -1309,6 +1627,9 @@
    "versions": [
     {
      "from": "2026-04-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131A.html",
      "sha256": "a89c66bbdd8588544e4f9579fad840232bcc5cf4834dbbace3ab895014455779"
@@ -1323,6 +1644,9 @@
    "versions": [
     {
      "from": "2026-06-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131B.html",
      "sha256": "7053873cb4b7ee89d869353e699597c4045bfe67f06fded77223eb45da855eaf"
@@ -1337,6 +1661,9 @@
    "versions": [
     {
      "from": "2026-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131C.html",
      "sha256": "54a73dacfc722dd1b0a037ebd313f7a900d293d824afdb5f0c4314d59582623d"
@@ -1351,6 +1678,9 @@
    "versions": [
     {
      "from": "2026-07-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 98,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131D.html",
      "sha256": "4459c5a9569ef4631a28cf89a19b27f31487116fdd8da0e758af75b59d30a76c"
@@ -1365,6 +1695,9 @@
    "versions": [
     {
      "from": "2026-10-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 367,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131E.html",
      "sha256": "f7ac9f17c8919d918de68dc1ab461bb3ec232e0ae9f9c95f886a61d7dbfbc57b"
@@ -1379,6 +1712,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_131F.html",
      "sha256": "db3977e0fb9eede9d3768809c38ab7049c9e0ada2becb21e414055242f8fe722"
@@ -1393,6 +1729,9 @@
    "versions": [
     {
      "from": "2026-05-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 43,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_132.html",
      "sha256": "1f4830a0d732bfbeab754e7089dde2866161132ea9b33b98fd0000ab191cdaff"
@@ -1407,6 +1746,9 @@
    "versions": [
     {
      "from": "2026-09-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_133.html",
      "sha256": "568768d398df7f1e59fee25c4549a60d5fd364bb8628453c428852205f0b2024"
@@ -1421,6 +1763,9 @@
    "versions": [
     {
      "from": "2025-10-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_134.html",
      "sha256": "8fef93e7f883456714b8081c9d74c002160cc4a9743f9e8f1b8a855aea02eecf"
@@ -1435,6 +1780,9 @@
    "versions": [
     {
      "from": "2026-07-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_134A.html",
      "sha256": "198bcd7847b5ba492519634a8b2a5098f1eb93c52b828d525becb4739571d04c"
@@ -1449,6 +1797,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 248,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_135.html",
      "sha256": "c31e8e8e85ff07426dabe3eec42aedb5f3d601970a9f3efc993d4ee1890097a1"
@@ -1463,6 +1814,9 @@
    "versions": [
     {
      "from": "2026-04-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 543,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_136.html",
      "sha256": "d1bbfa83ff8201a451ea5371a58cde5d331541912af9c1a9f79d2402fdff4270"
@@ -1477,6 +1831,9 @@
    "versions": [
     {
      "from": "2026-01-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_137.html",
      "sha256": "7e584f9c0f8832e7b0eddf0d9fb063656f38c8d721a01201502912696148bb3b"
@@ -1491,6 +1848,9 @@
    "versions": [
     {
      "from": "2025-11-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_138.html",
      "sha256": "7cf3289f3389fb323e614f5d8222ec3f4bb34a5e3661873c31c5325047faaf6e"
@@ -1505,6 +1865,9 @@
    "versions": [
     {
      "from": "2026-08-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_138A.html",
      "sha256": "6057ed12e77fb92af82d39d1347ad52b81a3b716e639f4b25343b33b274ee316"
@@ -1519,6 +1882,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 57,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_139.html",
      "sha256": "00738eb5465addaa07547518333deb3f7f3a72fd47a42dcb2c7344ad282f3f87"
@@ -1533,6 +1899,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_140.html",
      "sha256": "f6276a477044015554116df37a9c8ad45a542e28d7dac059ef476d1b3ca72072"
@@ -1547,6 +1916,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_140A.html",
      "sha256": "e34eff97732700ad91883beca04e6049bdefd218f94453313affa9285fead329"
@@ -1561,6 +1933,9 @@
    "versions": [
     {
      "from": "2026-10-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_141.html",
      "sha256": "f9b42d1c3612a7b33c5eaf61af07bd8522453ddb7dbfd9fb7b4d9b137f356710"
@@ -1575,6 +1950,9 @@
    "versions": [
     {
      "from": "2026-01-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 96,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_142.html",
      "sha256": "eaffba77914b4ce34867f19684c48785f9e17c7c52bb2dfc727769644b60f83e"
@@ -1589,6 +1967,9 @@
    "versions": [
     {
      "from": "2026-10-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1358,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143.html",
      "sha256": "8b5bf7d42b120511dd4d4784abfabfd8b417953ed19e012d138fb351aef3305d"
@@ -1603,6 +1984,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 113,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143A.html",
      "sha256": "e6cc486a31c5ba055ac71f508c512153be3574b3c3c7e5ca57892a53d193f317"
@@ -1617,6 +2001,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1955,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143B.html",
      "sha256": "5c93b419d76ab2869bee2ffc95553d0fe284aa18e1ccad2d638e813d6f26a82c"
@@ -1631,6 +2018,9 @@
    "versions": [
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 90,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143C.html",
      "sha256": "5e0b7bcfcb4f55f2fbeb36bdea49e17367cd37c4f5a2244f1fd7391b3fde7c5c"
@@ -1645,6 +2035,9 @@
    "versions": [
     {
      "from": "2026-09-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143D.html",
      "sha256": "70299ca8dcaa035af46d59f4eee27c502cee55eee3eea05bd2b538dbcdea4b77"
@@ -1659,6 +2052,9 @@
    "versions": [
     {
      "from": "2026-05-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_143E.html",
      "sha256": "2c4e862e4d38cfcc98fbdfac4de8a22c8740dee088255df13fbe5a9ee2379ac9"
@@ -1673,6 +2069,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_144.html",
      "sha256": "c8d728f5734500e296d9da78127e5b81cadeb9eaadeae9d1210123d6e8090253"
@@ -1687,6 +2086,9 @@
    "versions": [
     {
      "from": "2026-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 52,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_145.html",
      "sha256": "3665bdf6f75947eb71f2e2bec202d7d055dee0f06461030c4568af8b4d668fc1"
@@ -1701,6 +2103,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 102,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_146.html",
      "sha256": "a2ecacff792781a7ded3a722e87efba55ce74f03e983f664a6e530ff20b4a475"
@@ -1715,6 +2120,9 @@
    "versions": [
     {
      "from": "2025-11-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 269,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_147.html",
      "sha256": "42f913bdf445e5d0d1bf4edcee971678451e8919c945c8a1caa0b5c44e37af6f"
@@ -1729,6 +2137,9 @@
    "versions": [
     {
      "from": "2026-03-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 162,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_148.html",
      "sha256": "7ac9111f315655975a59902395d5860679a1a3eb00d303d5a4230a5da35c9cbc"
@@ -1743,6 +2154,9 @@
    "versions": [
     {
      "from": "2026-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_149.html",
      "sha256": "1ba56a9e023da01e00a1ea75fcf1ae7cafa301548f686c1cbb89f3bd917c90fb"
@@ -1757,6 +2171,9 @@
    "versions": [
     {
      "from": "2026-04-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 144,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15.html",
      "sha256": "abd468d7c71c5f88df614c1d1f9f2d215ac28f91592465359db1c646e0a44c51"
@@ -1771,6 +2188,9 @@
    "versions": [
     {
      "from": "2026-01-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150.html",
      "sha256": "b87a99d0840672ccaf6042dd77e196f92db9397ea81fd89b0107b0375887a2fe"
@@ -1785,6 +2205,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150A.html",
      "sha256": "6120ce1a22c98cda4545f1d041f229cdace36cf0e39b1ae5088c776bbc27f776"
@@ -1799,6 +2222,9 @@
    "versions": [
     {
      "from": "2026-09-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 85,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_150B.html",
      "sha256": "1daf186bd6197a7e18c1900cf4cb8a8f8f2440675d918598ffbd6faf461a859e"
@@ -1813,6 +2239,9 @@
    "versions": [
     {
      "from": "2026-09-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_151.html",
      "sha256": "b53fc7646bd806b4127e71bce5d2b2234cd9991d28f1e5d4ee5e920dc6fc7780"
@@ -1827,6 +2256,9 @@
    "versions": [
     {
      "from": "2026-08-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_152.html",
      "sha256": "d24bc080029b2956a4643693baaf67ab9f3d4ee1978806fdffa3e59398df4eb5"
@@ -1841,6 +2273,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_152A.html",
      "sha256": "67ad647992bd6c2c47c43996c3077076f0e39a9fd3d40a4b186bcafab84ca3ef"
@@ -1855,6 +2290,9 @@
    "versions": [
     {
      "from": "2026-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153.html",
      "sha256": "1c6539692510658df76c148524af59ace0c6034fa62302f5aa6553f302cf30d4"
@@ -1869,6 +2307,9 @@
    "versions": [
     {
      "from": "2026-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 444,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153A.html",
      "sha256": "85b73c47dd8d39e6213b2cc6e3521f381a07e7b3b0f0ca415693ca901b349814"
@@ -1883,6 +2324,9 @@
    "versions": [
     {
      "from": "2026-08-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153B.html",
      "sha256": "adb0ba1d688b698d6febffa0376392172740ebaf11b3c7c5b22cfdef4c91418c"
@@ -1897,6 +2341,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_153C.html",
      "sha256": "77ad67de0218249657da91eec9646a01c422792cf75441a3d5935a9d0bd9bb0f"
@@ -1911,6 +2358,9 @@
    "versions": [
     {
      "from": "2026-05-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_154.html",
      "sha256": "48b37fb48bc03555ce35c14cd5d387a1fce8412a77a8caf00bfb9e49237c8b7f"
@@ -1925,6 +2375,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_155.html",
      "sha256": "84935484210d822ebf85112a80975c030b37145e531a754dfa5dbd041fe5957b"
@@ -1939,6 +2392,9 @@
    "versions": [
     {
      "from": "2026-09-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 162,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_156.html",
      "sha256": "0a383489a748de00dfe3038ac6bcb920c13686b01cbca4287ed1b5eaab0ee431"
@@ -1953,6 +2409,9 @@
    "versions": [
     {
      "from": "2026-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 88,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_157.html",
      "sha256": "354b136f6a52af1bb28b29d20ed32ef31c115c05fd788bb90fdcf758d7b0bc7f"
@@ -1967,6 +2426,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_157A.html",
      "sha256": "1ea87d54f8e1691bc88264b109e37aca6aa4208705e041e5d41aa72d7ea2fc01"
@@ -1981,6 +2443,9 @@
    "versions": [
     {
      "from": "2026-03-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_158.html",
      "sha256": "717b988c1e266f93df6c338f3e1b213fdde0deb336d4284f2d7a881a15274dde"
@@ -1995,6 +2460,9 @@
    "versions": [
     {
      "from": "2025-11-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 203,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159.html",
      "sha256": "171331f3a3da9c01024668290d7e1a6078242b2cd1532fd3d02009cc8d27199b"
@@ -2009,6 +2477,9 @@
    "versions": [
     {
      "from": "2026-08-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159A.html",
      "sha256": "55b27ac3e7218febccb8fbdbe407ea478dda54ec8b4e1f0a207390057bb6a8ea"
@@ -2023,6 +2494,9 @@
    "versions": [
     {
      "from": "2025-11-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159B.html",
      "sha256": "642bc889953a1ab29e4f6d8fea2172da43eea77d0cbad00b48273e2b2f8942ce"
@@ -2037,6 +2511,9 @@
    "versions": [
     {
      "from": "2026-01-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159C.html",
      "sha256": "92c5ab37e178af1b89321911d40eed8bc33a6c28e16e572fe7bc0a3d6da45f03"
@@ -2051,6 +2528,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 58,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159D.html",
      "sha256": "53a7d41ef9ad7a2bca72820b6824f4beb75d5146e88f20dfe457e5cce552ecb4"
@@ -2065,6 +2545,9 @@
    "versions": [
     {
      "from": "2025-11-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159E.html",
      "sha256": "985870ab26f8cc6b74a8f5e2940858e28ac324f3ac9dc38bafdceb582efb6dfa"
@@ -2079,6 +2562,9 @@
    "versions": [
     {
      "from": "2026-07-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159F.html",
      "sha256": "fe1bb7705888e467a23566b5ab54f472c25156f4901be803c9abd56d3eec816a"
@@ -2093,6 +2579,9 @@
    "versions": [
     {
      "from": "2026-07-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159G.html",
      "sha256": "cca6c455fdf13e80845c6d3353af87a4aa43bafc969f5b8f753e8c1b6d547cff"
@@ -2107,6 +2596,9 @@
    "versions": [
     {
      "from": "2026-07-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_159I.html",
      "sha256": "d1f159509e29a5a5543b635611ab6e505f5edd0ba7617389410228779daf21a4"
@@ -2121,6 +2613,9 @@
    "versions": [
     {
      "from": "2026-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 769,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15A.html",
      "sha256": "8740c9d5b90c15df662be42ae4ddf49b198b9068c6d2c9a1a541fbd975d3a0d0"
@@ -2135,6 +2630,9 @@
    "versions": [
     {
      "from": "2026-06-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 38,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15B.html",
      "sha256": "0b4bfa038511ba5caba21c869f27f9347bc144b15ec4d173d4d4996de9300617"
@@ -2149,6 +2647,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_15C.html",
      "sha256": "d7b54e17a4b15901ecd4d7162a7e1c3276698462e91712f7329ff6a7b7fa5de9"
@@ -2163,6 +2664,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_16.html",
      "sha256": "e0b8dd23e1012f0c7891303d8ded95e54febe337f2213d5bbe4c5cca90219032"
@@ -2177,6 +2681,9 @@
    "versions": [
     {
      "from": "2025-11-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160.html",
      "sha256": "69302fcf29ffba50072702b05be92e3e016abfbd50aeab5f701579bafe655421"
@@ -2191,6 +2698,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 864,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160A.html",
      "sha256": "55bba6ca723c54f740e867b6bd6a317ffdc9b119c682db9ddaec8fef75b87bbf"
@@ -2205,6 +2715,9 @@
    "versions": [
     {
      "from": "2026-07-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160B.html",
      "sha256": "a3f51a4746f4fc538b8fad46a62da6883b277b49b1d0c360aad6007f6587263e"
@@ -2219,6 +2732,9 @@
    "versions": [
     {
      "from": "2026-05-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160C.html",
      "sha256": "4c28e1a1fc982bd515e7bc695c716309929934264232de43a238eaaed2285508"
@@ -2233,6 +2749,9 @@
    "versions": [
     {
      "from": "2026-08-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 214,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_160D.html",
      "sha256": "b95756a3ae54ae62692df5a8807982efcf8c02795785f26e1ea7feae58df943e"
@@ -2247,6 +2766,9 @@
    "versions": [
     {
      "from": "2026-04-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_161.html",
      "sha256": "5bbef15a5531143c8a9e7c29616fd72fd98d9ac4ff4f1ca68bd1728e487a0f89"
@@ -2261,6 +2783,9 @@
    "versions": [
     {
      "from": "2026-06-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 59,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162.html",
      "sha256": "b32cced005cac3edb7c4c0922750669ad203a9f42c7903f2a6884ec505b38014"
@@ -2275,6 +2800,9 @@
    "versions": [
     {
      "from": "2026-06-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 272,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162A.html",
      "sha256": "ce515a6066052969be1292363ba7641657b9d2feac9dc3c831b00dae7b9ae799"
@@ -2289,6 +2817,9 @@
    "versions": [
     {
      "from": "2026-01-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_162B.html",
      "sha256": "0e1a593a84d7a9ea4d67bafb16bb449cb26d5001b8f5ce6ddb0a7b0bb59b7fa4"
@@ -2303,6 +2834,9 @@
    "versions": [
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 810,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_163.html",
      "sha256": "fb0b4c8134222c75e60c80b68d4b459fdbb140d10e2012c93dc09d0a1c17e70a"
@@ -2317,6 +2851,9 @@
    "versions": [
     {
      "from": "2026-01-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1489,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_163A.html",
      "sha256": "48203867dc9cf2e097d1c772164a31efe9afec5e470d97886b518c0a04b392bd"
@@ -2331,6 +2868,9 @@
    "versions": [
     {
      "from": "2026-09-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 49,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_164.html",
      "sha256": "d2c0cf4ce734854f9b44e2ec1c8f74ad39711097787096b921c750b82d2e4351"
@@ -2345,6 +2885,9 @@
    "versions": [
     {
      "from": "2026-05-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_165.html",
      "sha256": "40ff5d28d9d6f33dff7f949f9df74d83316bb75be2d7d74f74ae030f23145a45"
@@ -2359,6 +2902,9 @@
    "versions": [
     {
      "from": "2026-04-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_166.html",
      "sha256": "c148308849d98734a36d618548429338c593f66976bc6752abbb7f4a04bc84b6"
@@ -2373,6 +2919,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 158,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_166A.html",
      "sha256": "ec0d9adbb67e8fef88b7efca03c21e7cc8e471fc15043ae19931b0b9d1961558"
@@ -2387,6 +2936,9 @@
    "versions": [
     {
      "from": "2026-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_167.html",
      "sha256": "3293568e3af49ab82a0537cc8403a3a3bb8ce72f845570399a48370607fe8e41"
@@ -2401,6 +2953,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168.html",
      "sha256": "2be434c210f04b1736936dbebdf20d2672e33c60b2c52d144968238dcf7948f6"
@@ -2415,6 +2970,9 @@
    "versions": [
     {
      "from": "2026-07-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168A.html",
      "sha256": "8647179ffae0289233c2c26292047963212ea0175db82e7d42f6904af2fba3c8"
@@ -2429,6 +2987,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_169.html",
      "sha256": "b34c294805fc08e71f0a22850981b8651088f2feadf2e1c807b92d59b43dc3ec"
@@ -2443,6 +3004,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 45,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17.html",
      "sha256": "ce7b132281bf67fc0e842dca30fd9d9799f94f7b7e1386a0c42775a3d849350b"
@@ -2457,6 +3021,9 @@
    "versions": [
     {
      "from": "2026-10-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17A.html",
      "sha256": "12c856ad40bd9d98c674e7c175303ccb3759e05afd01a51ac66837e733fcdad6"
@@ -2471,6 +3038,9 @@
    "versions": [
     {
      "from": "2026-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17B.html",
      "sha256": "bd32d8a7cf28477874e643f56b289ce61b6f47dca9a17c08702f33d6325b9ea4"
@@ -2485,6 +3055,9 @@
    "versions": [
     {
      "from": "2026-07-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17C.html",
      "sha256": "d9a9089f81afa09f9555fcf2cb431d1105bfb63aa575d7be7b904702271787cc"
@@ -2499,6 +3072,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17D.html",
      "sha256": "8fe6dbf98c4defa28db75306b871d8547fe7a4466d07776de2b135203a614cb0"
@@ -2513,6 +3089,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17E.html",
      "sha256": "872350fea02ddc46158641f3e39e9dda2e81bf3ef1bc4404261e00ebf01f0249"
@@ -2527,6 +3106,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_17F.html",
      "sha256": "911e21b1d14c32d82a915785b7c0fc941868ff91596a537396da54549bfd5483"
@@ -2541,6 +3123,9 @@
    "versions": [
     {
      "from": "2026-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18.html",
      "sha256": "e5e62f5d69f3c98eb69cb187c54328c31dafad874fada31c66c7a36185e05dd0"
@@ -2555,6 +3140,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18A.html",
      "sha256": "672eef7b9fd633b75c2111a616e0cd6346dc921bc3339cfe69445d57af3b0d9e"
@@ -2569,6 +3157,9 @@
    "versions": [
     {
      "from": "2026-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 272,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18B.html",
      "sha256": "6cdcb2b40975ea096dbac2714149bf2b9071c3e4ad744401e6a6ec924ca56611"
@@ -2583,6 +3174,9 @@
    "versions": [
     {
      "from": "2026-10-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 97,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_18C.html",
      "sha256": "1288bcc94ee929220d73b50f3a88622163c4b85116edad4d15436b3ef0f92412"
@@ -2597,6 +3191,9 @@
    "versions": [
     {
      "from": "2026-09-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_19.html",
      "sha256": "3dfad94dfa7e2582ceea54d68ddf1236e9fe084b599e523d22cada47a73c1d17"
@@ -2611,6 +3208,9 @@
    "versions": [
     {
      "from": "2026-10-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 55,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_19A.html",
      "sha256": "67897f9975e963e42194f1cb42898789c1172aedf28d9ff899362cbaa82e16b7"
@@ -2625,6 +3225,9 @@
    "versions": [
     {
      "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1A.html",
      "sha256": "f22ec4904103e16da931021e435451e715aecbfff64bbbfb7fdd58b2f6ec8b97"
@@ -2639,6 +3242,9 @@
    "versions": [
     {
      "from": "2026-08-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1B.html",
      "sha256": "1a6e66a7a2e38192f833d16ca0a99fed9fe0cba81e8c1eff3d0c32d9e1a79731"
@@ -2653,6 +3259,9 @@
    "versions": [
     {
      "from": "2026-05-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 71,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1C.html",
      "sha256": "84503451ab25ecbd503810a9860ee597a1fab56b0a0046e05b97dc4a1051dd05"
@@ -2667,6 +3276,9 @@
    "versions": [
     {
      "from": "2026-05-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1D.html",
      "sha256": "f94f51638b139075d443ffd83beacceac432df212c35427547f5df628a10166e"
@@ -2681,6 +3293,9 @@
    "versions": [
     {
      "from": "2026-05-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1E.html",
      "sha256": "ece1892fa60d83c01a26c657baceb00edc81f3bbaa06a82967b4f9605465556f"
@@ -2695,6 +3310,9 @@
    "versions": [
     {
      "from": "2026-04-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1F.html",
      "sha256": "8cb13f9b5ea8b75c256c7dd7ccd2df28c0936470b30fe2c0f6cc737ec06a65b7"
@@ -2709,6 +3327,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_1G.html",
      "sha256": "2a8b47ebbf936377efe1eb323600b43f2f01e5914519f38d1d61dfc204402de1"
@@ -2723,6 +3344,9 @@
    "versions": [
     {
      "from": "2026-07-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_2.html",
      "sha256": "ac13991ca6e3902e8659ea1fe35164bfcd90d6bf3de4b4c158c90eed56c03b28"
@@ -2737,6 +3361,9 @@
    "versions": [
     {
      "from": "2026-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 863,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_20.html",
      "sha256": "9ece6c83555f57fe77e1eec4cc586845aa516901c3e0ea3e6e535c330a2f3c91"
@@ -2751,6 +3378,9 @@
    "versions": [
     {
      "from": "2026-07-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_21.html",
      "sha256": "7dcfbd6ccf9dda446ac23166212578ab492f886ea4b811a0bcc6e0ef4b34cdea"
@@ -2765,6 +3395,9 @@
    "versions": [
     {
      "from": "2026-08-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22.html",
      "sha256": "65a1f22f8e6fc2869b8cde32d254c7967f6b91f5ac89e53a5de12f96b516abe8"
@@ -2779,6 +3412,9 @@
    "versions": [
     {
      "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22A.html",
      "sha256": "306a528b2bd01aee7318d2f56e7279e36126d4e3ea63298f4aa8bd3f7ab9be97"
@@ -2793,6 +3429,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22B.html",
      "sha256": "304354b5a7690465dea02dcf5174372cb6662cb7fc50aa96d47758aac840aaae"
@@ -2807,6 +3446,9 @@
    "versions": [
     {
      "from": "2026-08-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_22C.html",
      "sha256": "21808f81d8827f8be40337724c5118929f76282789b95507cb46fd4ad2f6b674"
@@ -2821,6 +3463,9 @@
    "versions": [
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_23.html",
      "sha256": "a7fe362a6990740a055cd6e9d466f523351699da5fc36258d8f0a42b1e27e897"
@@ -2835,6 +3480,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 41,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_24.html",
      "sha256": "e728051b32c096674df024829a5e579bc3a975380e444b2853962b1e2c83ccb4"
@@ -2849,6 +3497,9 @@
    "versions": [
     {
      "from": "2026-07-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 646,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25.html",
      "sha256": "2eba1f11c65c7022bf27ec3585dd6615272064b58c8285aa4f0862d5d29555c5"
@@ -2863,6 +3514,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25A.html",
      "sha256": "58c18d976dee6c89729cc747cf9eb616bd2e0fa4166cfbb39407e8b028ce3730"
@@ -2877,6 +3531,9 @@
    "versions": [
     {
      "from": "2026-05-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25B.html",
      "sha256": "f077e8595aa1ad0f66567551ee528bf810c08ed0bf61897ffdab4d8b3d9df435"
@@ -2891,6 +3548,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_25C.html",
      "sha256": "206f3edc25ba9133388d4c79c230fd32cffc592ebd0d53dc16d0dd95d2545ca8"
@@ -2905,6 +3565,9 @@
    "versions": [
     {
      "from": "2026-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_26.html",
      "sha256": "c040e63bcb256b7da3888f12b79e104b7e456d6804c6e50df36efddd0e5f92eb"
@@ -2919,6 +3582,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_27.html",
      "sha256": "1873a9fef704d7e0edc829dccc8bd8e54db6838302db5e34c1d3783806c740d9"
@@ -2933,6 +3599,9 @@
    "versions": [
     {
      "from": "2026-06-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28.html",
      "sha256": "22a774385a6bb3e9cfc2f59b01cb0d4d1d9af150294d197a654f20391471a493"
@@ -2947,6 +3616,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 237,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28A.html",
      "sha256": "1a15326034d01d2017d8e073d615cdf83888d0cb3d027a577a105e9983c7ae71"
@@ -2961,6 +3633,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28B.html",
      "sha256": "65b411c775456cc6509aa38b2cd3ef15b5a701599c5e0039791ca9fd8186afd5"
@@ -2975,6 +3650,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_28C.html",
      "sha256": "106fe3863dce69d1870b31e14822f1942524c6cb26e2ca6fc8b0876c7457426a"
@@ -2989,6 +3667,9 @@
    "versions": [
     {
      "from": "2026-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_29.html",
      "sha256": "391d6b90e68d9d74d03df5d22d54a166e8deceb4e5e0eabc791d64ce1f7f919e"
@@ -3003,6 +3684,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_3.html",
      "sha256": "a170e5dfb260d6a138c9488c018471abfc964b8e67b9c6b6e4f196e632b4e0bf"
@@ -3017,6 +3701,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 47,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_30.html",
      "sha256": "5634ccf9127392f7f75920a08e6e0cd6eb8c99e7854dd614a4e583f59d4346c6"
@@ -3031,6 +3718,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 67,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31.html",
      "sha256": "c950781c0c45b05be16c5f8e9572bcbdd55b16831974d7e0e480eaba7c50bfd8"
@@ -3045,6 +3735,9 @@
    "versions": [
     {
      "from": "2026-08-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31A.html",
      "sha256": "6686ac4e350ed09d77f3a31577e892ee57c5d4f212b676089e57446acc7f86ae"
@@ -3059,6 +3752,9 @@
    "versions": [
     {
      "from": "2026-09-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31B.html",
      "sha256": "2a7a211683be58a5b7167f6de007a50153147b0a15336f1a1339466f08531d49"
@@ -3073,6 +3769,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31C.html",
      "sha256": "a6a778897de864d1d9dc1e985276cd3d2f13504c2265d0b975b740a6a2cad2b8"
@@ -3087,6 +3786,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 40,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31D.html",
      "sha256": "48b77419befcdaf652e0fc84d7ddd5c1f72b5c4f378038467e3f0629b4646a52"
@@ -3101,6 +3803,9 @@
    "versions": [
     {
      "from": "2026-06-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32.html",
      "sha256": "11cfa8b8bc077d2b1c33de6699aff1f5976c1fcd414a2628c8517a49ca1815a2"
@@ -3115,6 +3820,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 40,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32A.html",
      "sha256": "9a80a9d17eb787f1476713e2942dae5c233842e8669bd961767e218354392583"
@@ -3129,6 +3837,9 @@
    "versions": [
     {
      "from": "2026-09-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 48,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_32C.html",
      "sha256": "4e0664a49ef6f11b53955840b90a4fe00354e34b907136d30b1f05a870ea3c61"
@@ -3143,6 +3854,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33.html",
      "sha256": "c2fda471a1c4731c3502aa0ace408c59f815c541756946c457c7f4d4e26fa2ea"
@@ -3157,6 +3871,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33A.html",
      "sha256": "e9699db7edafc4c752d61cd0d30dff78c9299bf29bcde254ebba61766fe9461d"
@@ -3171,6 +3888,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_33B.html",
      "sha256": "d967be00de52fe79c3e909898845cba5834555f82151b25f48d86694f2799233"
@@ -3185,6 +3905,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_34.html",
      "sha256": "93741eb13c9b813fa813ddddae04565c3ad2fe2959de49e4aececf790f14f2fe"
@@ -3199,6 +3922,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35.html",
      "sha256": "e2c4052769042ce39a0aeba587c5d02f78d0ad571f093178937e37acc82c74a6"
@@ -3213,6 +3939,9 @@
    "versions": [
     {
      "from": "2026-10-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 164,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35A.html",
      "sha256": "712a8e17e463246deb2093cf0161a56773d55bcbcf97a1a4a975afeb0c4533f9"
@@ -3227,6 +3956,9 @@
    "versions": [
     {
      "from": "2026-05-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_35B.html",
      "sha256": "d8ea9e9bf24db45e9cd1ba26ce54fbbd80572d60b299fe1af179440e244ca10d"
@@ -3241,6 +3973,9 @@
    "versions": [
     {
      "from": "2026-05-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36.html",
      "sha256": "d5b018cd3f19473ba86c101f0c480d6d615e6941db4468fa659ae8a891b32ec6"
@@ -3255,6 +3990,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 65,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36A.html",
      "sha256": "6ca51ab845877dbf74dae74fb50f12eeb331046db15693ad3ad1e72f02afd8c8"
@@ -3269,6 +4007,9 @@
    "versions": [
     {
      "from": "2026-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36B.html",
      "sha256": "0359fe9b82cc3b6cf29dc0b538a70cfbc9c1372485f2ecb257c5f5eb1b58d0eb"
@@ -3283,6 +4024,9 @@
    "versions": [
     {
      "from": "2026-06-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 181,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36C.html",
      "sha256": "eb0fc1e57eea033794fbdde1b57aff3c522d0a9980cd102ef954c9b9b4389f4a"
@@ -3297,6 +4041,9 @@
    "versions": [
     {
      "from": "2026-05-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36D.html",
      "sha256": "b26c8a6abf2a2f44e00bd3b37c37d9000e15092b82911ded014c9f84ae6e8cc2"
@@ -3311,6 +4058,9 @@
    "versions": [
     {
      "from": "2026-06-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36E.html",
      "sha256": "4069c5f7e45239aefdc80b4cdaed909f499c4f1a08ca7201118f03603464659e"
@@ -3325,6 +4075,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_36F.html",
      "sha256": "de8040eb3f0c7737fe94b87ee75c9f22f8ac04e55e68035866fb59ccbd093519"
@@ -3339,6 +4092,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_37.html",
      "sha256": "04d3741a2b8cc4913f22beabe13e39481123bbb9d3ffd216f8243679b2080b2f"
@@ -3353,6 +4109,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 48,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_37A.html",
      "sha256": "9a70d6bc2e4bfd92c38ce6296bed79fcdc7accd3f44e643016a48d3ac43591e3"
@@ -3367,6 +4126,9 @@
    "versions": [
     {
      "from": "2026-05-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38.html",
      "sha256": "68c71c49d1f648e7a0bcf85bd7bcdc139e74e2599722a4bfac54ef5a4b8b4cf9"
@@ -3381,6 +4143,9 @@
    "versions": [
     {
      "from": "2026-04-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38A.html",
      "sha256": "e1263b85ec2f55a7896bc27b169b4adc110fe3234bbe0133a6ff9346dfd9f2c1"
@@ -3395,6 +4160,9 @@
    "versions": [
     {
      "from": "2026-06-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_38B.html",
      "sha256": "11ab343ebf4baec261fda7c5763db39fb6303631a0e2891b3d46ff4e44abb756"
@@ -3409,6 +4177,9 @@
    "versions": [
     {
      "from": "2026-07-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 70,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_39.html",
      "sha256": "b60b79e5546a25b2c57c3305c5a843f75ee0ef06f202316255c2d0281e6e01e3"
@@ -3423,6 +4194,9 @@
    "versions": [
     {
      "from": "2026-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_39A.html",
      "sha256": "f4c9eb9dee4ddb503bea33da40767f853ea1269623704cfb7d62db4b3d8ed388"
@@ -3437,6 +4211,9 @@
    "versions": [
     {
      "from": "2026-08-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_4.html",
      "sha256": "0ab60753ee7744ca045558bb9abc2b7d4e1e02ce6e632523f2630ec38c22adb4"
@@ -3451,6 +4228,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_40.html",
      "sha256": "b0e596e742d7172aae246d088dd3ec44dfc3fc51bee9867548e191bfb81e8417"
@@ -3465,6 +4245,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 73,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_40A.html",
      "sha256": "d7ad368a97a14f4efcf52417df4982d1d1eae4100d9edcf5d933fde178215c1e"
@@ -3479,6 +4262,9 @@
    "versions": [
     {
      "from": "2026-07-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 109,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_41.html",
      "sha256": "932ef70ce83d24397ec6d74bd69a47afb90f411f25533f69041159c01522e227"
@@ -3493,6 +4279,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_41A.html",
      "sha256": "084aa189413c32aabf7a3cb1db01a1372e290d7ccdba5941b1a73cb2f7dba47a"
@@ -3507,6 +4296,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_42A.html",
      "sha256": "0455e5a357082e94134332c5775bfa8b335accbff2093d0bc57df98a13e7377d"
@@ -3521,6 +4313,9 @@
    "versions": [
     {
      "from": "2026-05-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 65,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_43.html",
      "sha256": "b72e24a14cd8806e25d5d4b5d721730c6834d2b52c631cde36ca5a406373b90b"
@@ -3535,6 +4330,9 @@
    "versions": [
     {
      "from": "2026-07-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 51,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_44.html",
      "sha256": "e9e64f4bb72df1bdc950612d4d67f2a13ccda34bb77cd83ddb6caccc1a4bba33"
@@ -3549,6 +4347,9 @@
    "versions": [
     {
      "from": "2026-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 74,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_44A.html",
      "sha256": "7187d1198b12166a0b5ffe8e615482c0f3db3c8787cd339f31610362e9f8f26b"
@@ -3563,6 +4364,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 173,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_45.html",
      "sha256": "f6f29026b98440360497f131782336557a6ba40ea4633a4fa6b744451f8c2b2c"
@@ -3577,6 +4381,9 @@
    "versions": [
     {
      "from": "2026-08-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_45A.html",
      "sha256": "71e0462c339cbe152e065d3ad51d596abc3cfd6ebf2eb46f4738127175831768"
@@ -3591,6 +4398,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 47,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_46.html",
      "sha256": "c5713a10d9661b9fe6c1831963747b4b6e1ba14098503859e4d5c276a1975f6b"
@@ -3605,6 +4415,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 103,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_46A.html",
      "sha256": "fa7ba4186ef9c84d5c0c3a0dcc42604159a486123fc8456f4a2ef8105b9a7962"
@@ -3619,6 +4432,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 207,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47.html",
      "sha256": "a8731bbd351f54d22df8843a82ce66bed7b3ed846224b5ecdae189937120320f"
@@ -3633,6 +4449,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47A.html",
      "sha256": "8333a0620207a0150aa35308f16b8fff5701a233f4419fae5f8013d58e7db4ac"
@@ -3647,6 +4466,9 @@
    "versions": [
     {
      "from": "2026-08-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47B.html",
      "sha256": "d53097d8c50271a6a894f13b70151af2ed7ebcd0f1c7d42c35e2f66e1e74b095"
@@ -3661,6 +4483,9 @@
    "versions": [
     {
      "from": "2026-06-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 76,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47C.html",
      "sha256": "d2d824564c16e1f21a7e90a229fcab1410e2fae294a8047b707f669d7d1998e1"
@@ -3675,6 +4500,9 @@
    "versions": [
     {
      "from": "2026-05-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47D.html",
      "sha256": "ee3935f1ae6134d9ee3ab4ccc67ec7393a30c9c8f38704450b9b9ede8e2ae5d5"
@@ -3689,6 +4517,9 @@
    "versions": [
     {
      "from": "2026-04-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47E.html",
      "sha256": "5e6ff10f0d9169a15196feee959a2432a8462445272619c6f4db70078126fd70"
@@ -3703,6 +4534,9 @@
    "versions": [
     {
      "from": "2026-05-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 42,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47F.html",
      "sha256": "741902720d2f5ffe39f4559aa48f77e973ebf4010b16c6bfbebc8b5c3e3dc2c7"
@@ -3717,6 +4551,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47G.html",
      "sha256": "79ee07976829d6d5b22829d6f22629c9d0e0707f4130bc539509f7ddcec77810"
@@ -3731,6 +4568,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html",
      "sha256": "c35462f6feef19b6af3a9df65a98bcae33f526aa5b910049cc0b6bc7abdf9d91"
@@ -3745,6 +4585,9 @@
    "versions": [
     {
      "from": "2026-07-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 122,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48.html",
      "sha256": "13533b426feaac36c90ed4856f31d01a084e5375122b33900231dc9358ad6234"
@@ -3759,6 +4602,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_48A.html",
      "sha256": "e2d02c1c6010a6d74307c97a2c44ba73faaaf6df6e289ea164436dd1f7a6221d"
@@ -3773,6 +4619,9 @@
    "versions": [
     {
      "from": "2026-09-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49.html",
      "sha256": "70bcdad7f1726c5f3c12e86364d3d4db548a7343eff35034ec6cf6a9ba4dc2d5"
@@ -3787,6 +4636,9 @@
    "versions": [
     {
      "from": "2026-04-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_49A.html",
      "sha256": "04bff3796cc4d9861dd1ea1364939f97cd6ef421ef697a2d8f97feff42f1dd9e"
@@ -3801,6 +4653,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5.html",
      "sha256": "e21d31fb483db1dfb96b3813f1d791887c61761c4bb67b99c6ff3c20a2954d6c"
@@ -3815,6 +4670,9 @@
    "versions": [
     {
      "from": "2026-06-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 129,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50.html",
      "sha256": "fb6f3870250f92ce0f7e3321b983c6f8bd196fcdd22f4023a5d0abf9cdda7494"
@@ -3829,6 +4687,9 @@
    "versions": [
     {
      "from": "2026-06-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 131,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50A.html",
      "sha256": "6c152c696ddbfcbc1a02e2b34bb7f0bb8bfa98074e8a4ddc9866105b796b64e0"
@@ -3843,6 +4704,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50B.html",
      "sha256": "3fbdcec900e779e7c1e6df1c63bd0dafecbe806e00b0cfacce2d07d27aeac42b"
@@ -3857,6 +4721,9 @@
    "versions": [
     {
      "from": "2026-05-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50C.html",
      "sha256": "8143e6e3aebd05cb171f3691447ed6619e8251054c88cad7545bb53ffa8afc13"
@@ -3870,7 +4737,10 @@
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html",
    "versions": [
     {
-     "from": "2026-07-13",
+     "from": "2023-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_50D.html",
      "sha256": "f8d4e59b21910701fee6c86f4d530cd62105c7155a20e9a0245e9293eff01ced"
@@ -3885,6 +4755,9 @@
    "versions": [
     {
      "from": "2026-09-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_51.html",
      "sha256": "943375a94c39cc333e06cc296f122952cc8b66779cac3a6f60c7901ad4d84dca"
@@ -3899,6 +4772,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52.html",
      "sha256": "5caf462921b0c68b500381796e9d8538dcd9856061c9897355761f97618ec770"
@@ -3913,6 +4789,9 @@
    "versions": [
     {
      "from": "2026-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52A.html",
      "sha256": "7075e8e81b48dcc99908808aa509f1b7e7081b365f75e935626020c6956508cb"
@@ -3927,6 +4806,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52B.html",
      "sha256": "07efe8d73d79b3247c2188ea074d78dfe13b4fecca645dd9b7a7e6e914e3aaf5"
@@ -3941,6 +4823,9 @@
    "versions": [
     {
      "from": "2026-10-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 78,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_52C.html",
      "sha256": "dc1bef295107159a61395ffbe7c41f0556f09bc83d26ba72bb9e7fd99637076d"
@@ -3955,6 +4840,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 579,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53.html",
      "sha256": "e87549cbb56500d69fd9447128e6760dba2c18356a590255220de3df4e0ade3e"
@@ -3969,6 +4857,9 @@
    "versions": [
     {
      "from": "2026-05-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53A.html",
      "sha256": "1863905330ef9c1b1e275643537345ac119f30c86fd53ae7fbfe9e46ac32fde7"
@@ -3983,6 +4874,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53B.html",
      "sha256": "3cd60ff8e873bf40e3e16caceb1704b25afea039a9bb837966d3e5f5f441bdc3"
@@ -3997,6 +4891,9 @@
    "versions": [
     {
      "from": "2026-07-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 118,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_53C.html",
      "sha256": "4d766afc0ef83d42ac192ffcdd4f0d86b9509593730e6aed1b92127c9ff3d837"
@@ -4011,6 +4908,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 207,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54.html",
      "sha256": "8074b827a32fcb48f99e39300783a8fd89437a0c6bae4097a0b170750b59c08f"
@@ -4025,6 +4925,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54A.html",
      "sha256": "894cfcf9487c6cdbf713a3ec3cb67a7df7c74f3802f750ef2c0851c116013865"
@@ -4039,6 +4942,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 200,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54B.html",
      "sha256": "d5b872526387238494762a506327a3c1699c7c7121a244ffea357f1d340ce084"
@@ -4053,6 +4959,9 @@
    "versions": [
     {
      "from": "2026-07-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 153,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54C.html",
      "sha256": "ac5abb11cbbda017b67408f1e9f359d6bff4ac01bd690099ba0c062df653e6c9"
@@ -4067,6 +4976,9 @@
    "versions": [
     {
      "from": "2026-07-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_54D.html",
      "sha256": "ec6b59999dee90c442299b1c53b718dd73e54802b1df284a020f6e0e5781d739"
@@ -4081,6 +4993,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 215,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55A.html",
      "sha256": "150c6c7b275b1c5a6b933dd7c46d9c14d5ba5a4fcaf3c09d65b6d857efc00ea8"
@@ -4095,6 +5010,9 @@
    "versions": [
     {
      "from": "2026-05-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55B.html",
      "sha256": "2de48005f9d1fe56e9988e453fb84c70dc0aef649b34d3278efef3ef0d50f773"
@@ -4109,6 +5027,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55C.html",
      "sha256": "11efd4e9813ee5f4444f09e29c620ec10784fe7c84847ed8ed0d00b85ed1c8c2"
@@ -4123,6 +5044,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_55D.html",
      "sha256": "40c6a820d513e5e9378eace4f98b1a980f8e5b318083a52649480ca076771072"
@@ -4137,6 +5061,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_56.html",
      "sha256": "8729a34ef7c36c0bdf7a4a29965535066995aa205401ac6ac2f11d6b86f610c8"
@@ -4151,6 +5078,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57.html",
      "sha256": "af54f139f2bdcc5bda15663f40282c93cfc056be22e140ee25f2d1450c0d1b13"
@@ -4165,6 +5095,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57A.html",
      "sha256": "8fd2457ac1387c0f306c66ee1a0d62e4c0c462111ba8d0f4a85a13650cd49e03"
@@ -4179,6 +5112,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57B.html",
      "sha256": "d2c9d2f9bad39670566b05ccd567b38215a2c30616b39ae7e81d7eda0f9f95e0"
@@ -4193,6 +5129,9 @@
    "versions": [
     {
      "from": "2026-08-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57C.html",
      "sha256": "f3a63840ff47e6fc5a7718ebf7c61e61ccf3fcf2eda2aa9a516f6eafc42ecb2c"
@@ -4207,6 +5146,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 239,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_57D.html",
      "sha256": "9637953a8cdf6e5271d25ab85750a9c3ac6f9427dd013492b8f8aa3c7dcee204"
@@ -4221,6 +5163,9 @@
    "versions": [
     {
      "from": "2026-11-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2341,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_58.html",
      "sha256": "f36083b2ce2bd4b643d8392d832841e16933853ff00dcd64196862361ca33ea5"
@@ -4235,6 +5180,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_58A.html",
      "sha256": "93a9fea991fd6ba9aafa259e4c4ae3ac00b02dd7083e0e797a3261eaaae6363e"
@@ -4249,6 +5197,9 @@
    "versions": [
     {
      "from": "2026-04-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 196,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_59.html",
      "sha256": "c0ddb260bb5f9ae8cb528154f5750f95da66047e6a30120a94aad4c06bae2a3c"
@@ -4263,6 +5214,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_59B.html",
      "sha256": "cf7ceed3050f351fb40e27cf5dc76d363ed428435447921b39c53c380ff24f68"
@@ -4277,6 +5231,9 @@
    "versions": [
     {
      "from": "2026-05-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_5A.html",
      "sha256": "75f22be8e433a29c53c12cf65eb4cdfaaaca355398c8bbc5aa3ac87bddd761f2"
@@ -4291,6 +5248,9 @@
    "versions": [
     {
      "from": "2026-09-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 58,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_6.html",
      "sha256": "f1b3832aae3f4955332d69775edd770c52fced5674bf4a971a5b34934c2b0e29"
@@ -4305,6 +5265,9 @@
    "versions": [
     {
      "from": "2026-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_60.html",
      "sha256": "bc9ff416369eb302f1c0618e3e223c7abb24537d281a4ed1f005aa2e54445bf7"
@@ -4319,6 +5282,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_61.html",
      "sha256": "26c0c196abe20f1449567cf24addbae934f318076b6bec812887c3cddf9b1ec6"
@@ -4333,6 +5299,9 @@
    "versions": [
     {
      "from": "2026-05-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 334,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_62.html",
      "sha256": "3a7fb898e9dd2db5b09b9220063b389369f527e163023cae46d5c6208a260efe"
@@ -4347,6 +5316,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_62A.html",
      "sha256": "9cc90e0ae3781e1bbbc4b0fdc3950196737ef9e66fe31aee1939e77c6dc2c713"
@@ -4361,6 +5333,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 97,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_63.html",
      "sha256": "6637b42e2ed39aa676eb3b19627cf3c88f034a79f59c94b091f6553cc0082fc2"
@@ -4375,6 +5350,9 @@
    "versions": [
     {
      "from": "2026-05-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_63A.html",
      "sha256": "37e36281c9337d59320ab904fa385bc2cf11408c9a0acbc3bc32316e8e7290f9"
@@ -4389,6 +5367,9 @@
    "versions": [
     {
      "from": "2026-05-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 55,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_64.html",
      "sha256": "38c7ee18cca789c7341e4398a3fc618901e442ce1312e24a9c36e0902c659118"
@@ -4403,6 +5384,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 117,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_65.html",
      "sha256": "0dbd28e526d12c87ae5598c905ac65944f3f4983939a592863b1d31da3529128"
@@ -4417,6 +5401,9 @@
    "versions": [
     {
      "from": "2026-09-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 452,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_66.html",
      "sha256": "349f9d1b023497314220af9f8331605430560f747f0e3a1fd6decec75203d267"
@@ -4431,6 +5418,9 @@
    "versions": [
     {
      "from": "2026-09-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_67.html",
      "sha256": "bb6c613d2571b196315edeab0871f17eb9bdeb1b8862b82c431bd4171bd07119"
@@ -4445,6 +5435,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_68.html",
      "sha256": "7ca9c55fc513690d6366a4b1e73d32d325fda5a2a8b65fa8cc72ced99d72c225"
@@ -4459,6 +5452,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_69.html",
      "sha256": "3fdc73acb1b581f1a2a980bdc944a49f7a9e8d2208a5b50c91fbfbaf321e230c"
@@ -4473,6 +5469,9 @@
    "versions": [
     {
      "from": "2026-06-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7.html",
      "sha256": "18832c1714105bdbccda554d8ad1dd60ba6c2526626fe71d7b88bf2dd29c496f"
@@ -4487,6 +5486,9 @@
    "versions": [
     {
      "from": "2026-08-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 45,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_70.html",
      "sha256": "c97b45f372ca6e33c5261564de3bde4eaea0a36aa58bde77c88a965cfe48d013"
@@ -4501,6 +5503,9 @@
    "versions": [
     {
      "from": "2026-05-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_71.html",
      "sha256": "77c0f0bd80810ec764dd45807749f2c72bef99dadd8fdbe87a8004207a2f6851"
@@ -4515,6 +5520,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_71A.html",
      "sha256": "55812d3d5b4bdb2839ae847fb64dded9d20e0c0144562cf44faad72f7d11b177"
@@ -4529,6 +5537,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_72.html",
      "sha256": "7d2c2035ee1855475805eb1380dc9991eb63fa1a1ea62da02659f78172db2697"
@@ -4543,6 +5554,9 @@
    "versions": [
     {
      "from": "2026-05-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_73.html",
      "sha256": "74fbea33a33f69facbab3f491bec0c934209a38090731b654e0476928eb9edc0"
@@ -4557,6 +5571,9 @@
    "versions": [
     {
      "from": "2026-07-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 79,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74.html",
      "sha256": "6a074092f272a07cb0790c6d95c88884b9fc8171ed0c3dd4869fe567f29e5c56"
@@ -4571,6 +5588,9 @@
    "versions": [
     {
      "from": "2026-05-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74A.html",
      "sha256": "3dccd94a644bd74b13e1b6487a5962ffa5113e9ee287b59ac8575d33fed07017"
@@ -4585,6 +5605,9 @@
    "versions": [
     {
      "from": "2026-06-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74B.html",
      "sha256": "bf9788c23e4a4e8ecf1516f6090de5ceb875e294d2cc77f1bdf0712d5ab9f04e"
@@ -4599,6 +5622,9 @@
    "versions": [
     {
      "from": "2026-06-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 35,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74C.html",
      "sha256": "081810ab599d44835e996eb2316505c7a4f93dce655fca5f7c1ec087a97cf753"
@@ -4613,6 +5639,9 @@
    "versions": [
     {
      "from": "2026-06-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74D.html",
      "sha256": "c287f49a48ab76ff3c363b2ce4b084c8c5bb426c3b4e899932cd36c9e767afab"
@@ -4627,6 +5656,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74E.html",
      "sha256": "fdbdd04eeebe652289bed9ddfe82556dc645784db8bd48b063ff7aefccf01e29"
@@ -4641,6 +5673,9 @@
    "versions": [
     {
      "from": "2026-06-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74F.html",
      "sha256": "c822f2f40d7438f3f6074550350de1eb4d42fa7d646762f113f7490ccebcc05a"
@@ -4655,6 +5690,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_74G.html",
      "sha256": "6f7ade417a6838c306fe57a6e2419a47336ff5d0e3dca055cadbc0e16946580a"
@@ -4669,6 +5707,9 @@
    "versions": [
     {
      "from": "2026-07-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 135,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75.html",
      "sha256": "0e237295f211175d33252e31743ac7efd71b96b3a6c1d479b23b7cd0f08dd4fb"
@@ -4683,6 +5724,9 @@
    "versions": [
     {
      "from": "2026-06-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 54,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75A.html",
      "sha256": "96059cffa8a49824b6a83d0780ed20804f88719b211d59ba5899932ac801b5e1"
@@ -4697,6 +5741,9 @@
    "versions": [
     {
      "from": "2026-06-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75B.html",
      "sha256": "6fcdc25063af15fcce60efcb0f19817236aeaddffc3e384dd949001a16b08ecb"
@@ -4711,6 +5758,9 @@
    "versions": [
     {
      "from": "2026-06-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75C.html",
      "sha256": "6b4605e2d62bbdef3e4a5228b95de88cfdbb760b1edf4e9af79e0bc7b1b34c24"
@@ -4725,6 +5775,9 @@
    "versions": [
     {
      "from": "2026-06-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75D.html",
      "sha256": "94242b9d13eea118f201110e8bcf5d41f69e2f2d697330db31636c37f3f45c57"
@@ -4739,6 +5792,9 @@
    "versions": [
     {
      "from": "2026-08-02",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_75E.html",
      "sha256": "68500017d8adf033c77b7872c82bc88502e1c44b310736be42dbd64cbccb2075"
@@ -4753,6 +5809,9 @@
    "versions": [
     {
      "from": "2026-07-28",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_76.html",
      "sha256": "c971f8f45889e425e3586f0f051f8d8038dd0bb6096ca01dbbd8b30b43d5b404"
@@ -4767,6 +5826,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_76A.html",
      "sha256": "586319e3779948bb98cc35c73e41dbc28fe0446501aef853c661c7aace34b60b"
@@ -4781,6 +5843,9 @@
    "versions": [
     {
      "from": "2026-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 119,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_77.html",
      "sha256": "e09594ed670d42a4b5b7e790d7678536571d45a286e9c827ddce0312ce09109a"
@@ -4795,6 +5860,9 @@
    "versions": [
     {
      "from": "2026-08-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_78.html",
      "sha256": "2ce82f744b3a6d128b10314db4c07f4d7d9173b65ec0971902e58adb4bd8a0fb"
@@ -4809,6 +5877,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_78A.html",
      "sha256": "55c2ca7c8a322f06283b5c6734d0bc603dcdc735103831804c68fd13cbded828"
@@ -4823,6 +5894,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_78B.html",
      "sha256": "34c899b39812ce0fe130cff2ec8c7614f7100cdcddf7a44030b2e7640f28d16b"
@@ -4837,6 +5911,9 @@
    "versions": [
     {
      "from": "2026-08-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 53,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_78C.html",
      "sha256": "db78be5175422fef21237b6b719c10dac33251592e826eb700aab22babcc4cf0"
@@ -4851,6 +5928,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_78D.html",
      "sha256": "61b8355a92a578dd8c42f26cb26f963276e5e269ee85d86111e81ee67e5a69e9"
@@ -4865,6 +5945,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_79.html",
      "sha256": "daed3dd84a731dde2288c756b13b133096eee9c2f571e7719ec95c287de24edf"
@@ -4879,6 +5962,9 @@
    "versions": [
     {
      "from": "2026-06-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 711,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7A.html",
      "sha256": "ff00d6a6b65c4dab918316d922c317d9aede0fa64f449919b3c58290fceb87ec"
@@ -4893,6 +5979,9 @@
    "versions": [
     {
      "from": "2026-08-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 669,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_7B.html",
      "sha256": "3483a59af019285e269bea5e36f2c831ee13b00ae21e02402b3c6f27f4edee8e"
@@ -4907,6 +5996,9 @@
    "versions": [
     {
      "from": "2026-07-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 191,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8.html",
      "sha256": "f921af1ab50dc93544145cb7a5d7924b1fcb8eef1e0d38bf300139d6eb6cde10"
@@ -4921,6 +6013,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 51,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_80.html",
      "sha256": "759fde228e65f29467c8f08451fa54d293a618b316f0edd706e89b3fb1c79da3"
@@ -4935,6 +6030,9 @@
    "versions": [
     {
      "from": "2026-05-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_81.html",
      "sha256": "c8b5000d614717ba8eebb767c98b8dd9f2a86698dc972d62324dc51cbec4beba"
@@ -4949,6 +6047,9 @@
    "versions": [
     {
      "from": "2026-05-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 64,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_81A.html",
      "sha256": "050a7bcae68b1fadb2f19701656d52232b07aa6af8b01f2467f9d3b472f35ec6"
@@ -4963,6 +6064,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_82.html",
      "sha256": "97e77432692889c2524bc8115d0903a51297c9453b6f111c2384a98e462365e0"
@@ -4977,6 +6081,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_83.html",
      "sha256": "b9e5c88aa8184033996b7faa3a8a24d7aa5f286c3ee87b106836c045913cb1c8"
@@ -4991,6 +6098,9 @@
    "versions": [
     {
      "from": "2026-09-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_83A.html",
      "sha256": "72bb67d46ab5656149647e9661fe75cf9db7691089922f78a3c4802f029047a4"
@@ -5005,6 +6115,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_84.html",
      "sha256": "a816db54b2a7af57c46576388ad873f48473848399382762724dd3db2535a830"
@@ -5019,6 +6132,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_84A.html",
      "sha256": "37bfd230bb8f10bbb44c53bb8b529d04e13d687d6d9b0c51cb152eaed1b388db"
@@ -5033,6 +6149,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_85.html",
      "sha256": "d1772160d66a08b0a41a6dc6b4445314f264b174368f0e32d0ded794ea56efbe"
@@ -5047,6 +6166,9 @@
    "versions": [
     {
      "from": "2026-07-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_85A.html",
      "sha256": "fa72d66a62cbbd336cd5e857e4cf519ec7f526a4e3ed86aa1a434ef214601150"
@@ -5061,6 +6183,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_85B.html",
      "sha256": "b77b74f422b25be3fb12bfeb306ed4b4c37dc3f2639a888073b6193f445553b3"
@@ -5075,6 +6200,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_85C.html",
      "sha256": "852f6b32f8ae94b0cbff5770096ad1ad14294a9b88c4902dc57703740043442b"
@@ -5089,6 +6217,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_86.html",
      "sha256": "c38c4cb45c12594a5b383993bb2988a46b445b3876ff75938935ecb52a51a4a3"
@@ -5103,6 +6234,9 @@
    "versions": [
     {
      "from": "2026-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_86A.html",
      "sha256": "040ffab20e2b2914335f2ae1fc5ec4f88cc219c32c623b20582afdb99c495cfc"
@@ -5117,6 +6251,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 53,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_86B.html",
      "sha256": "84e8e997475c7dcee765ca674d31825b4cd6f3ea6f76d44d7465d20f446c2efa"
@@ -5131,6 +6268,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 153,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_87.html",
      "sha256": "9c20f49e199d1b5fb17a1a08a6b79ebb542d6b5015121481fde34924e99b2448"
@@ -5145,6 +6285,9 @@
    "versions": [
     {
      "from": "2026-04-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_88.html",
      "sha256": "12d10799e6d11bdf97251bd2b1d9831ec4f2401d02f5a4abda94cea3ab4bf1a2"
@@ -5159,6 +6302,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_88A.html",
      "sha256": "8e969cc01a872c4020a8d168960d1308c2ee7847f8e5f949cfc0b380cfa4a75f"
@@ -5173,6 +6319,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_88B.html",
      "sha256": "af16ed17aa0b16d626955d2f1e4f4af71072f9fb0a49644246a7fe13ecd5c644"
@@ -5187,6 +6336,9 @@
    "versions": [
     {
      "from": "2026-07-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89.html",
      "sha256": "b1b639426ae7f06fe96ee757c00615e8791fbd53371b9b51e68778c275966a40"
@@ -5201,6 +6353,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89A.html",
      "sha256": "cdffba069907b276124c9ebad9d833994054ecbbf3ecd2b676b95426b8022f87"
@@ -5215,6 +6370,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89B.html",
      "sha256": "33eb0af8db53bea5e9dda683267510a1f1ce4b4ad0975dd6cefcd9d42e002082"
@@ -5229,6 +6387,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 33,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89C.html",
      "sha256": "725b737cae7cf6d824299ff452220f77c4f3b0dda967b155134a4898f80bfed5"
@@ -5243,6 +6404,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89D.html",
      "sha256": "108160df663474fb9ed3540eac94fb3253cc52b47072b7fc62a7a8343f725e0c"
@@ -5257,6 +6421,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89E.html",
      "sha256": "9b388f6eee8214995b39071b3c90871f49d2803de0f561432301d508696d7274"
@@ -5271,6 +6438,9 @@
    "versions": [
     {
      "from": "2026-05-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89F.html",
      "sha256": "afabf389501bbca8c7e35b72988c0be56d38643af98fa107ec4685b5830ce647"
@@ -5285,6 +6455,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_89G.html",
      "sha256": "d11de202b3c010856d435e7740e45a848da05b13af3b0768820f7e173d658bc4"
@@ -5299,6 +6472,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8A.html",
      "sha256": "d7079075f4d002ca0e17ce20da831de528309b0500d807b8797b961dcfd04f3d"
@@ -5313,6 +6489,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8B.html",
      "sha256": "28cdf78eb12205a3d2ab27d8451c63bd929c3d51b9571355c9eb793259bbf08f"
@@ -5327,6 +6506,9 @@
    "versions": [
     {
      "from": "2026-04-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_8C.html",
      "sha256": "64efac721cd18cd83379a2f99cb55c469de2b7c3abdc0e8d106506c384d6e789"
@@ -5341,6 +6523,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_9.html",
      "sha256": "5548127e3ee3e8615be2b38496c2fc32cb42060fc2dc07332868dd9b757f075b"
@@ -5355,6 +6540,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1607,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_90.html",
      "sha256": "bdaa94a0cac2fd575b55af7ff80ae6a362751cfa756608e289750f64142ccf7e"
@@ -5369,6 +6557,9 @@
    "versions": [
     {
      "from": "2026-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 74,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_90A.html",
      "sha256": "8ae7ba7bd569836608cc5f23518eee7e5f0e4b1aa593911a3c72a59fd573d05b"
@@ -5383,6 +6574,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 54,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_90B.html",
      "sha256": "a9489600feae1daf065a7d46b9858e9b5937f95b3f2c1ac218c13b8c3afc42f2"
@@ -5397,6 +6591,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_90C.html",
      "sha256": "b8dfae83a995c6c609830f8fd0197cca19e5bc0b04de86217b86f284f7fecf7f"
@@ -5411,6 +6608,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_90D.html",
      "sha256": "b08bdcef791a7d1ffd0d506356c0068e8ecaf6d32af73f71045b1c430e344d1d"
@@ -5425,6 +6625,9 @@
    "versions": [
     {
      "from": "2026-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_91.html",
      "sha256": "82b4624a0f5fc6c656d38b2e9e99d60a3abb310368fb90a331c7a958402980dd"
@@ -5439,6 +6642,9 @@
    "versions": [
     {
      "from": "2026-09-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_91A.html",
      "sha256": "8367ca6c0bb2525ece51e905aaacc312b9b1e1e690bbcf05b1d9dd7d21405591"
@@ -5453,6 +6659,9 @@
    "versions": [
     {
      "from": "2026-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_92.html",
      "sha256": "5bbbce56bcd78e763dd8f03b286b16226b85a5f70bc55ea777eff0d6e792444d"
@@ -5467,6 +6676,9 @@
    "versions": [
     {
      "from": "2026-04-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_93.html",
      "sha256": "a6dc5ec4735f3e5ed27e4d3245482045be31f7431796dafcb9b4c3497c0a0215"
@@ -5481,6 +6693,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 81,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_93A.html",
      "sha256": "7a1055cd84df910ae976b4de2c572234648a7dbfabef38ec98696d2673174050"
@@ -5495,6 +6710,9 @@
    "versions": [
     {
      "from": "2026-05-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_93B.html",
      "sha256": "8d78c2ce2ec1557867c9cf2282f72a359083d8c43b67377a00f09a61168d5215"
@@ -5509,6 +6727,9 @@
    "versions": [
     {
      "from": "2026-05-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_93C.html",
      "sha256": "92b1870dfa61dbedfa076f71daf8e6bc217059574d1fa04682b5154d37f5a870"
@@ -5523,6 +6744,9 @@
    "versions": [
     {
      "from": "2026-04-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_93D.html",
      "sha256": "8f63ec3a813d4deb1ab4995e09b23f367549c679c0a43e3576b3cf10c43f40dd"
@@ -5537,6 +6761,9 @@
    "versions": [
     {
      "from": "2026-09-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_93E.html",
      "sha256": "0832f2c4f2999445e090fd2e59aeba67f6f5fed94375f35891180cc80310a8cc"
@@ -5551,6 +6778,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_94.html",
      "sha256": "a3748cae812fc069cf4edc5a262b22a7fe36e6abb5f4951d8393505173f48f7d"
@@ -5565,6 +6795,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 314,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_95.html",
      "sha256": "3f1cd6f674b48c59f571f7f20d0f3597e0f8c37477048ababdbedfce480adf8f"
@@ -5579,6 +6812,9 @@
    "versions": [
     {
      "from": "2026-05-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 86,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_96.html",
      "sha256": "eab4e667ea892976897572c0da6020604a365c4f657c916374a8cf81e9d987ea"
@@ -5593,6 +6829,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 167,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_97.html",
      "sha256": "4f1c6ff104fab3e99acdc2e0cb4b2f8c390d5c130a052efb3ca47ba11c67e575"
@@ -5607,6 +6846,9 @@
    "versions": [
     {
      "from": "2026-05-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_98.html",
      "sha256": "0ef4ec4ec1012bb23553bfe5fe90c59bbe56906aa52ea16e03a8d42d07644a4e"
@@ -5621,6 +6863,9 @@
    "versions": [
     {
      "from": "2026-06-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99.html",
      "sha256": "e5cdf7ac8b2b0790a7eb439fca3e20cc078b457959e3918827186239158b154f"
@@ -5635,6 +6880,9 @@
    "versions": [
     {
      "from": "2026-06-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99A.html",
      "sha256": "35828fadb9927991732b8a374db6a8ab3bd286a59bfc371848b3172b7543596d"
@@ -5649,6 +6897,9 @@
    "versions": [
     {
      "from": "2026-06-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99B.html",
      "sha256": "77f19d9ffee208e103cf242770e09eb5c654562e107a8849b46e389dc5341d65"
@@ -5663,6 +6914,9 @@
    "versions": [
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99C.html",
      "sha256": "476e870c08a7e241c1f8fdc2f1a0295d6fc4b84a23b875652ac7ced1ffd2f702"
@@ -5677,6 +6931,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99D.html",
      "sha256": "12941a8a185bc91ac878004ea410e9a408a7ba3b3a7cea71a9e2ef983e15cf00"
@@ -5691,9 +6948,29 @@
    "versions": [
     {
      "from": "2026-08-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 78,
      "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99E.html",
      "sha256": "8453461b476326b1e9eafa0039c002b6761679e736d4bfc6e8c3eb53b1a2eb33"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-126a",
+   "short": "G.S. ch. 126A",
+   "title": "General Statutes Chapter 126A: North Carolina Human Resources Act",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126A.html",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 96,
+     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126A.html",
+     "sha256": "8cd74704692bec4a992147b4829ae3abc4da4f3a8df65cab126716e96d4c911f"
     }
    ]
   }

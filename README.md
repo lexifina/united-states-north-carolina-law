@@ -437,3 +437,12 @@ A version is dated by the day the Internet Archive captured the page, not by the
 ## What "author" means
 
 Each commit is authored by the publisher (North Carolina General Assembly) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.
+
+## Checked additions and corrections
+
+The corpus now includes the Constitution and all 397 chapters in the official chapter selector checked November 11, 2026. This listing coverage does not establish completeness of historical wording, legal commencement dates, archive provenance, or normative images throughout the older corpus.
+
+| Folder | Checked current text | In force | Basis |
+| --- | --- | --- | --- |
+| `chapter-126a/` | North Carolina Human Resources Act; 96 sections | 2026-10-01 | S.L. 2026-40 section 6.1 |
+| `chapter-50d/` | Permanent Civil No-Contact Order Against Sex Offender; 11 unchanged sections | 2023-08-01 | S.L. 2023-71 section 1(b) |
