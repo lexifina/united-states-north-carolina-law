@@ -1,6 +1,6 @@
 # How this repository was made (United States (North Carolina))
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -400,6 +400,9 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | North Carolina General Assembly: General Statutes Chapter 99C (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 99D (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
 | North Carolina General Assembly: General Statutes Chapter 99E (Internet Archive capture) | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_99E.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). |
+| North Carolina General Assembly, General Statutes Chapter 126A | <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_126A.html> | 2026-11-11 | North Carolina statute text is not copyrightable. |
+| North Carolina General Assembly, Session Law 2026-40 | <https://www.ncleg.gov/EnactedLegislation/SessionLaws/HTML/2025-2026/SL2026-40.html> | 2026-11-11 | North Carolina statute text is not copyrightable. |
+| North Carolina General Assembly, Session Law 2023-71 | <https://www.ncleg.gov/EnactedLegislation/SessionLaws/HTML/2023-2024/SL2023-71.html> | 2026-11-11 | North Carolina statute text is not copyrightable. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -673,7 +676,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-50a` | General Statutes Chapter 50A: Uniform Acts on Children | 1 | 2026-06-14 to 2026-06-14 |
 | `chapter-50b` | General Statutes Chapter 50B: Domestic Violence | 1 | 2026-10-09 to 2026-10-09 |
 | `chapter-50c` | General Statutes Chapter 50C: Civil No-Contact Orders | 1 | 2026-05-14 to 2026-05-14 |
-| `chapter-50d` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 2026-07-13 to 2026-07-13 |
+| `chapter-50d` | General Statutes Chapter 50D: Permanent Civil No-Contact Order Against Human Traffickers and Sex Offenders | 1 | 2023-08-01 to 2023-08-01 |
 | `chapter-51` | General Statutes Chapter 51: Marriage | 1 | 2026-09-27 to 2026-09-27 |
 | `chapter-52` | General Statutes Chapter 52: Powers and Liabilities of Married Persons | 1 | 2026-04-15 to 2026-04-15 |
 | `chapter-52a` | General Statutes Chapter 52A: Uniform Reciprocal Enforcement of Support Act | 1 | 2026-06-12 to 2026-06-12 |
@@ -804,20 +807,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-99c` | General Statutes Chapter 99C: Actions Relating to Winter Sports Safety and Accidents | 1 | 2026-06-09 to 2026-06-09 |
 | `chapter-99d` | General Statutes Chapter 99D: Civil Rights | 1 | 2026-07-16 to 2026-07-16 |
 | `chapter-99e` | General Statutes Chapter 99E: Special Liability Provisions | 1 | 2026-08-22 to 2026-08-22 |
+| `chapter-126a` | General Statutes Chapter 126A: North Carolina Human Resources Act | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 418 commits:
+The build made 420 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 397 | first version of an act |
-| 21 | one law on its in-force day |
+| 398 | baseline texts where the record starts |
+| 21 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 1 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 22 laws in the record.
-- 441 tags.
+- 442 tags.
 
 ## Dates
 
@@ -829,8 +835,8 @@ When a law gives no date of its own, the default rule applies: ncleg.gov does no
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c6346afaa0e1531a5bd6896ae28dd22cfba327294ba77d4b9981dc80bee9d7d2` (61866565 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `c297b7e438926334b013e7b93f59b7ae5e4c23a37075158e24118597373d4166` (62037828 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -1238,10 +1244,12 @@ No second build of this corpus has been compared yet.
 - General Statutes Chapter 99C: one version, dated 2026-06-09, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 99D: one version, dated 2026-07-16, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
 - General Statutes Chapter 99E: one version, dated 2026-08-22, the day of the Internet Archive capture read (the page states no currency date); one unit per section; the General Assembly's trailing history notes are dropped where the first build's pattern recognises them (others stay as the page prints them).
+- Chapter 126A: add one current-text version dated by S.L. 2026-40 section 6.1, not by retrieval day. The official chapter selector lists it, but the existing local corpus lacks it. Earlier versions are not reconstructed.
+- Chapter 50D: correct capture-day date 2026-07-13 to the latest amendment effective date, 2023-08-01, stated in S.L. 2023-71 section 1(b). The live chapter source bytes and all 11 units match the unchanged signed part exactly.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -1642,3 +1650,5 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- A model selected source/date evidence and wrote deterministic parsing code; no model wrote or changed law text.
+- A model selected the date evidence and wrote deterministic verification code; no model wrote or changed law text.
